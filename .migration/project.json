@@ -4,7 +4,11 @@
       "previewOrg": "agnesl-adobe",
       "previewSite": "jupiteram",
       "contentHostUrl": "author-p179457-e1900808.adobeaemcloud.com",
-      "baseUrl": "https://www.jupiteram.com/uk/en/individual/"
+      "baseUrl": "https://www.jupiteram.com/uk/en/individual/",
+      "aemSitePath": "/content/JupiterAM",
+      "aemAssetsFolderPath": "/content/dam/JupiterAM",
+      "aemSiteName": "JupiterAM",
+      "aemSiteTitle": "jupiteram"
     }
   }
 }

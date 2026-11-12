@@ -1,16 +1,3 @@
-import {
-  loadHeader,
-  loadFooter,
-  decorateIcons,
-  decorateSections,
-  decorateBlocks,
-  decorateTemplateAndTheme,
-  waitForFirstImage,
-  loadSection,
-  loadSections,
-  loadCSS,
-} from './aem.js';
-
 // --- BEGIN DM/Scene7 auto-block (excat-generated) ---
 
 const DM_BREAKPOINTS = [
@@ -221,7 +208,7 @@ function buildDynamicMediaImages(main) {
 // Returning null for non-DM URLs lets the caller (createOptimizedPicture)
 // fall through to its standard path-only optimization. This is the
 // regression guard for non-DM images on the same page.
-window.__dmRender__ = (src, alt) => {
+window['__dmRender__'] = (src, alt) => {
   const family = detectDynamicMediaUrl(src);
   if (!family) return null;
   return family === 'scene7'

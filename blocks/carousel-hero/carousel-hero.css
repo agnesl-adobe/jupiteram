@@ -1,0 +1,196 @@
+/* full-bleed hero: its section has no padding and no max-width */
+main > .section.carousel-hero-container {
+  padding: 0;
+}
+
+main > .section.carousel-hero-container > .carousel-hero-wrapper {
+  max-width: none;
+  padding: 0;
+}
+
+.carousel-hero {
+  color: #fff;
+  background-color: var(--dark-color);
+}
+
+.carousel-hero .carousel-hero-slides-container {
+  position: relative;
+}
+
+.carousel-hero .carousel-hero-slides,
+.carousel-hero .carousel-hero-slide-indicators {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.carousel-hero .carousel-hero-slides {
+  display: flex;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  overflow: scroll clip;
+  scrollbar-width: none;
+}
+
+.carousel-hero .carousel-hero-slides::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-hero .carousel-hero-slide {
+  flex: 0 0 100%;
+  scroll-snap-align: start;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  overflow: hidden;
+  background-color: var(--dark-color);
+}
+
+/* cover photo, cut by a large ellipse that bleeds off the top/right edge */
+.carousel-hero .carousel-hero-slide-image picture {
+  display: contents;
+}
+
+.carousel-hero .carousel-hero-slide-image img {
+  position: absolute;
+  top: -100px;
+  right: -325px;
+  z-index: 10;
+  width: 880px;
+  max-width: none;
+  height: 440px;
+  object-fit: cover;
+  clip-path: ellipse(50% 100% at 50% 0%);
+}
+
+.carousel-hero .carousel-hero-slide-content {
+  position: relative;
+  z-index: 11;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 32px;
+  box-sizing: content-box;
+  width: 75%;
+  padding: 300px 0 100px 40px;
+  color: #fff;
+}
+
+.carousel-hero .carousel-hero-slide-content > * {
+  margin: 0;
+}
+
+.carousel-hero .carousel-hero-slide-content h1,
+.carousel-hero .carousel-hero-slide-content h2 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 45px;
+}
+
+.carousel-hero .carousel-hero-dot {
+  color: #de3700;
+}
+
+.carousel-hero .carousel-hero-slide-content p {
+  color: #fff;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+/* CTA sits 40px below the text (32px gap + 8px) */
+.carousel-hero .carousel-hero-slide-content p.button-wrapper {
+  margin-top: 8px;
+}
+
+main .carousel-hero a.button:any-link {
+  padding: 16px 32px;
+  border: 2px solid var(--button-color);
+  border-radius: var(--button-radius);
+  background-color: var(--button-color);
+  color: #fff;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 24.7px;
+  letter-spacing: 1px;
+}
+
+main .carousel-hero a.button:any-link:hover,
+main .carousel-hero a.button:any-link:focus-visible {
+  border-color: var(--button-color);
+  background-color: #fff;
+  color: var(--button-color);
+}
+
+/* dot pagination */
+.carousel-hero .carousel-hero-slide-nav {
+  position: absolute;
+  top: 200px;
+  left: 40px;
+  z-index: 12;
+}
+
+.carousel-hero .carousel-hero-slide-indicators {
+  display: flex;
+  gap: 6px;
+  line-height: 0;
+}
+
+.carousel-hero .carousel-hero-slide-indicator button {
+  box-sizing: content-box;
+  width: 15px;
+  height: 15px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.carousel-hero .carousel-hero-slide-indicator button:disabled {
+  border-color: transparent;
+  background-color: #1f8fff;
+  cursor: default;
+}
+
+.carousel-hero .carousel-hero-slide-indicator button:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+@media (width >= 900px) {
+  .carousel-hero .carousel-hero-slide-image img {
+    top: -50px;
+    right: -615px;
+    width: 1700px;
+    height: 100%;
+    min-height: 100%;
+  }
+
+  .carousel-hero .carousel-hero-slide-content {
+    width: 32%;
+    min-width: 600px;
+    padding: 300px 0 160px 10%;
+  }
+
+  .carousel-hero .carousel-hero-slide-content h1,
+  .carousel-hero .carousel-hero-slide-content h2 {
+    font-size: 52px;
+    line-height: 62px;
+  }
+
+  .carousel-hero .carousel-hero-slide-nav {
+    top: 176px;
+    left: 10%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel-hero .carousel-hero-slides {
+    scroll-behavior: auto;
+  }
+}

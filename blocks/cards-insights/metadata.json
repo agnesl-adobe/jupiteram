@@ -1,0 +1,21 @@
+{
+  "variantName": "cards-insights",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "New variant (no existing variants in project): Article cards: top image, date + read time, title, author, tag pill, whole card linked | White page background (visual tree rc3, colored:false). Contains 3 pale-blue text cards with outlined CTA buttons, then 3 alternating image/text teasers with circular images, then 'Related insights' H2 and 3 article cards (image, date, read time, H4 title, author, tag pill).",
+  "contentPattern": {
+    "reason": "Dynamic list of insight articles: each item links to a detail page with a date, author and tag.",
+    "structure": {
+      "source": "/block-collection/cards",
+      "rows": "One row per card",
+      "cells": [
+        "Image (image, imageAlt); keep the cell even when empty",
+        "Text (text): heading, description, CTA"
+      ]
+    }
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Article/insight cards. One row per card: image | meta paragraph(s) (date, read time) before the heading, heading linked to the article, author paragraph, and a link-only tag paragraph rendered as a pill. The whole card is clickable through the heading link.",
+  "reuseGuidance": "Use for \"Related insights\" and other article listings. For text-only help cards use cards-info."
+}

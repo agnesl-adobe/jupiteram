@@ -1,0 +1,21 @@
+{
+  "variantName": "carousel-promo",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "New variant (no existing variants in project): Compact text-led promo slider with circular Prev/Next arrows, no full-bleed imagery | Light blue band (.cmp-fund-finder, #dbedff). Left: white panel with fund search (text input, 2 selects, 'View N results' button, 'View all funds' link). Right: text-only slider with Prev/Next circle arrows (4 slides: MyJupiter, FAQ, Wake up to UK equities, Funds in the spotlight; tab labels hidden). The two blocks sit side by side on desktop and stack on mobile.",
+  "contentPattern": {
+    "reason": "Interactive slider with Prev/Next controls and 4 slides; keep all 4 slides, including the one with an image.",
+    "structure": {
+      "source": "/block-collection/carousel",
+      "rows": "One row per slide",
+      "cells": [
+        "Image (media_image, media_imageAlt)",
+        "Text (content_text): heading, description, CTA link"
+      ]
+    }
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Compact text-led promo slider with Prev/Next circular arrow buttons. One row per slide: optional image | heading, paragraph, CTA link. Empty image cells are dropped.",
+  "reuseGuidance": "Use for short promo/announcement rotations beside other content. Not for full-bleed hero imagery (use carousel-hero)."
+}

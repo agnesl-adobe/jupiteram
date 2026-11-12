@@ -1,0 +1,60 @@
+/* Brand tokens extracted from https://www.jupiteram.com/uk/en/individual/ */
+:root {
+  /* colors */
+  --background-color: #fff;
+  --text-color: #16293f;
+  --heading-color: #002755;
+  --link-color: #006be8;
+  --link-hover-color: #002755;
+  --light-color: #dbedff;
+  --pale-color: rgb(219 237 255 / 50%);
+  --dark-color: #002755;
+  --button-color: #006be8;
+  --button-text-color: #fff;
+
+  /* fonts */
+  --body-font-family: poppins, poppins-fallback, helvetica, arial, sans-serif;
+  --heading-font-family: poppins, poppins-fallback, helvetica, arial, sans-serif;
+
+  /* body sizes */
+  --body-font-size-m: 19px;
+  --body-font-size-s: 16px;
+  --body-font-size-xs: 14px;
+  --body-line-height: 28px;
+
+  /* heading sizes (mobile) */
+  --heading-font-size-xxl: 40px;
+  --heading-font-size-xl: 40px;
+  --heading-font-size-l: 28px;
+  --heading-font-size-m: 23px;
+  --heading-font-size-s: 19px;
+  --heading-font-size-xs: 16px;
+
+  /* spacing */
+  --section-padding-block: 40px;
+  --section-padding-inline: 40px;
+  --content-max-width: 1152px;
+
+  /* buttons */
+  --button-radius: 32px;
+  --button-padding: 16px 32px;
+
+  /* nav height */
+  --nav-height: 64px;
+}
+
+@media (width >= 900px) {
+  :root {
+    /* heading sizes (desktop) */
+    --heading-font-size-xxl: 52px;
+    --heading-font-size-xl: 40px;
+    --heading-font-size-l: 28px;
+    --heading-font-size-m: 23px;
+    --heading-font-size-s: 19px;
+    --heading-font-size-xs: 16px;
+
+    /* spacing */
+    --section-padding-block: 100px;
+    --section-padding-inline: 144px;
+  }
+}

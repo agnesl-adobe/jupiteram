@@ -1,0 +1,182 @@
+/* cards-insights: values from source .cmp-cards.insightsList computed styles */
+.cards-insights {
+  color: var(--text-color);
+}
+
+.cards-insights > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+}
+
+.cards-insights .cards-insights-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  border-radius: 15px;
+  background-color: var(--background-color);
+  cursor: pointer;
+}
+
+/* image */
+.cards-insights .cards-insights-card-image {
+  position: relative;
+  overflow: hidden;
+  border-radius: 15px 15px 0 0;
+}
+
+.cards-insights .cards-insights-card-image-empty {
+  display: none;
+}
+
+.cards-insights .cards-insights-card-image p,
+.cards-insights .cards-insights-card-image picture {
+  display: block;
+  margin: 0;
+}
+
+.cards-insights .cards-insights-card-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 15px 15px 0 0;
+}
+
+.cards-insights .cards-insights-card:hover .cards-insights-card-image img {
+  transform: scale(1.2);
+}
+
+/* body */
+.cards-insights .cards-insights-card-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 8px 32px;
+  border: 2px solid #d9d9d9;
+  border-top: 0;
+  border-radius: 0 0 15px 15px;
+}
+
+.cards-insights .cards-insights-card-image-empty + .cards-insights-card-body {
+  border-top: 2px solid #d9d9d9;
+  border-radius: 15px;
+}
+
+.cards-insights .cards-insights-card-body p {
+  margin: 19px 0;
+  font-size: var(--body-font-size-m);
+  line-height: var(--body-line-height);
+  color: var(--text-color);
+}
+
+/* date + read time on one line */
+.cards-insights .cards-insights-card-meta {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  column-gap: 16px;
+}
+
+.cards-insights .cards-insights-card-body .cards-insights-card-readtime {
+  display: flex;
+  align-items: center;
+}
+
+.cards-insights .cards-insights-card-readtime::before {
+  content: '';
+  flex: 0 0 auto;
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='21' viewBox='0 0 20 21' fill='none'%3E%3Cpath fill='%2316293F' d='M18.75 10.5a8.75 8.75 0 1 1-17.5 0 8.75 8.75 0 0 1 17.5 0M0 10.5a10 10 0 1 0 20 0 10 10 0 0 0-20 0m9.375-5.625v5.625c0 .207.105.402.277.52l3.75 2.5a.625.625 0 0 0 .867-.172.625.625 0 0 0-.172-.867l-3.472-2.317V4.875a.625.625 0 0 0-1.25 0'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+
+/* title */
+.cards-insights .cards-insights-card-title {
+  margin: 20px 0 39px;
+  font-size: var(--heading-font-size-m);
+  font-weight: 600;
+  line-height: 30px;
+  color: var(--heading-color);
+}
+
+.cards-insights .cards-insights-card-title a:any-link {
+  color: inherit;
+  text-decoration: none;
+  transition: none;
+}
+
+.cards-insights .cards-insights-card:hover .cards-insights-card-title {
+  color: var(--link-color);
+}
+
+/* author + tag sit at the bottom of equal-height cards */
+.cards-insights .cards-insights-card-body .cards-insights-card-title + p {
+  margin-top: auto;
+}
+
+/* tag pill */
+.cards-insights .cards-insights-card-body .cards-insights-card-tag {
+  position: relative;
+  z-index: 1;
+  align-self: flex-start;
+  padding: 8px 16px;
+  border: 2px solid var(--heading-color);
+  border-radius: 32px;
+  font-size: var(--body-font-size-s);
+  font-weight: 600;
+  line-height: 24px;
+  text-align: center;
+  color: var(--heading-color);
+}
+
+.cards-insights .cards-insights-card-body .cards-insights-card-tag:hover {
+  background-color: var(--heading-color);
+  color: var(--button-text-color);
+}
+
+.cards-insights .cards-insights-card-tag a:any-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* stretch the primary link over the whole card */
+.cards-insights .cards-insights-card-linked .cards-insights-card-link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 15px;
+}
+
+.cards-insights .cards-insights-card-linked .cards-insights-card-link:focus-visible {
+  outline: none;
+}
+
+.cards-insights .cards-insights-card-linked .cards-insights-card-link:focus-visible::after {
+  outline: 2px solid var(--link-color);
+  outline-offset: 2px;
+}
+
+@media (width >= 900px) {
+  .cards-insights > ul {
+    padding-bottom: 0;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+  }
+
+  .cards-insights .cards-insights-card-image img {
+    height: 300px;
+    aspect-ratio: auto;
+  }
+}
+
+/* "Related insights" heading sits 32px above the cards on the source */
+main > .section > .default-content-wrapper + .cards-insights-wrapper {
+  margin-top: 32px;
+}

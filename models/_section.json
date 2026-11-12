@@ -50,7 +50,13 @@
         "hero",
         "cards",
         "columns",
-        "fragment"
+        "fragment",
+        "carousel-hero",
+        "search-fund-finder",
+        "carousel-promo",
+        "cards-info",
+        "columns-teaser",
+        "cards-insights"
       ]
     }
   ]

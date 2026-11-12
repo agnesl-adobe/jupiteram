@@ -1,0 +1,21 @@
+{
+  "variantName": "columns-teaser",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "New variant (no existing variants in project): Image/text teaser rows with large circular images, alternating sides | White page background (visual tree rc3, colored:false). Contains 3 pale-blue text cards with outlined CTA buttons, then 3 alternating image/text teasers with circular images, then 'Related insights' H2 and 3 article cards (image, date, read time, H4 title, author, tag pill).",
+  "contentPattern": {
+    "reason": "Each teaser is a fixed image + text pair side by side that never wraps into a grid; one Columns block with 3 rows, cell order keeps the left/right alternation. The bold fund name stays a strong paragraph, not a heading.",
+    "structure": {
+      "source": "/block-collection/columns",
+      "rows": "One row per teaser, same number of cells in every row",
+      "cells": [
+        "Column 1 content (image or text)",
+        "Column 2 content (text or image)"
+      ]
+    }
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Stacked image/text teaser rows with large circular images. One row per teaser, two cells each; put the image in the first or second cell to choose its side, so rows can alternate. Text cell: optional H2, bold fund name paragraph, description, CTA link.",
+  "reuseGuidance": "Use for alternating image/text fund or product teasers. For generic multi-column layouts use columns."
+}

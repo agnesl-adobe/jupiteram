@@ -1,0 +1,21 @@
+{
+  "variantName": "carousel-hero",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "New variant (no existing variants in project): Full-bleed hero slider: cover photo per slide, large H1, intro and pill CTA, dot pagination | Full-bleed hero slider (3 slides: 'The value of active minds', 'Merlin', 'Income'). Each slide has a cover photo (absolute, object-fit cover) with white H1, intro text and a blue pill CTA; dot pagination top-left, labels visually hidden. The visual tree records #002755 as colored, but the section has a photo background, so the colour belongs to the hero block and the section is not styled.",
+  "contentPattern": {
+    "reason": "Interactive rotating slider of hero slides with a photo background per slide; Carousel rows are image | text.",
+    "structure": {
+      "source": "/block-collection/carousel",
+      "rows": "One row per slide",
+      "cells": [
+        "Image (media_image, media_imageAlt)",
+        "Text (content_text): heading, description, CTA link"
+      ]
+    }
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Full-bleed hero slider at the top of a landing page. One row per slide: background image | heading (H1 on the first slide), intro paragraph and one CTA link. Dot pagination; autoplays (paused on hover/focus and for reduced motion).",
+  "reuseGuidance": "Use for rotating hero banners with a cover photo per slide. For a single static hero use the hero block; for compact text-led sliders use carousel-promo."
+}

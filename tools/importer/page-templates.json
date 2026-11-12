@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "projectType": "xwalk"
+  },
+  "templates": [
+    {
+      "name": "individual",
+      "urls": [
+        "https://www.jupiteram.com/uk/en/individual/"
+      ],
+      "representativeUrl": "https://www.jupiteram.com/uk/en/individual/",
+      "description": "Individual investor landing page: hero carousel, important notice, fund finder with promo slider, help cards, fund teasers and related insights",
+      "urlPattern": "/uk/en/*",
+      "blocks": [
+        {
+          "name": "carousel-hero",
+          "instances": [
+            ".carousel.panelcontainer.cmp-hero--kaleBright",
+            ".carousel.panelcontainer"
+          ]
+        },
+        {
+          "name": "search-fund-finder",
+          "instances": [
+            ".cmp-fund-finder .form-container",
+            "form#fundFinder.fund-finder-form"
+          ]
+        },
+        {
+          "name": "carousel-promo",
+          "instances": [
+            ".cmp-carousel.cmp-contentblock__carousel",
+            ".cmp-fund-finder .non-form-container .cmp-carousel"
+          ]
+        },
+        {
+          "name": "cards-info",
+          "instances": [
+            ".cmp-cards.defaultList",
+            ".cards.list.cmp-cards--borderlessBlue .cmp-cards"
+          ]
+        },
+        {
+          "name": "columns-teaser",
+          "instances": [
+            ".contentblock.teaser.cmp-contentblock--promoSmall"
+          ]
+        },
+        {
+          "name": "cards-insights",
+          "instances": [
+            ".cmp-cards.insightsList"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Hero carousel",
+          "selector": [
+            ".carousel.panelcontainer.cmp-hero--kaleBright",
+            ".carousel.panelcontainer"
+          ],
+          "style": null,
+          "blocks": [
+            "carousel-hero"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Important information notice",
+          "selector": [
+            ".text.carpo-bright-50"
+          ],
+          "style": "pale-blue",
+          "blocks": [],
+          "defaultContent": [
+            ".text.carpo-bright-50 .cmp-text"
+          ]
+        },
+        {
+          "id": "section-3",
+          "name": "Fund finder and MyJupiter promo",
+          "selector": [
+            ".fundfinder",
+            ".cmp-fund-finder"
+          ],
+          "style": "light-blue",
+          "blocks": [
+            "search-fund-finder",
+            "carousel-promo"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-4",
+          "name": "Help cards, fund teasers and related insights",
+          "selector": [
+            ".cards.list.cmp-cards--borderlessBlue"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-info",
+            "columns-teaser",
+            "cards-insights"
+          ],
+          "defaultContent": [
+            ".cards.list .cmp-cards-container > .cmp-text"
+          ]
+        }
+      ]
+    }
+  ]
+}

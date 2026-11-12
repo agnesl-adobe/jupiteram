@@ -1,0 +1,55 @@
+{
+  "definitions": [
+    {
+      "title": "Search Fund Finder",
+      "id": "search-fund-finder",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Search Fund Finder",
+              "model": "search-fund-finder"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "search-fund-finder",
+      "fields": [
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Intro Text",
+          "valueType": "string"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "index",
+          "value": "",
+          "label": "Fund Data URL",
+          "description": "URL of the JSON fund list (.json, data array with name, isin, assetClass, legalStructure, path)"
+        },
+        {
+          "component": "aem-content",
+          "valueType": "string",
+          "name": "link",
+          "label": "View All Funds Link"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "linkText",
+          "value": "",
+          "label": "View All Funds Link Text"
+        }
+      ]
+    }
+  ],
+  "filters": []
+}

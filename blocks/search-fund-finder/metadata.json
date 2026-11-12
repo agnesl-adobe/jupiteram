@@ -1,0 +1,20 @@
+{
+  "variantName": "search-fund-finder",
+  "baseBlock": "search",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "New variant (no existing variants in project): Fund finder panel: name/ISIN input, asset class and legal structure selects, result count button, view-all link | Light blue band (.cmp-fund-finder, #dbedff). Left: white panel with fund search (text input, 2 selects, 'View N results' button, 'View all funds' link). Right: text-only slider with Prev/Next circle arrows (4 slides: MyJupiter, FAQ, Wake up to UK equities, Funds in the spotlight; tab labels hidden). The two blocks sit side by side on desktop and stack on mobile.",
+  "contentPattern": {
+    "reason": "Interactive search and filter component (input, dropdowns, live result count), which an author cannot type as default content.",
+    "structure": {
+      "source": "/block-collection/search",
+      "rows": "One row",
+      "cells": [
+        "Absolute URL to the data/query index to search (fund list endpoint)"
+      ]
+    }
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Fund search panel: optional intro row (e.g. heading \"Search for a fund\"), a row with the fund data URL (.json with a data array of name, isin, assetClass, legalStructure, path), and a row with the \"View all funds\" link. Renders a name/ISIN input, asset class and legal structure selects, and a live \"View N results\" button that opens the all-funds page with q/assetClass/legalStructure query parameters.",
+  "reuseGuidance": "Use wherever the fund finder appears. Select options are derived from the data source, falling back to the source-site lists when no data is available."
+}

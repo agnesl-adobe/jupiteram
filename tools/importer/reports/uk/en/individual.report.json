@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.jupiteram.com/uk/en/individual/",
+  "path": "uk/en/individual",
+  "timestamp": "2026-11-12T15:28:35.707Z",
+  "title": "Home - Jupiter Asset Management",
+  "template": "individual",
+  "blocks": [
+    "carousel-hero",
+    "search-fund-finder",
+    "carousel-promo",
+    "cards-info",
+    "columns-teaser",
+    "columns-teaser",
+    "columns-teaser",
+    "cards-insights"
+  ],
+  "importScript": "cc9b58ef0489"
+}

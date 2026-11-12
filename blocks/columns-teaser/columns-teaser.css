@@ -1,0 +1,115 @@
+/* columns-teaser: image + text promo rows (source: .cmp-contentblock--promoSmall) */
+.columns-teaser {
+  color: var(--text-color);
+}
+
+/* mobile: text first, image below, 32px apart */
+.columns-teaser .columns-teaser-row {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+/* source teasers stack with 16px + 16px padding plus the image line-box descender */
+.columns-teaser .columns-teaser-row + .columns-teaser-row {
+  margin-top: 40px;
+}
+
+.columns-teaser .columns-teaser-text-col {
+  width: 100%;
+}
+
+.columns-teaser .columns-teaser-text-col > :first-child {
+  margin-top: 0;
+}
+
+.columns-teaser .columns-teaser-text-col h2 {
+  margin: 0 0 32px;
+  font-size: var(--heading-font-size-xl);
+  font-weight: 600;
+  line-height: 50px;
+  color: var(--heading-color);
+}
+
+.columns-teaser .columns-teaser-text-col p {
+  margin: 0;
+  font-size: var(--heading-font-size-m);
+  line-height: 30px;
+  color: var(--text-color);
+}
+
+.columns-teaser .columns-teaser-text-col strong {
+  font-weight: 700;
+}
+
+.columns-teaser .columns-teaser-text-col p.button-wrapper {
+  margin-top: 32px;
+}
+
+main .columns-teaser a.button:any-link {
+  padding: var(--button-padding);
+  border-radius: var(--button-radius);
+  font-size: var(--body-font-size-m);
+  font-weight: 700;
+  line-height: var(--body-line-height);
+  letter-spacing: 1px;
+}
+
+/* image stays at the source's fixed 502px circle; on narrow screens it bleeds to the viewport edges */
+.columns-teaser .columns-teaser-img-col {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  order: 1;
+  margin-inline: calc(-1 * var(--section-padding-inline));
+  overflow: hidden;
+}
+
+.columns-teaser .columns-teaser-img-col picture {
+  display: block;
+  flex: 0 0 auto;
+  width: 502px;
+  max-width: none;
+}
+
+.columns-teaser .columns-teaser-img-col img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+@media (width >= 900px) {
+  .columns-teaser .columns-teaser-row {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .columns-teaser .columns-teaser-text-col {
+    flex: 1 1 0;
+    min-width: 280px;
+  }
+
+  .columns-teaser .columns-teaser-img-col {
+    flex: 0 1 502px;
+    align-self: auto;
+    order: 0;
+    min-width: 0;
+    margin-inline: 0;
+    overflow: visible;
+  }
+
+  .columns-teaser .columns-teaser-img-col picture {
+    flex: 1 1 auto;
+    width: 100%;
+    max-width: 502px;
+  }
+}
+
+/* source teasers carry their own 100px (mobile 40px) block padding on top of the section spacing */
+main > .section > .columns-teaser-wrapper {
+  margin-block: calc(var(--section-padding-block) * 2);
+}

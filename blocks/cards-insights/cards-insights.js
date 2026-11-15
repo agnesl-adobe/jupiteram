@@ -56,6 +56,45 @@ function decorateBody(li, body) {
   }
 }
 
+// TEMPORARY (quick fix): card photos for these articles, used only when the card's own image
+// is missing or broken in the authored content (their images were lost in AEM author).
+// Remove once the photos are added to the cards in AEM author.
+const FALLBACK_CARD_IMAGES = {
+  '/uk/en/individual/insights/merlin-weekly-macro-europe-middle-powers-fight-for-relevance/':
+    'https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--98526a0a-cdd9-433f-b522-31ee4ee7ce39/Merlin13.10.2026.jpg.webp?preferwebp=true',
+  '/uk/en/individual/insights/merlin-weekly-macro-trump-trumped-what-now/':
+    'https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Half%20Overlay-Merlin-06.11.2026.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg',
+  '/uk/en/individual/insights/merlin-weekly-macro-a-complacent-budget-courts-fiscal-crisis/':
+    'https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--54c55d5e-fba9-4896-a4bb-569878835c4b/30.10.26-C-328-Merlin-Weekly-Macro-IMAGE-TILE.jpg.webp?preferwebp=true',
+};
+
+const isBrokenSrc = (src) => !src || src.startsWith('about:');
+
+/**
+ * Gives a card its fallback photo when the authored image is missing or broken.
+ */
+function applyFallbackImage(li) {
+  const link = li.querySelector('.cards-insights-card-link');
+  if (!link) return;
+  const fallback = FALLBACK_CARD_IMAGES[new URL(link.href, window.location.href).pathname];
+  if (!fallback) return;
+  let cell = li.querySelector('.cards-insights-card-image');
+  const img = cell?.querySelector('img');
+  if (img && !isBrokenSrc(img.getAttribute('src'))) return;
+  if (!cell) {
+    cell = document.createElement('div');
+    li.prepend(cell);
+  }
+  const picture = document.createElement('picture');
+  const fresh = document.createElement('img');
+  fresh.src = fallback;
+  fresh.alt = img?.alt || '';
+  fresh.loading = 'lazy';
+  picture.append(fresh);
+  cell.replaceChildren(picture);
+  cell.className = 'cards-insights-card-image';
+}
+
 export default function decorate(block) {
   const ul = document.createElement('ul');
   [...block.children].forEach((row) => {
@@ -73,6 +112,7 @@ export default function decorate(block) {
 
     const body = li.querySelector('.cards-insights-card-body');
     if (body) decorateBody(li, body);
+    applyFallbackImage(li);
     ul.append(li);
   });
 

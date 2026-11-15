@@ -20,7 +20,7 @@ async function fetchNav() {
 function resolveImages(root, base) {
   root.querySelectorAll('img[src]').forEach((img) => {
     const src = img.getAttribute('src');
-    if (!/^(https?:|data:|\/)/.test(src)) img.src = new URL(src, base).href;
+    if (!/^(https?:|data:|about:|\/)/.test(src)) img.src = new URL(src, base || window.location.href).href;
     img.loading = 'eager';
   });
 }
@@ -38,15 +38,38 @@ function classifySection(section) {
 }
 
 const FALLBACK_LOGO = '/icons/jupiter-logo.svg';
+const FALLBACK_UTILITY_ICON = '/icons/globe.svg';
 const isBrokenSrc = (src) => !src || src.startsWith('about:');
 
 /**
- * Normalizes the fragment shape: authoring tools may wrap list item content in <p>
- * and leave broken image placeholders (about:error).
+ * Normalizes the fragment shape: authoring tools may wrap list item content in <p>.
  */
 function normalizeFragment(root) {
   root.querySelectorAll('li > p').forEach((p) => p.replaceWith(...p.childNodes));
-  root.querySelectorAll('img').forEach((img) => {
+}
+
+/**
+ * Uses a fallback for broken or failing images (about:error placeholders, failed loads).
+ */
+function useFallbackImage(img, fallback) {
+  if (isBrokenSrc(img.getAttribute('src'))) img.src = fallback;
+  img.addEventListener('error', () => {
+    if (!img.src.endsWith(fallback)) img.src = fallback;
+  }, { once: true });
+}
+
+/**
+ * Utility row icons (the region globe) fall back to the icon in the code base;
+ * any other broken image placeholder in the nav is removed.
+ */
+function repairImages(nav, navUtility) {
+  if (navUtility) {
+    navUtility.querySelectorAll('img').forEach((img) => {
+      if (!img.hasAttribute('alt')) img.alt = '';
+      useFallbackImage(img, FALLBACK_UTILITY_ICON);
+    });
+  }
+  nav.querySelectorAll('img').forEach((img) => {
     if (isBrokenSrc(img.getAttribute('src')) && !img.closest('a')) img.remove();
   });
 }
@@ -64,10 +87,7 @@ function ensureLogo(navBrand) {
     link.append(img);
   }
   if (!img.getAttribute('alt')) img.alt = 'Jupiter logo';
-  if (isBrokenSrc(img.getAttribute('src'))) img.src = FALLBACK_LOGO;
-  img.addEventListener('error', () => {
-    if (!img.src.endsWith(FALLBACK_LOGO)) img.src = FALLBACK_LOGO;
-  }, { once: true });
+  useFallbackImage(img, FALLBACK_LOGO);
 }
 
 function closeAllDrops(navSections, except) {
@@ -232,6 +252,7 @@ export default async function decorate(block) {
     navBrand.classList.add('nav-logo');
     ensureLogo(navBrand);
   }
+  repairImages(nav, navUtility);
   if (navSections) decorateSections(nav, navSections);
   if (navTools) decorateSearch(navTools);
 

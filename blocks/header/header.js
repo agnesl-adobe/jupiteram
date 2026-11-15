@@ -29,11 +29,45 @@ function resolveImages(root, base) {
  * Works out what each top-level fragment section is from its content.
  */
 function classifySection(section) {
-  const links = section.querySelectorAll('a');
-  if (section.querySelector('a img')) return 'brand';
+  const links = [...section.querySelectorAll('a')];
   if (section.querySelector('ul ul') || links.length > 2) return 'sections';
   if (links.length === 0 && section.querySelector('ul')) return 'utility';
+  // the brand is a link with an image, or an image-only link whose image was dropped
+  if (links.some((a) => a.querySelector('img') || !a.textContent.trim())) return 'brand';
   return 'tools';
+}
+
+const FALLBACK_LOGO = '/icons/jupiter-logo.svg';
+const isBrokenSrc = (src) => !src || src.startsWith('about:');
+
+/**
+ * Normalizes the fragment shape: authoring tools may wrap list item content in <p>
+ * and leave broken image placeholders (about:error).
+ */
+function normalizeFragment(root) {
+  root.querySelectorAll('li > p').forEach((p) => p.replaceWith(...p.childNodes));
+  root.querySelectorAll('img').forEach((img) => {
+    if (isBrokenSrc(img.getAttribute('src')) && !img.closest('a')) img.remove();
+  });
+}
+
+/**
+ * Makes sure the brand link shows a logo: uses the fragment's image, or the logo from the
+ * code base when the image is missing, broken or fails to load.
+ */
+function ensureLogo(navBrand) {
+  const link = navBrand.querySelector('a');
+  if (!link) return;
+  let img = link.querySelector('img');
+  if (!img) {
+    img = document.createElement('img');
+    link.append(img);
+  }
+  if (!img.getAttribute('alt')) img.alt = 'Jupiter logo';
+  if (isBrokenSrc(img.getAttribute('src'))) img.src = FALLBACK_LOGO;
+  img.addEventListener('error', () => {
+    if (!img.src.endsWith(FALLBACK_LOGO)) img.src = FALLBACK_LOGO;
+  }, { once: true });
 }
 
 function closeAllDrops(navSections, except) {
@@ -176,6 +210,7 @@ export default async function decorate(block) {
 
   const fragment = document.createElement('div');
   fragment.innerHTML = navData.html;
+  normalizeFragment(fragment);
   resolveImages(fragment, navData.base);
 
   const nav = document.createElement('nav');
@@ -193,7 +228,10 @@ export default async function decorate(block) {
   const navSections = nav.querySelector('.nav-sections');
   const navTools = nav.querySelector('.nav-tools');
 
-  if (navBrand) navBrand.classList.add('nav-logo');
+  if (navBrand) {
+    navBrand.classList.add('nav-logo');
+    ensureLogo(navBrand);
+  }
   if (navSections) decorateSections(nav, navSections);
   if (navTools) decorateSearch(navTools);
 

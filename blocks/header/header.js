@@ -236,4 +236,9 @@ export default async function decorate(block) {
   navWrapper.className = 'nav-wrapper';
   navWrapper.append(navContainer);
   block.append(navWrapper);
+
+  // transparent at the very top of the page, solid once scrolled
+  const updateScrolled = () => navWrapper.classList.toggle('is-scrolled', window.scrollY > 0);
+  window.addEventListener('scroll', updateScrolled, { passive: true });
+  updateScrolled();
 }

@@ -7,10 +7,12 @@ header .nav-wrapper {
   position: fixed;
   inset: 0 0 auto;
   z-index: 100;
-  background-color: rgb(0 39 85 / 60%);
+  background-color: transparent;
   transition: background-color 0.2s ease, box-shadow 0.2s ease;
 }
 
+/* solid navy once the page is scrolled, while a dropdown is open, or with the mobile menu open */
+header .nav-wrapper.is-scrolled,
 header .nav-wrapper.is-open,
 header .nav-wrapper.is-menu-open {
   background-color: var(--dark-color);

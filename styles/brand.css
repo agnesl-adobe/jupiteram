@@ -56,5 +56,8 @@
     /* spacing */
     --section-padding-block: 100px;
     --section-padding-inline: 144px;
+
+    /* nav height: utility row + main row (shortened from the source's 159px) */
+    --nav-height: 127px;
   }
 }

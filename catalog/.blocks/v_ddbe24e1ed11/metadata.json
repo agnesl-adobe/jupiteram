@@ -1,0 +1,72 @@
+{
+  "id": "v_ddbe24e1ed11",
+  "type": "tabs",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-invest/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "dense",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "list + text + link + heading + table"
+  },
+  "layoutKey": "(T [tab] table)",
+  "colour": "(Tk [tab])",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/contact/",
+        "instanceId": "5d3c9885fa21",
+        "instanceIds": [
+          "5d3c9885fa21"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_contact--6010a885/blocks/5d3c9885fa21.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-dynamic-equity-fund/",
+        "instanceId": "015768645aca",
+        "instanceIds": [
+          "015768645aca"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-uk-dynamic-equity-fund--8e51e66e/blocks/015768645aca.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-invest/",
+        "instanceId": "346cc8edf478",
+        "instanceIds": [
+          "346cc8edf478",
+          "cc95926ff034"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_how-to-invest--49dfff13/blocks/346cc8edf478.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-sell/",
+        "instanceId": "861a98bc1d70",
+        "instanceIds": [
+          "861a98bc1d70"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_how-to-sell--504bb344/blocks/861a98bc1d70.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-switch--transfer--convert/",
+        "instanceId": "e159016bc5ac",
+        "instanceIds": [
+          "e159016bc5ac",
+          "8f7f3142e898"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_how-to-switch--transfer--convert--dc8f7d59/blocks/e159016bc5ac.jpg"
+      }
+    ],
+    "reuseCount": 5
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "text above a tab strip switching tables; panels not rendered in screenshot",
+    "mergedInto": null
+  }
+}

@@ -1,0 +1,1054 @@
+{
+  "id": "v_91cef497bd90",
+  "type": "cards",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/insights/an-open-letter-to-a-new-prime-minister/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "link + image + heading + text"
+  },
+  "layoutKey": "[[T]]",
+  "colour": "[[T|Tk]]",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/an-open-letter-to-a-new-prime-minister/",
+        "instanceId": "005b61acc0f3",
+        "instanceIds": [
+          "005b61acc0f3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_an-open-letter-to-a-new-prime-minister--8d36949f/blocks/005b61acc0f3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/introducing-the-jupiter-merlin-team/",
+        "instanceId": "b5275eeadf0b",
+        "instanceIds": [
+          "b5275eeadf0b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_introducing-the-jupiter-merlin-team--032cdbd6/blocks/b5275eeadf0b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-helpful-catalysts-for-uk-equities/",
+        "instanceId": "956285ea0545",
+        "instanceIds": [
+          "956285ea0545"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_investment-outlook-2025-helpful-catalysts-for-uk-equities--575e2a58/blocks/956285ea0545.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-staying-diversified-in-asia-pacific/",
+        "instanceId": "d37941ceb4d3",
+        "instanceIds": [
+          "d37941ceb4d3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_investment-outlook-2025-staying-diversified-in-asia-pacific--29031b63/blocks/d37941ceb4d3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-trump-agenda-has-economic-consequences/",
+        "instanceId": "12e79c0edb23",
+        "instanceIds": [
+          "12e79c0edb23"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_investment-outlook-2025-trump-agenda-has-economic-consequences--f68cf3d9/blocks/12e79c0edb23.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-uk-value-investing-through-business-transformation/",
+        "instanceId": "44ff602d0b4c",
+        "instanceIds": [
+          "44ff602d0b4c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_investment-outlook-2025-uk-value-investing-through-business-transformation--75825ca5/blocks/44ff602d0b4c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/jupiter-merlin-team-react-to-tariffs-and-market-volatility/",
+        "instanceId": "f9e05aa9c0df",
+        "instanceIds": [
+          "f9e05aa9c0df"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_jupiter-merlin-team-react-to-tariffs-and-market-volatility--70b9c852/blocks/f9e05aa9c0df.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/jupiter-merlin-weekly-hunts-budget-pleases-hardly-anyone/",
+        "instanceId": "4c4d0404f5d1",
+        "instanceIds": [
+          "4c4d0404f5d1"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_jupiter-merlin-weekly-hunts-budget-pleases-hardly-anyone--3bcf35dd/blocks/4c4d0404f5d1.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-macro-securonomics-now-you-see-it-now-you-dont/",
+        "instanceId": "1b627f8c5b01",
+        "instanceIds": [
+          "1b627f8c5b01"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-macro-securonomics-now-you-see-it-now-you-dont--4aa42e34/blocks/1b627f8c5b01.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-2024-in-retrospect/",
+        "instanceId": "129a64f0cb75",
+        "instanceIds": [
+          "129a64f0cb75"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-2024-in-retrospect--64fffb9c/blocks/129a64f0cb75.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-2026-has-begun-with-a-bang/",
+        "instanceId": "66c513efa4af",
+        "instanceIds": [
+          "66c513efa4af"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-2026-has-begun-with-a-bang--c5143722/blocks/66c513efa4af.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-24-hours-to-forget-for-the-tories/",
+        "instanceId": "a2895ea5eef4",
+        "instanceIds": [
+          "a2895ea5eef4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-24-hours-to-forget-for-the-tories--a44ebbfe/blocks/a2895ea5eef4.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-complacent-budget-courts-fiscal-crisis/",
+        "instanceId": "a6d609b9b63f",
+        "instanceIds": [
+          "a6d609b9b63f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-a-complacent-budget-courts-fiscal-crisis--330bc9af/blocks/a6d609b9b63f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-death-and-a-birthday-in-the-eu-family/",
+        "instanceId": "935220436c53",
+        "instanceIds": [
+          "935220436c53"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-a-death-and-a-birthday-in-the-eu-family--cdb44bf0/blocks/935220436c53.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-question-of-energy-security/",
+        "instanceId": "cff030d350fd",
+        "instanceIds": [
+          "cff030d350fd"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-a-question-of-energy-security--deb7d04d/blocks/cff030d350fd.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-threat-to-the-rules-based-order/",
+        "instanceId": "0a27d6119c02",
+        "instanceIds": [
+          "0a27d6119c02"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-a-threat-to-the-rules-based-order--a671c820/blocks/0a27d6119c02.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ai-mega-ipos-and-the-indexation-trap/",
+        "instanceId": "f21a9571a295",
+        "instanceIds": [
+          "f21a9571a295"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-ai-mega-ipos-and-the-indexation-trap--65c69cff/blocks/f21a9571a295.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-america-first-leaves-europe-floundering/",
+        "instanceId": "9b52621db46a",
+        "instanceIds": [
+          "9b52621db46a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-america-first-leaves-europe-floundering--d6cd0d79/blocks/9b52621db46a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-an-open-letter-to-sir-keir-starmer/",
+        "instanceId": "bc5c8185f1a0",
+        "instanceIds": [
+          "bc5c8185f1a0"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-an-open-letter-to-sir-keir-starmer--6aafe2ea/blocks/bc5c8185f1a0.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-an-unmitigated-disaster-for-mainstream-parties/",
+        "instanceId": "32ccf46362eb",
+        "instanceIds": [
+          "32ccf46362eb"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-an-unmitigated-disaster-for-mainstream-parties--2eff084d/blocks/32ccf46362eb.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-battle-of-wills-on-interest-rates/",
+        "instanceId": "4a77b74337b4",
+        "instanceIds": [
+          "4a77b74337b4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-battle-of-wills-on-interest-rates--25c69dbf/blocks/4a77b74337b4.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-brace-for-a-prolonged-oil-price-shock/",
+        "instanceId": "417bb8d8bb25",
+        "instanceIds": [
+          "417bb8d8bb25"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-brace-for-a-prolonged-oil-price-shock--4ba7e76b/blocks/417bb8d8bb25.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-britains-war-readiness-in-question/",
+        "instanceId": "205776fa708b",
+        "instanceIds": [
+          "205776fa708b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-britains-war-readiness-in-question--bd80f881/blocks/205776fa708b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-price-controls-ever-work/",
+        "instanceId": "3552dfe8af55",
+        "instanceIds": [
+          "3552dfe8af55"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-can-price-controls-ever-work--71830c79/blocks/3552dfe8af55.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-reeves-budget-change-labour-fortunes/",
+        "instanceId": "7e9a96c372e6",
+        "instanceIds": [
+          "7e9a96c372e6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-can-reeves-budget-change-labour-fortunes--18f97ab7/blocks/7e9a96c372e6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-the-us-constitution-endure-trump/",
+        "instanceId": "1acbb8a96f89",
+        "instanceIds": [
+          "1acbb8a96f89"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-can-the-us-constitution-endure-trump--eec5f563/blocks/1acbb8a96f89.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-central-bankers-in-a-bind/",
+        "instanceId": "be9e38743096",
+        "instanceIds": [
+          "be9e38743096"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-central-bankers-in-a-bind--1554b0ca/blocks/be9e38743096.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-china-russia-and-the-emerging-geopolitical-reality/",
+        "instanceId": "d6fe28e23d44",
+        "instanceIds": [
+          "d6fe28e23d44"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-china-russia-and-the-emerging-geopolitical-reality--badf230a/blocks/d6fe28e23d44.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-cooperate-or-confront-thats-the-question/",
+        "instanceId": "24ff7402a3e6",
+        "instanceIds": [
+          "24ff7402a3e6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-cooperate-or-confront-thats-the-question--b9eaaf8d/blocks/24ff7402a3e6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-dear-jeremy-dear-andrew/",
+        "instanceId": "38c8ab48f353",
+        "instanceIds": [
+          "38c8ab48f353"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-dear-jeremy-dear-andrew--649b0548/blocks/38c8ab48f353.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-addiction-poses-far-reaching-risks/",
+        "instanceId": "379f27ecfd2b",
+        "instanceIds": [
+          "379f27ecfd2b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-debt-addiction-poses-far-reaching-risks--0344e21a/blocks/379f27ecfd2b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-and-deficits-plague-the-west/",
+        "instanceId": "5bf951bae46e",
+        "instanceIds": [
+          "5bf951bae46e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-debt-and-deficits-plague-the-west--56d3675b/blocks/5bf951bae46e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-delinquency-and-manchesterism/",
+        "instanceId": "ba4e6ca0a065",
+        "instanceIds": [
+          "ba4e6ca0a065"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-debt-delinquency-and-manchesterism--0b12908c/blocks/ba4e6ca0a065.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-diplomatic-leverage-in-short-supply/",
+        "instanceId": "eadeff13bc3a",
+        "instanceIds": [
+          "eadeff13bc3a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-diplomatic-leverage-in-short-supply--dd828ee7/blocks/eadeff13bc3a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-do-you-hear-the-drums-of-discontent/",
+        "instanceId": "1070440025f4",
+        "instanceIds": [
+          "1070440025f4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-do-you-hear-the-drums-of-discontent--59140bd3/blocks/1070440025f4.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-dollar-deliberations/",
+        "instanceId": "7aebf4f1a65b",
+        "instanceIds": [
+          "7aebf4f1a65b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-dollar-deliberations--8d047080/blocks/7aebf4f1a65b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ecb-faces-hardest-interest-rate-challenge/",
+        "instanceId": "3e6bc14ac76e",
+        "instanceIds": [
+          "3e6bc14ac76e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-ecb-faces-hardest-interest-rate-challenge--c8828e45/blocks/3e6bc14ac76e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-eu-integration-and-euroscepticism/",
+        "instanceId": "a1d5f247b5b9",
+        "instanceIds": [
+          "a1d5f247b5b9"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-eu-integration-and-euroscepticism--380d3dd0/blocks/a1d5f247b5b9.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-europe-on-edge-as-putin-escalates-hybrid-warfare/",
+        "instanceId": "0f4b3f6ebbda",
+        "instanceIds": [
+          "0f4b3f6ebbda"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-europe-on-edge-as-putin-escalates-hybrid-warfare--39096025/blocks/0f4b3f6ebbda.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-european-powers-on-shaky-political-ground/",
+        "instanceId": "58aa409da9ba",
+        "instanceIds": [
+          "58aa409da9ba"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-european-powers-on-shaky-political-ground--c98c9016/blocks/58aa409da9ba.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-fiscal-folly-global-tensions-drive-debt-costs-up/",
+        "instanceId": "a38c909ac718",
+        "instanceIds": [
+          "a38c909ac718"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-fiscal-folly-global-tensions-drive-debt-costs-up--71880283/blocks/a38c909ac718.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-fishing-for-answers-at-jackson-hole/",
+        "instanceId": "7dbbf836b16d",
+        "instanceIds": [
+          "7dbbf836b16d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-fishing-for-answers-at-jackson-hole--e75a0423/blocks/7dbbf836b16d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-france-fiscal-woes-rattle-bond-investors/",
+        "instanceId": "5ce793f75409",
+        "instanceIds": [
+          "5ce793f75409"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-france-fiscal-woes-rattle-bond-investors--0ec8d7b5/blocks/5ce793f75409.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-france-germany-debt-rises-government-falls/",
+        "instanceId": "eb414858515a",
+        "instanceIds": [
+          "eb414858515a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-france-germany-debt-rises-government-falls--95ddee74/blocks/eb414858515a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-frances-fiscal-woes-expose-eurozone-faultlines/",
+        "instanceId": "237404a68c50",
+        "instanceIds": [
+          "237404a68c50"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-frances-fiscal-woes-expose-eurozone-faultlines--b7db2ac6/blocks/237404a68c50.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-german-elections-have-seismic-ramifications/",
+        "instanceId": "f8f0e68f1fc3",
+        "instanceIds": [
+          "f8f0e68f1fc3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-german-elections-have-seismic-ramifications--f1afba7a/blocks/f8f0e68f1fc3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-germany-is-back-or-is-it/",
+        "instanceId": "b4bf8e36d48f",
+        "instanceIds": [
+          "b4bf8e36d48f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-germany-is-back-or-is-it--30a79d34/blocks/b4bf8e36d48f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-germany-political-polarisation/",
+        "instanceId": "3d8569b5df35",
+        "instanceIds": [
+          "3d8569b5df35"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-germany-political-polarisation--ccb87a92/blocks/3d8569b5df35.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-government-requires-effective-challenge/",
+        "instanceId": "da91f78b8a15",
+        "instanceIds": [
+          "da91f78b8a15"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-government-requires-effective-challenge--8e12c2b0/blocks/da91f78b8a15.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-grappling-with-the-cost-of-living-crisis/",
+        "instanceId": "4e4fc5cef6da",
+        "instanceIds": [
+          "4e4fc5cef6da"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-grappling-with-the-cost-of-living-crisis--9f88e81d/blocks/4e4fc5cef6da.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-have-labour-painted-themselves-into-a-corner/",
+        "instanceId": "ae3d43efe02f",
+        "instanceIds": [
+          "ae3d43efe02f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-have-labour-painted-themselves-into-a-corner--c81e8f43/blocks/ae3d43efe02f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-heres-donny-trump-davos/",
+        "instanceId": "7f2d28026380",
+        "instanceIds": [
+          "7f2d28026380"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-heres-donny-trump-davos--683ea111/blocks/7f2d28026380.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-how-clean-can-electricity-become/",
+        "instanceId": "7eca7dee9189",
+        "instanceIds": [
+          "7eca7dee9189"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-how-clean-can-electricity-become--5a72ee37/blocks/7eca7dee9189.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ibm-tells-a-tale-of-our-times/",
+        "instanceId": "bcc312fb2579",
+        "instanceIds": [
+          "bcc312fb2579"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-ibm-tells-a-tale-of-our-times--2fb11e68/blocks/bcc312fb2579.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-interpreting-the-feds-policy-signals/",
+        "instanceId": "6c752e0e57d2",
+        "instanceIds": [
+          "6c752e0e57d2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-interpreting-the-feds-policy-signals--dde4ea5d/blocks/6c752e0e57d2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-labour-heading-in-the-wrong-direction/",
+        "instanceId": "c477e8c51b0d",
+        "instanceIds": [
+          "c477e8c51b0d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-labour-heading-in-the-wrong-direction--43e76a82/blocks/c477e8c51b0d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-nato-really-as-united-as-it-claims/",
+        "instanceId": "fac6703b291b",
+        "instanceIds": [
+          "fac6703b291b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-nato-really-as-united-as-it-claims--7786bb26/blocks/fac6703b291b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-reform-ready-to-govern/",
+        "instanceId": "a10a0ce900d8",
+        "instanceIds": [
+          "a10a0ce900d8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-reform-ready-to-govern--23348491/blocks/a10a0ce900d8.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-starmer-eu-reset-good-deal/",
+        "instanceId": "3c6c5c033915",
+        "instanceIds": [
+          "3c6c5c033915"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-starmer-eu-reset-good-deal--068487e4/blocks/3c6c5c033915.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-the-uk-government-all-at-sea-on-growth/",
+        "instanceId": "5224a35c647e",
+        "instanceIds": [
+          "5224a35c647e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-the-uk-government-all-at-sea-on-growth--749fada4/blocks/5224a35c647e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-there-method-to-trumps-madness/",
+        "instanceId": "0237211d314b",
+        "instanceIds": [
+          "0237211d314b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-there-method-to-trumps-madness--00a4c3c7/blocks/0237211d314b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-trumps-ire-with-europes-democracy-justified/",
+        "instanceId": "50eb32852eb9",
+        "instanceIds": [
+          "50eb32852eb9"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-trumps-ire-with-europes-democracy-justified--9d6aa1e7/blocks/50eb32852eb9.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-its-the-economy/",
+        "instanceId": "22c4f0b39135",
+        "instanceIds": [
+          "22c4f0b39135"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-its-the-economy--9e4d3fd5/blocks/22c4f0b39135.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-just-how-stupid-are-we/",
+        "instanceId": "5419e6332902",
+        "instanceIds": [
+          "5419e6332902"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-just-how-stupid-are-we--23a6e11a/blocks/5419e6332902.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-conference-marks-a-socialist-turn/",
+        "instanceId": "098ab269079e",
+        "instanceIds": [
+          "098ab269079e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-labour-conference-marks-a-socialist-turn--b0f21b12/blocks/098ab269079e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-paralysed-as-economic-faultlines-widen/",
+        "instanceId": "e440a8df39ca",
+        "instanceIds": [
+          "e440a8df39ca"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-labour-paralysed-as-economic-faultlines-widen--8232b586/blocks/e440a8df39ca.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-promises-in-tatters/",
+        "instanceId": "c9007aff9450",
+        "instanceIds": [
+          "c9007aff9450"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-labour-promises-in-tatters--29bcbedc/blocks/c9007aff9450.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labours-backbenchers-in-the-fiscal-driving-seat/",
+        "instanceId": "971db0a5fd15",
+        "instanceIds": [
+          "971db0a5fd15"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-labours-backbenchers-in-the-fiscal-driving-seat--231c90c8/blocks/971db0a5fd15.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-markets-sanguine-even-as-geopolitical-risks-rise/",
+        "instanceId": "b6e2374bb6fa",
+        "instanceIds": [
+          "b6e2374bb6fa"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-markets-sanguine-even-as-geopolitical-risks-rise--5a245199/blocks/b6e2374bb6fa.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-natos-disunited-band-of-brothers/",
+        "instanceId": "0d0e3dac7d88",
+        "instanceIds": [
+          "0d0e3dac7d88"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-natos-disunited-band-of-brothers--429d6e58/blocks/0d0e3dac7d88.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-no-end-in-sight-for-the-gulf-war/",
+        "instanceId": "e6f04e75761e",
+        "instanceIds": [
+          "e6f04e75761e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-no-end-in-sight-for-the-gulf-war--60544c8c/blocks/e6f04e75761e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-of-office-without-power-and-power-without-office/",
+        "instanceId": "168dcf28baa6",
+        "instanceIds": [
+          "168dcf28baa6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-of-office-without-power-and-power-without-office--0acda0e8/blocks/168dcf28baa6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-old-challenges-for-any-new-government/",
+        "instanceId": "652412dd4541",
+        "instanceIds": [
+          "652412dd4541"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-old-challenges-for-any-new-government--65554ff2/blocks/652412dd4541.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-on-tax-the-devil-is-in-the-detail/",
+        "instanceId": "bc1a91b71257",
+        "instanceIds": [
+          "bc1a91b71257"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-on-tax-the-devil-is-in-the-detail--c8360070/blocks/bc1a91b71257.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-political-avalanche-hits-davos/",
+        "instanceId": "ea38fcf68163",
+        "instanceIds": [
+          "ea38fcf68163"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-political-avalanche-hits-davos--5565df77/blocks/ea38fcf68163.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-prince-of-darkness-casts-pall-of-doom-and-gloom/",
+        "instanceId": "408236703d76",
+        "instanceIds": [
+          "408236703d76"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-prince-of-darkness-casts-pall-of-doom-and-gloom--f1bdb125/blocks/408236703d76.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-problems-mount-at-11-downing-street/",
+        "instanceId": "96cc70309728",
+        "instanceIds": [
+          "96cc70309728"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-problems-mount-at-11-downing-street--4643cd75/blocks/96cc70309728.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-rachel-through-the-looking-glass/",
+        "instanceId": "dea9165b3888",
+        "instanceIds": [
+          "dea9165b3888"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-rachel-through-the-looking-glass--feb5d141/blocks/dea9165b3888.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-raging-wars-calm-markets/",
+        "instanceId": "d2bc084e4fd3",
+        "instanceIds": [
+          "d2bc084e4fd3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-raging-wars-calm-markets--4d94f78d/blocks/d2bc084e4fd3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-a-budget-bind/",
+        "instanceId": "25f0e4d671d7",
+        "instanceIds": [
+          "25f0e4d671d7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-reeves-in-a-budget-bind--6fdb5542/blocks/25f0e4d671d7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-fiscal-fantasy-land/",
+        "instanceId": "ce1237591d5e",
+        "instanceIds": [
+          "ce1237591d5e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-reeves-in-fiscal-fantasy-land--f4d4d852/blocks/ce1237591d5e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-tears-uk-fiscal-plan-in-tatters/",
+        "instanceId": "8ef7e8c67e86",
+        "instanceIds": [
+          "8ef7e8c67e86"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-reeves-in-tears-uk-fiscal-plan-in-tatters--a20b7c30/blocks/8ef7e8c67e86.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-should-you-be-worried-about-german-politics/",
+        "instanceId": "ccea8e37c054",
+        "instanceIds": [
+          "ccea8e37c054"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-should-you-be-worried-about-german-politics--8e39b805/blocks/ccea8e37c054.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-spotlight-on-labours-economic-plan/",
+        "instanceId": "5fb389acad27",
+        "instanceIds": [
+          "5fb389acad27"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-spotlight-on-labours-economic-plan--5ec4ad2a/blocks/5fb389acad27.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-defence-plan-falls-apart/",
+        "instanceId": "4f274a8bf8f0",
+        "instanceIds": [
+          "4f274a8bf8f0"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-starmer-defence-plan-falls-apart--c67a2c11/blocks/4f274a8bf8f0.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-defence-spending-conundrum/",
+        "instanceId": "8bcde0981b56",
+        "instanceIds": [
+          "8bcde0981b56"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-starmer-defence-spending-conundrum--b204fbd0/blocks/8bcde0981b56.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-on-the-brink-trump-iran-gamble/",
+        "instanceId": "c7d275c00309",
+        "instanceIds": [
+          "c7d275c00309"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-starmer-on-the-brink-trump-iran-gamble--3cf6e258/blocks/c7d275c00309.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-stock-markets-get-the-jitters/",
+        "instanceId": "e31ad2de38d2",
+        "instanceIds": [
+          "e31ad2de38d2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-stock-markets-get-the-jitters--bb3584c2/blocks/e31ad2de38d2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-sunak-talks-tough-on-defence/",
+        "instanceId": "a5986582a825",
+        "instanceIds": [
+          "a5986582a825"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-sunak-talks-tough-on-defence--5359b4e7/blocks/a5986582a825.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-taxonomy-of-the-uk-political-scene/",
+        "instanceId": "78ca9cb5eddc",
+        "instanceIds": [
+          "78ca9cb5eddc"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-taxonomy-of-the-uk-political-scene--35f0f15c/blocks/78ca9cb5eddc.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-art-of-being-both-in-office-and-in-opposition/",
+        "instanceId": "64791c1c1b04",
+        "instanceIds": [
+          "64791c1c1b04"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-art-of-being-both-in-office-and-in-opposition--208845c9/blocks/64791c1c1b04.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-countdown-to-5th-november/",
+        "instanceId": "aafa1228fa15",
+        "instanceIds": [
+          "aafa1228fa15"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-countdown-to-5th-november--1a9c29ef/blocks/aafa1228fa15.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-election-race-is-on/",
+        "instanceId": "bd9765c3d2ad",
+        "instanceIds": [
+          "bd9765c3d2ad"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-election-race-is-on--0225e291/blocks/bd9765c3d2ad.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-fed-lumbers-out-of-the-traps/",
+        "instanceId": "47227c133b96",
+        "instanceIds": [
+          "47227c133b96"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-fed-lumbers-out-of-the-traps--b541dedf/blocks/47227c133b96.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-gulf-war-has-let-the-inflation-genie-out/",
+        "instanceId": "573ddd92b737",
+        "instanceIds": [
+          "573ddd92b737"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-gulf-war-has-let-the-inflation-genie-out--b5735b15/blocks/573ddd92b737.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-high-stakes-energy-security-game/",
+        "instanceId": "1e2844cb2461",
+        "instanceIds": [
+          "1e2844cb2461"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-high-stakes-energy-security-game--e8b24b3f/blocks/1e2844cb2461.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-myth-and-reality-of-brexit/",
+        "instanceId": "1d95dbe8d135",
+        "instanceIds": [
+          "1d95dbe8d135"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-myth-and-reality-of-brexit--6368e05c/blocks/1d95dbe8d135.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-rehabilitation-of-the-iron-lady/",
+        "instanceId": "6e733ba4b143",
+        "instanceIds": [
+          "6e733ba4b143"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-rehabilitation-of-the-iron-lady--1440de41/blocks/6e733ba4b143.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-uk-debt-problem-makes-it-vulnerable/",
+        "instanceId": "e433627ed855",
+        "instanceIds": [
+          "e433627ed855"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-uk-debt-problem-makes-it-vulnerable--8474033d/blocks/e433627ed855.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-wests-diplomacy-has-failed-ukraine/",
+        "instanceId": "520773e215d2",
+        "instanceIds": [
+          "520773e215d2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-wests-diplomacy-has-failed-ukraine--eafd1b9b/blocks/520773e215d2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-yen-intervention-conundrum/",
+        "instanceId": "45a2161ebed1",
+        "instanceIds": [
+          "45a2161ebed1"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-yen-intervention-conundrum--f9a9fbd0/blocks/45a2161ebed1.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-think-like-a-ukrainian/",
+        "instanceId": "ff8cb076667a",
+        "instanceIds": [
+          "ff8cb076667a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-think-like-a-ukrainian--5ed5de35/blocks/ff8cb076667a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-this-blue-and-pleasant-land/",
+        "instanceId": "a2edda922e85",
+        "instanceIds": [
+          "a2edda922e85"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-this-blue-and-pleasant-land--e26e8044/blocks/a2edda922e85.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-tinkering-at-the-edges-of-the-uk-economy/",
+        "instanceId": "f4620d1c5fd7",
+        "instanceIds": [
+          "f4620d1c5fd7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-tinkering-at-the-edges-of-the-uk-economy--95ad717a/blocks/f4620d1c5fd7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-and-the-new-world-disorder/",
+        "instanceId": "e6b838ee8a9b",
+        "instanceIds": [
+          "e6b838ee8a9b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-and-the-new-world-disorder--6e64f2f5/blocks/e6b838ee8a9b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-faces-congressional-challenge-over-iran-war/",
+        "instanceId": "d097f7ca0071",
+        "instanceIds": [
+          "d097f7ca0071"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-faces-congressional-challenge-over-iran-war--05357c69/blocks/d097f7ca0071.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-faces-heat-before-mid-term-elections/",
+        "instanceId": "319afbaeb7bd",
+        "instanceIds": [
+          "319afbaeb7bd"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-faces-heat-before-mid-term-elections--34ead148/blocks/319afbaeb7bd.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-follows-through-on-tariff-pledge/",
+        "instanceId": "f3cd4d28caa3",
+        "instanceIds": [
+          "f3cd4d28caa3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-follows-through-on-tariff-pledge--33161f73/blocks/f3cd4d28caa3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-is-using-tariffs-as-political-levers/",
+        "instanceId": "38893d5a9eca",
+        "instanceIds": [
+          "38893d5a9eca"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-is-using-tariffs-as-political-levers--adaad7e7/blocks/38893d5a9eca.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-putin-setbacks-heighten-geopolitical-risk/",
+        "instanceId": "c7b07f2736de",
+        "instanceIds": [
+          "c7b07f2736de"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-putin-setbacks-heighten-geopolitical-risk--907b0e6d/blocks/c7b07f2736de.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-reeves-macron-have-big-debt-problems/",
+        "instanceId": "0a1614a17a05",
+        "instanceIds": [
+          "0a1614a17a05"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-reeves-macron-have-big-debt-problems--326d9965/blocks/0a1614a17a05.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-trumped-what-now/",
+        "instanceId": "34b94100dc72",
+        "instanceIds": [
+          "34b94100dc72"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-trumped-what-now--8ef052fc/blocks/34b94100dc72.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-unpredictability-upends-global-norms/",
+        "instanceId": "25a1d253b461",
+        "instanceIds": [
+          "25a1d253b461"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-unpredictability-upends-global-norms--c7088af3/blocks/25a1d253b461.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-wayward-ways-undermine-america-first/",
+        "instanceId": "e236a916cb05",
+        "instanceIds": [
+          "e236a916cb05"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-wayward-ways-undermine-america-first--cacb4df1/blocks/e236a916cb05.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trumps-mixed-signals-fuel-volatility/",
+        "instanceId": "912111894899",
+        "instanceIds": [
+          "912111894899"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trumps-mixed-signals-fuel-volatility--7dc0a0e5/blocks/912111894899.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ukraine-and-the-great-game-of-geopolitical-poker/",
+        "instanceId": "cc2ef4c3c1ba",
+        "instanceIds": [
+          "cc2ef4c3c1ba"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-ukraine-and-the-great-game-of-geopolitical-poker--d1111264/blocks/cc2ef4c3c1ba.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-urgency-and-energy-needed-on-defence-spending/",
+        "instanceId": "d355992a0d4d",
+        "instanceIds": [
+          "d355992a0d4d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-urgency-and-energy-needed-on-defence-spending--d4f4c58e/blocks/d355992a0d4d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-us-inflation-moves-stubbornly-sideways/",
+        "instanceId": "ca397e817caf",
+        "instanceIds": [
+          "ca397e817caf"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-us-inflation-moves-stubbornly-sideways--d619ce01/blocks/ca397e817caf.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-vj-day-whats-at-stake-ukraine/",
+        "instanceId": "6e3a4ea43718",
+        "instanceIds": [
+          "6e3a4ea43718"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-vj-day-whats-at-stake-ukraine--5e042da8/blocks/6e3a4ea43718.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-welfare-expansion-and-the-uks-politics-of-envy/",
+        "instanceId": "ab7786590766",
+        "instanceIds": [
+          "ab7786590766"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-welfare-expansion-and-the-uks-politics-of-envy--cb7222e5/blocks/ab7786590766.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-when-smart-finance-leads-to-stupid-outcomes/",
+        "instanceId": "4d60a2e5b1b7",
+        "instanceIds": [
+          "4d60a2e5b1b7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-when-smart-finance-leads-to-stupid-outcomes--650b7fdb/blocks/4d60a2e5b1b7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-whos-not-afraid-of-donald-trump/",
+        "instanceId": "6cd72c2c7ea7",
+        "instanceIds": [
+          "6cd72c2c7ea7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-whos-not-afraid-of-donald-trump--9140120d/blocks/6cd72c2c7ea7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-why-are-markets-acting-so-calmly/",
+        "instanceId": "80a68debd09f",
+        "instanceIds": [
+          "80a68debd09f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-why-are-markets-acting-so-calmly--113d83c7/blocks/80a68debd09f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-will-trump-deadlines-sour-the-summer-party/",
+        "instanceId": "debb080e4eaf",
+        "instanceIds": [
+          "debb080e4eaf"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-will-trump-deadlines-sour-the-summer-party--bbc51216/blocks/debb080e4eaf.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-winners-and-losers-trump-tariff-game/",
+        "instanceId": "6c4d19e91cf8",
+        "instanceIds": [
+          "6c4d19e91cf8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-winners-and-losers-trump-tariff-game--7cf426bd/blocks/6c4d19e91cf8.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-writing-joe-bidens-report-card/",
+        "instanceId": "73abe10facb0",
+        "instanceIds": [
+          "73abe10facb0"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-writing-joe-bidens-report-card--cc2eb5a3/blocks/73abe10facb0.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/on-our-bookshelf-the-merlin-teams-spring-reading/",
+        "instanceId": "3140645e3263",
+        "instanceIds": [
+          "3140645e3263"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_on-our-bookshelf-the-merlin-teams-spring-reading--59a8fde4/blocks/3140645e3263.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/outlook-2026-trump-backed-into-corner-debt-still-dominates/",
+        "instanceId": "c56d16a117fe",
+        "instanceIds": [
+          "c56d16a117fe"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_outlook-2026-trump-backed-into-corner-debt-still-dominates--66e2ff57/blocks/c56d16a117fe.jpg"
+      }
+    ],
+    "reuseCount": 128
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "look-alike person items: headshot, name and role, count varies",
+    "mergedInto": null
+  }
+}

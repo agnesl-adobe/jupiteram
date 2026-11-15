@@ -1,0 +1,46 @@
+{
+  "id": "v_57b7eebce651",
+  "type": "table",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/jupiter-green-investment-trust-plc/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "dense",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "heading + link + button + table + text"
+  },
+  "layoutKey": "(T button table)",
+  "colour": "(Tk button table)",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-green-investment-trust-plc/",
+        "instanceId": "154eeb77ffba",
+        "instanceIds": [
+          "154eeb77ffba"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-green-investment-trust-plc--7fbef415/blocks/154eeb77ffba.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/historical-assessment-of-value-reports/",
+        "instanceId": "e8954533c5a5",
+        "instanceIds": [
+          "e8954533c5a5"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_historical-assessment-of-value-reports--9d20d0a9/blocks/e8954533c5a5.jpg"
+      }
+    ],
+    "reuseCount": 2
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "heading over a table of report links; screenshot blank, could be an accordion by year",
+    "mergedInto": "v_2b3169f9c2a3"
+  }
+}

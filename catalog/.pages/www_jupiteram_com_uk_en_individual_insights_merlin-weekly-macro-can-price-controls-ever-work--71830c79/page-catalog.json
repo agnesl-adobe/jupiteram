@@ -1,0 +1,1335 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-price-controls-ever-work/",
+  "title": "Merlin Weekly Macro: Can price controls ever work? - Jupiter Asset Management",
+  "timestamp": "2026-11-12T15:05:59.438Z",
+  "duration": "13.8s",
+  "cleanup": {
+    "elementsRemoved": 5,
+    "types": [
+      "overlay",
+      "cookie-banner",
+      "popup"
+    ],
+    "cookieConsentDismissed": true,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#onetrust-banner-sdk",
+        "type": "overlay"
+      },
+      {
+        "selector": "#onetrust-style",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "#onetrust-consent-sdk",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "div.cce-backdropoverlay",
+        "type": "popup",
+        "rule": "body [class*=\"overlay\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/Header_logo_125x45px.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/JUP-3128_Merlin_Wekly_Macro_30.08.24?ts=1731497483029&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--cb03a55d-fe21-447e-8a5c-a2f1031ef625/john_chatfeildroberts_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--2dd84a05-2850-46f3-b0ca-2632d982fda7/amanda_sillars_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--faeeac97-f33c-4cc5-801a-1b2a0c37e5da/david_lewis_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--2ccc459c-d909-4663-8571-0bbda4fc5f5d/alastair_irvine_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--b43148eb-1710-4c11-85cb-8ad667bd8c5b/george_fox_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--d9fd1dc9-cbbe-4a7f-bf56-4416236625c6/venetia-campbell_rgb_850x800px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Half%20Overlay-Merlin-06.11.2026.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--54c55d5e-fba9-4896-a4bb-569878835c4b/30.10.26-C-328-Merlin-Weekly-Macro-IMAGE-TILE.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--3b84293d-d3f3-4ef1-9530-3e80bbcee596/23.10.2026Merlin.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/footer-logo-v2.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/close-popup.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/select-dropdown.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_UK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Austria.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Belguim.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Brunei.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_China.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Denmark.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Finland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_France.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Germany.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_HK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Iceland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_ireland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Italy.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Japan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Korea.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lichenstein.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lux.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Malyasia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Netherlands.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Norway.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Pillapenes.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Portugal.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Singapore.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Spain.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Sweden.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Swiss.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Taiwan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_US.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/US_Latam.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Thai.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Australia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-dropdown-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-glob-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/search-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/calendar-icon-white.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/clock-icon-white.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/linkedin-no-circle.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/printer-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/clock-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/drop-down.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/globe.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-right.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/linkedin.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/external-icon.svg",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s(sB,s(s,s,s,s,s,s),s))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(2)",
+      "rc2c2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.tags.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c4": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderedWhite.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c5": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.experiencefragment.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(5)",
+      "rc2c2c6": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.experiencefragment.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(6)",
+      "rc2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content",
+        "background": "#002755",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero"
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc4",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 0,
+      "height": 13264.375
+    },
+    "splits": [],
+    "start": {
+      "kind": "heading",
+      "look": {
+        "font": "Poppins, Helvetica, Arial, sans-serif",
+        "color": "rgb(255, 255, 255)",
+        "align": "start"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "38f08679b9d8",
+      "type": "default-content",
+      "detectionTier": 2,
+      "selector": "#container-516b8c8e95 > div > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 847
+      },
+      "visualChars": {
+        "colorScheme": "dark",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "image + list + link + heading"
+      },
+      "description": "hero",
+      "features": {
+        "skeleton": "(nav T [~@(T)])",
+        "variant": "(nav Tw [~@(Tw)])",
+        "variantClean": "(nav Tk [~@(Tk)])"
+      },
+      "screenshot": null,
+      "html": "blocks/38f08679b9d8.html"
+    },
+    {
+      "id": "b46e95cddce0",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(1)",
+      "bounds": {
+        "x": 410,
+        "y": 977,
+        "width": 620,
+        "height": 224
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/b46e95cddce0.html"
+    },
+    {
+      "id": "7f40366c7571",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(2)",
+      "bounds": {
+        "x": 410,
+        "y": 1225,
+        "width": 620,
+        "height": 280
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/7f40366c7571.html"
+    },
+    {
+      "id": "4ff9a8838776",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(3)",
+      "bounds": {
+        "x": 410,
+        "y": 1529,
+        "width": 620,
+        "height": 252
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/4ff9a8838776.html"
+    },
+    {
+      "id": "b2c9f8e0816a",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > h2:nth-child(4)",
+      "bounds": {
+        "x": 410,
+        "y": 1805,
+        "width": 620,
+        "height": 100
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/b2c9f8e0816a.html"
+    },
+    {
+      "id": "977ef7929e6e",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(5)",
+      "bounds": {
+        "x": 410,
+        "y": 1929,
+        "width": 620,
+        "height": 112
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/977ef7929e6e.html"
+    },
+    {
+      "id": "fa6e8f426e83",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(6)",
+      "bounds": {
+        "x": 410,
+        "y": 2065,
+        "width": 620,
+        "height": 448
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/fa6e8f426e83.html"
+    },
+    {
+      "id": "a62ec9ffeb6e",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(7)",
+      "bounds": {
+        "x": 410,
+        "y": 2537,
+        "width": 620,
+        "height": 672
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/a62ec9ffeb6e.html"
+    },
+    {
+      "id": "13957832dfc8",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(8)",
+      "bounds": {
+        "x": 410,
+        "y": 3233,
+        "width": 620,
+        "height": 196
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/13957832dfc8.html"
+    },
+    {
+      "id": "493bc196f3b1",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(9)",
+      "bounds": {
+        "x": 410,
+        "y": 3453,
+        "width": 620,
+        "height": 756
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/493bc196f3b1.html"
+    },
+    {
+      "id": "9b5fd43bdaac",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > h2:nth-child(10)",
+      "bounds": {
+        "x": 410,
+        "y": 4233,
+        "width": 620,
+        "height": 100
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/9b5fd43bdaac.html"
+    },
+    {
+      "id": "924f6959c210",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(11)",
+      "bounds": {
+        "x": 410,
+        "y": 4357,
+        "width": 620,
+        "height": 364
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/924f6959c210.html"
+    },
+    {
+      "id": "8bb53cdca51f",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(12)",
+      "bounds": {
+        "x": 410,
+        "y": 4745,
+        "width": 620,
+        "height": 448
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/8bb53cdca51f.html"
+    },
+    {
+      "id": "88f5e62135a0",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(13)",
+      "bounds": {
+        "x": 410,
+        "y": 5217,
+        "width": 620,
+        "height": 280
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/88f5e62135a0.html"
+    },
+    {
+      "id": "56cd1ba3938c",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > table",
+      "bounds": {
+        "x": 410,
+        "y": 5521,
+        "width": 620,
+        "height": 861
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "table"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "table",
+        "variant": "table",
+        "variantClean": "table"
+      },
+      "screenshot": "blocks/56cd1ba3938c.jpg",
+      "html": "blocks/56cd1ba3938c.html",
+      "variantId": "v_2b3169f9c2a3"
+    },
+    {
+      "id": "20c73d378e78",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(15)",
+      "bounds": {
+        "x": 410,
+        "y": 6406,
+        "width": 620,
+        "height": 28
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/20c73d378e78.html"
+    },
+    {
+      "id": "fd5d4b3d7ae9",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(16)",
+      "bounds": {
+        "x": 410,
+        "y": 6458,
+        "width": 620,
+        "height": 84
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/fd5d4b3d7ae9.html"
+    },
+    {
+      "id": "a9f570d33f15",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(17)",
+      "bounds": {
+        "x": 410,
+        "y": 6566,
+        "width": 620,
+        "height": 252
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/a9f570d33f15.html"
+    },
+    {
+      "id": "52b451563c9c",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(18)",
+      "bounds": {
+        "x": 410,
+        "y": 6842,
+        "width": 620,
+        "height": 336
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/52b451563c9c.html"
+    },
+    {
+      "id": "1a3c9215e46b",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(19)",
+      "bounds": {
+        "x": 410,
+        "y": 7202,
+        "width": 620,
+        "height": 168
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/1a3c9215e46b.html"
+    },
+    {
+      "id": "a9b4de9c4e67",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(20)",
+      "bounds": {
+        "x": 410,
+        "y": 7394,
+        "width": 620,
+        "height": 112
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/a9b4de9c4e67.html"
+    },
+    {
+      "id": "a7b30c8680bb",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(21)",
+      "bounds": {
+        "x": 410,
+        "y": 7530,
+        "width": 620,
+        "height": 196
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/a7b30c8680bb.html"
+    },
+    {
+      "id": "77c35e801721",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > h2:nth-child(22)",
+      "bounds": {
+        "x": 410,
+        "y": 7750,
+        "width": 620,
+        "height": 150
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/77c35e801721.html"
+    },
+    {
+      "id": "02680c17eab2",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(23)",
+      "bounds": {
+        "x": 410,
+        "y": 7924,
+        "width": 620,
+        "height": 392
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/02680c17eab2.html"
+    },
+    {
+      "id": "2c50bdd9a6f9",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(24)",
+      "bounds": {
+        "x": 410,
+        "y": 8340,
+        "width": 620,
+        "height": 616
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/2c50bdd9a6f9.html"
+    },
+    {
+      "id": "0418e99acc79",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > h2:nth-child(25)",
+      "bounds": {
+        "x": 410,
+        "y": 8980,
+        "width": 620,
+        "height": 150
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/0418e99acc79.html"
+    },
+    {
+      "id": "da66bcbdf4d0",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(26)",
+      "bounds": {
+        "x": 410,
+        "y": 9154,
+        "width": 620,
+        "height": 336
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/da66bcbdf4d0.html"
+    },
+    {
+      "id": "d3a0b4045174",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > h2:nth-child(27)",
+      "bounds": {
+        "x": 410,
+        "y": 9514,
+        "width": 620,
+        "height": 100
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/d3a0b4045174.html"
+    },
+    {
+      "id": "48ee77ecb25e",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(28)",
+      "bounds": {
+        "x": 410,
+        "y": 9638,
+        "width": 620,
+        "height": 420
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/48ee77ecb25e.html"
+    },
+    {
+      "id": "2a3ac58a438f",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-237ba9b298 > p:nth-child(29)",
+      "bounds": {
+        "x": 410,
+        "y": 10082,
+        "width": 620,
+        "height": 224
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/2a3ac58a438f.html"
+    },
+    {
+      "id": "3552dfe8af55",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#container-e3bb13927e > div > div:nth-child(2)",
+      "bounds": {
+        "x": 250,
+        "y": 10336,
+        "width": 940,
+        "height": 535
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link + image + heading + text"
+      },
+      "description": "cards",
+      "features": {
+        "skeleton": "[[T]]",
+        "variant": "[[T|Tb]]",
+        "variantClean": "[[T|Tk]]",
+        "set": true
+      },
+      "screenshot": "blocks/3552dfe8af55.jpg",
+      "html": "blocks/3552dfe8af55.html",
+      "variantId": "v_91cef497bd90"
+    },
+    {
+      "id": "97ae52aae746",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-e3bb13927e > div > div.tags.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 250,
+        "y": 10871,
+        "width": 940,
+        "height": 175
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "list + link"
+      },
+      "description": "tags",
+      "features": {
+        "skeleton": "[[~(T)]|[~@]]",
+        "variant": "[[~b(Tb)]|[~@]]",
+        "variantClean": "[[~b(Tk)]|[~@]]"
+      },
+      "screenshot": "blocks/97ae52aae746.jpg",
+      "html": "blocks/97ae52aae746.html",
+      "variantId": "v_dd33d4b6f279"
+    },
+    {
+      "id": "8c2bd6ee7380",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-6f8342e5e6",
+      "bounds": {
+        "x": 410,
+        "y": 11076,
+        "width": 620,
+        "height": 82
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/8c2bd6ee7380.html"
+    },
+    {
+      "id": "0a6b4c8ec05c",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#cards-6f8342e5e6 > div.cmp-cards.insightsList.threeNoOfColumns.id--cards-6f8342e5e6",
+      "bounds": {
+        "x": 410,
+        "y": 11158,
+        "width": 620,
+        "height": 808
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link + image + text + heading + list"
+      },
+      "description": "cmp-cards",
+      "features": {
+        "skeleton": "[(T [T|[~@|T*2.25]] T [~(T)])]",
+        "variant": "[(T [Tb|[~@|Tb*2.25]] Tb [~b(Tb)])]",
+        "variantClean": "[(T [Tk|[~@|Tk*2.25]] Tk [~b(Tk)])]",
+        "set": true
+      },
+      "screenshot": "blocks/0a6b4c8ec05c.jpg",
+      "html": "blocks/0a6b4c8ec05c.html",
+      "variantId": "v_2d51d2db9b0f"
+    },
+    {
+      "id": "f616cb19a63e",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-e3bb13927e > div > div:nth-child(5)",
+      "bounds": {
+        "x": 250,
+        "y": 11996,
+        "width": 940,
+        "height": 308
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "experiencefragment",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/f616cb19a63e.html"
+    },
+    {
+      "id": "367dc82f51ec",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-e3bb13927e > div > div:nth-child(6)",
+      "bounds": {
+        "x": 250,
+        "y": 12304,
+        "width": 940,
+        "height": 860
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "experiencefragment",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/367dc82f51ec.html"
+    }
+  ]
+}

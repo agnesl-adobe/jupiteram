@@ -1,0 +1,38 @@
+{
+  "id": "v_0f4127a1e793",
+  "type": "tabs",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/offshore-ta/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "dense",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "list + text + table + heading"
+  },
+  "layoutKey": "(T [[tab]*3|~@] table)",
+  "colour": "(Tk [[tab]*3|~@] table)",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/offshore-ta/",
+        "instanceId": "7d3362d411a2",
+        "instanceIds": [
+          "7d3362d411a2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_offshore-ta--29d4f0da/blocks/7d3362d411a2.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "tabs per fund range each holding a contact table, same fields",
+    "mergedInto": "v_ddbe24e1ed11"
+  }
+}

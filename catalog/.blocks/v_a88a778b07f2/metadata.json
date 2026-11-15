@@ -1,0 +1,51 @@
+{
+  "id": "v_a88a778b07f2",
+  "type": "columns",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/about-jupiter/our-principles/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "image + heading + text"
+  },
+  "layoutKey": "[T|T*3]",
+  "colour": "[T|Tk*3]",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/about-jupiter/our-principles/",
+        "instanceId": "5516573f8e6e",
+        "instanceIds": [
+          "5516573f8e6e",
+          "238a4bcba7b9",
+          "ec5a0a66653f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_about-jupiter_our-principles--0b261a33/blocks/5516573f8e6e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-leaders-fund/",
+        "instanceId": "3b86392bc087",
+        "instanceIds": [
+          "3b86392bc087",
+          "d13e95898109",
+          "91913a8af313",
+          "31a452c35d96"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-global-leaders-fund--5b8a5870/blocks/3b86392bc087.jpg"
+      }
+    ],
+    "reuseCount": 2
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "small icon beside heading and text; same fields but could be cards for a list of values",
+    "mergedInto": "v_02b022831544"
+  }
+}

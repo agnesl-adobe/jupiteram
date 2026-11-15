@@ -1,0 +1,72 @@
+{
+  "id": "v_18f61810ba76",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/cookie-policy/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "button"
+  },
+  "layoutKey": "button",
+  "colour": "button",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/cookie-policy/",
+        "instanceId": "51c39e87b48d",
+        "instanceIds": [
+          "51c39e87b48d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_cookie-policy--9ee7ea52/blocks/51c39e87b48d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/",
+        "instanceId": "41051088f91a",
+        "instanceIds": [
+          "41051088f91a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights--51db238d/blocks/41051088f91a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-merlin-portfolios/",
+        "instanceId": "2e1470dfc929",
+        "instanceIds": [
+          "2e1470dfc929",
+          "fbb0c5ea5658",
+          "7d96e61831f7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-merlin-portfolios--0365eece/blocks/2e1470dfc929.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/investment-and-stewardship/",
+        "instanceId": "662a8184fc1e",
+        "instanceIds": [
+          "662a8184fc1e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_investment-and-stewardship--44297ea8/blocks/662a8184fc1e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/reports/",
+        "instanceId": "706714dc37be",
+        "instanceIds": [
+          "706714dc37be"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_reports--8176b5fa/blocks/706714dc37be.jpg"
+      }
+    ],
+    "reuseCount": 5
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "button that opens the consent manager; could be a plain link handled by script",
+    "mergedInto": null
+  }
+}

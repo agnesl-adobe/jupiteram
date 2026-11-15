@@ -1,0 +1,1065 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.jupiteram.com/uk/en/individual/press-releases/",
+  "title": "Press releases and announcements - Jupiter Asset Management",
+  "timestamp": "2026-11-12T15:03:17.216Z",
+  "duration": "19.1s",
+  "cleanup": {
+    "elementsRemoved": 5,
+    "types": [
+      "overlay",
+      "cookie-banner",
+      "popup"
+    ],
+    "cookieConsentDismissed": true,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#onetrust-banner-sdk",
+        "type": "overlay"
+      },
+      {
+        "selector": "#onetrust-style",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "#onetrust-consent-sdk",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "div.cce-backdropoverlay",
+        "type": "popup",
+        "rule": "body [class*=\"overlay\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/Header_logo_125x45px.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Alex-James_RGB_850x800px?ts=1774864230425&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/MARK_COTTON?ts=1774864230445&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/victoria_howley_850x800?ts=1774864230464&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/olivia_o_connor_850x800?ts=1774864230483&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/footer-logo-v2.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/close-popup.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/select-dropdown.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_UK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Austria.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Belguim.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Brunei.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_China.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Denmark.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Finland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_France.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Germany.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_HK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Iceland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_ireland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Italy.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Japan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Korea.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lichenstein.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lux.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Malyasia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Netherlands.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Norway.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Pillapenes.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Portugal.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Singapore.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Spain.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Sweden.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Swiss.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Taiwan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_US.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/US_Latam.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Thai.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Australia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-dropdown-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-glob-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/search-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-left.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-right.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/accordion-icon-down.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/drop-down.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/globe.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/linkedin.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/external-icon.svg",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s(s(2x1,s(s,s)),s(s(s,s(,,,,,,,,,),3x1),s(2x1,s(,)))))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c1c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero > div.cmp-hero--content > nav.cmp-breadcrumb",
+      "rc2c1c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero > div.cmp-hero--content > div.cmp-text__container",
+      "rc2c1c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero > div.cmp-hero--content > div.cmp-text__container > h1.cmp-teaser__title",
+      "rc2c1c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero > div.cmp-hero--content > div.cmp-text__container > div.cmp-teaser__description",
+      "rc2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c1c1": "#cmp-pagelisting-total-results",
+      "rc2c2c1c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container",
+      "rc2c2c1c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(1)",
+      "rc2c2c1c2c1c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(1) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "rc2c2c1c2c1c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(1) > div.cmp-pagelisting__anypage-cardContent-container",
+      "rc2c2c1c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(2)",
+      "rc2c2c1c2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(2) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "rc2c2c1c2c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(2) > div.cmp-pagelisting__anypage-cardContent-container",
+      "rc2c2c1c2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(3)",
+      "rc2c2c1c2c3c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(3) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "rc2c2c1c2c3c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(3) > div.cmp-pagelisting__anypage-cardContent-container",
+      "rc2c2c1c2c4": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(4)",
+      "rc2c2c1c2c4c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(4) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "rc2c2c1c2c4c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(4) > div.cmp-pagelisting__anypage-cardContent-container",
+      "rc2c2c1c2c5": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(5)",
+      "rc2c2c1c2c5c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(5) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "rc2c2c1c2c5c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(5) > div.cmp-pagelisting__anypage-cardContent-container",
+      "rc2c2c1c2c6": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(6)",
+      "rc2c2c1c2c6c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(6) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "rc2c2c1c2c6c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(6) > div.cmp-pagelisting__anypage-cardContent-container",
+      "rc2c2c1c2c7": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(7)",
+      "rc2c2c1c2c7c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(7) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "rc2c2c1c2c7c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(7) > div.cmp-pagelisting__anypage-cardContent-container",
+      "rc2c2c1c2c8": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(8)",
+      "rc2c2c1c2c8c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(8) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "rc2c2c1c2c8c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(8) > div.cmp-pagelisting__anypage-cardContent-container",
+      "rc2c2c1c2c9": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(9)",
+      "rc2c2c1c2c9c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(9) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "rc2c2c1c2c9c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(9) > div.cmp-pagelisting__anypage-cardContent-container",
+      "rc2c2c1c2c10": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(10)",
+      "rc2c2c1c2c10c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(10) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "rc2c2c1c2c10c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-pagelisting > div.cmp-pagelisting__results-container > a.cmp-pagelisting__anypage-card-container:nth-of-type(10) > div.cmp-pagelisting__anypage-cardContent-container",
+      "rc2c2c1c3": "#pagelisting-pagination-container",
+      "rc2c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.tabs.panelcontainer.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.tabs.panelcontainer.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-tabs > div.cmp-tabs__arrows-and-tablist-container",
+      "rc2c2c2c2": "#tabs-1e9da1df9a-item-7530f76f01-tabpanel",
+      "rc2c2c2c2c1": "#tabs-1e9da1df9a-item-7530f76f01-tabpanel > div.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c2c2c1c1": "#tabs-1e9da1df9a-item-7530f76f01-tabpanel > div.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > h2",
+      "rc2c2c2c2c1c2": "#tabs-1e9da1df9a-item-7530f76f01-tabpanel > div.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p",
+      "rc2c2c2c2c2": "#tabs-1e9da1df9a-item-7530f76f01-tabpanel > div.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c2c2c2c1": "#tabs-1e9da1df9a-item-7530f76f01-tabpanel > div.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-cards-container.headshot-container-wrapper > div.cmp-cards",
+      "rc2c2c2c2c2c2": "#tabs-1e9da1df9a-item-7530f76f01-tabpanel > div.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-cards-container.headshot-container-wrapper > div.biography-item__arrow-container.active-arrows"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 0,
+      "height": 4078.6875
+    },
+    "splits": [],
+    "start": {
+      "kind": "heading",
+      "look": {
+        "font": "Poppins, Helvetica, Arial, sans-serif",
+        "color": "rgb(0, 39, 85)",
+        "align": "start"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "9b217b1cd00d",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#breadcrumb-9946b01037",
+      "bounds": {
+        "x": 245,
+        "y": 220,
+        "width": 925,
+        "height": 25
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "list + link"
+      },
+      "description": "cmp-breadcrumb",
+      "features": {
+        "skeleton": "nav",
+        "variant": "nav",
+        "variantClean": "nav"
+      },
+      "screenshot": "blocks/9b217b1cd00d.jpg",
+      "html": "blocks/9b217b1cd00d.html",
+      "variantId": "v_3658828ee6d4"
+    },
+    {
+      "id": "ef209067498b",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-e21af23548 > div > div.hero.teaser.aem-GridColumn.aem-GridColumn--default--12 > div > div > div > h1",
+      "bounds": {
+        "x": 245,
+        "y": 285,
+        "width": 925,
+        "height": 124
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-teaser-title",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/ef209067498b.html"
+    },
+    {
+      "id": "468646caec1f",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-e21af23548 > div > div.hero.teaser.aem-GridColumn.aem-GridColumn--default--12 > div > div > div > div",
+      "bounds": {
+        "x": 245,
+        "y": 441,
+        "width": 925,
+        "height": 30
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": ""
+      },
+      "description": "cmp-teaser-description",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/468646caec1f.html"
+    },
+    {
+      "id": "b2b5e9738735",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#cmp-pagelisting-total-results",
+      "bounds": {
+        "x": 245,
+        "y": 691,
+        "width": 950,
+        "height": 28
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-total-results",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/b2b5e9738735.html"
+    },
+    {
+      "id": "54ea6f7fa728",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(1) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "bounds": {
+        "x": 245,
+        "y": 739,
+        "width": 950,
+        "height": 22
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-anypage-cardheader-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/54ea6f7fa728.jpg",
+      "html": "blocks/54ea6f7fa728.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "bb2f96574747",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(1) > div.cmp-pagelisting__anypage-cardContent-container",
+      "bounds": {
+        "x": 245,
+        "y": 785,
+        "width": 950,
+        "height": 30
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-pagelisting-anypage-cardcontent-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/bb2f96574747.html"
+    },
+    {
+      "id": "0944f18fd60c",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(2) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "bounds": {
+        "x": 245,
+        "y": 888,
+        "width": 950,
+        "height": 22
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-anypage-cardheader-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/0944f18fd60c.jpg",
+      "html": "blocks/0944f18fd60c.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "7fb58eaa0622",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(2) > div.cmp-pagelisting__anypage-cardContent-container",
+      "bounds": {
+        "x": 245,
+        "y": 934,
+        "width": 950,
+        "height": 60
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-pagelisting-anypage-cardcontent-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/7fb58eaa0622.html"
+    },
+    {
+      "id": "2941952e84b5",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(3) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "bounds": {
+        "x": 245,
+        "y": 1067,
+        "width": 950,
+        "height": 22
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-anypage-cardheader-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/2941952e84b5.jpg",
+      "html": "blocks/2941952e84b5.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "98e575805391",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(3) > div.cmp-pagelisting__anypage-cardContent-container",
+      "bounds": {
+        "x": 245,
+        "y": 1113,
+        "width": 950,
+        "height": 30
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-pagelisting-anypage-cardcontent-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/98e575805391.html"
+    },
+    {
+      "id": "d279e1eee969",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(4) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "bounds": {
+        "x": 245,
+        "y": 1216,
+        "width": 950,
+        "height": 22
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-anypage-cardheader-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/d279e1eee969.jpg",
+      "html": "blocks/d279e1eee969.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "6764efb74322",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(4) > div.cmp-pagelisting__anypage-cardContent-container",
+      "bounds": {
+        "x": 245,
+        "y": 1262,
+        "width": 950,
+        "height": 30
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-pagelisting-anypage-cardcontent-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/6764efb74322.html"
+    },
+    {
+      "id": "4d3fe94e9c47",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(5) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "bounds": {
+        "x": 245,
+        "y": 1365,
+        "width": 950,
+        "height": 22
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-anypage-cardheader-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/4d3fe94e9c47.jpg",
+      "html": "blocks/4d3fe94e9c47.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "c8fb2a9931b8",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(5) > div.cmp-pagelisting__anypage-cardContent-container",
+      "bounds": {
+        "x": 245,
+        "y": 1411,
+        "width": 950,
+        "height": 30
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-pagelisting-anypage-cardcontent-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/c8fb2a9931b8.html"
+    },
+    {
+      "id": "952ec8a55557",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(6) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "bounds": {
+        "x": 245,
+        "y": 1514,
+        "width": 950,
+        "height": 22
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-anypage-cardheader-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/952ec8a55557.jpg",
+      "html": "blocks/952ec8a55557.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "5340e7f199ec",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(6) > div.cmp-pagelisting__anypage-cardContent-container",
+      "bounds": {
+        "x": 245,
+        "y": 1560,
+        "width": 950,
+        "height": 30
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-pagelisting-anypage-cardcontent-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/5340e7f199ec.html"
+    },
+    {
+      "id": "5abcf27faabf",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(7) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "bounds": {
+        "x": 245,
+        "y": 1663,
+        "width": 950,
+        "height": 22
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-anypage-cardheader-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/5abcf27faabf.jpg",
+      "html": "blocks/5abcf27faabf.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "0fb9659a0edd",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(7) > div.cmp-pagelisting__anypage-cardContent-container",
+      "bounds": {
+        "x": 245,
+        "y": 1709,
+        "width": 950,
+        "height": 60
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-pagelisting-anypage-cardcontent-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/0fb9659a0edd.html"
+    },
+    {
+      "id": "a03286c31bcf",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(8) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "bounds": {
+        "x": 245,
+        "y": 1842,
+        "width": 950,
+        "height": 22
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-anypage-cardheader-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/a03286c31bcf.jpg",
+      "html": "blocks/a03286c31bcf.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "ffdc71cdaeaf",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(8) > div.cmp-pagelisting__anypage-cardContent-container",
+      "bounds": {
+        "x": 245,
+        "y": 1888,
+        "width": 950,
+        "height": 60
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-pagelisting-anypage-cardcontent-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/ffdc71cdaeaf.html"
+    },
+    {
+      "id": "a845552f5990",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(9) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "bounds": {
+        "x": 245,
+        "y": 2021,
+        "width": 950,
+        "height": 22
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-anypage-cardheader-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/a845552f5990.jpg",
+      "html": "blocks/a845552f5990.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "407791edfa8d",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(9) > div.cmp-pagelisting__anypage-cardContent-container",
+      "bounds": {
+        "x": 245,
+        "y": 2067,
+        "width": 950,
+        "height": 60
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-pagelisting-anypage-cardcontent-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/407791edfa8d.html"
+    },
+    {
+      "id": "9999eb160c72",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(10) > div.cmp-pagelisting__anypage-cardHeader-container",
+      "bounds": {
+        "x": 245,
+        "y": 2200,
+        "width": 950,
+        "height": 22
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-anypage-cardheader-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/9999eb160c72.jpg",
+      "html": "blocks/9999eb160c72.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "cc8d40d5c16e",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.pagelisting.aem-GridColumn.aem-GridColumn--default--12 > div > div.cmp-pagelisting__results-container > a:nth-child(10) > div.cmp-pagelisting__anypage-cardContent-container",
+      "bounds": {
+        "x": 245,
+        "y": 2246,
+        "width": 950,
+        "height": 30
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-pagelisting-anypage-cardcontent-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/cc8d40d5c16e.html"
+    },
+    {
+      "id": "9d69bbd0fc59",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#pagelisting-pagination-container",
+      "bounds": {
+        "x": 245,
+        "y": 2309,
+        "width": 950,
+        "height": 74
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagelisting-pagination-container",
+      "features": {
+        "skeleton": "[~@|[~(T)*1.25|T]|~@]",
+        "variant": "[~@|[~b(Tw)*1.25|Tb]|~@]",
+        "variantClean": "[~@|[~b(Tw)*1.25|Tk]|~@]"
+      },
+      "screenshot": "blocks/9d69bbd0fc59.jpg",
+      "html": "blocks/9d69bbd0fc59.html",
+      "variantId": "v_45d2f236091b"
+    },
+    {
+      "id": "d6448052e5c2",
+      "type": "tabs",
+      "detectionTier": 1,
+      "selector": "#container-4e087b1e30 > div > div.tabs.panelcontainer.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 2483,
+        "width": 1440,
+        "height": 1596
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "dense",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "list + heading + text + link + image"
+      },
+      "description": "tabs",
+      "features": {
+        "skeleton": "([tab] T [T])",
+        "variant": "([tab] Tb [Tb])",
+        "variantClean": "([tab] Tk [Tk])"
+      },
+      "screenshot": "blocks/d6448052e5c2.jpg",
+      "html": "blocks/d6448052e5c2.html",
+      "variantId": "v_5d484e576439"
+    }
+  ]
+}

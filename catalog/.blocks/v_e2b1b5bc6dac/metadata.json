@@ -1,0 +1,102 @@
+{
+  "id": "v_e2b1b5bc6dac",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-trump-agenda-has-economic-consequences/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "list + link"
+  },
+  "layoutKey": "[[~(T)]|~@]",
+  "colour": "[[~b(Tk)]|~@]",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-trump-agenda-has-economic-consequences/",
+        "instanceId": "809400e0a8a3",
+        "instanceIds": [
+          "809400e0a8a3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_investment-outlook-2025-trump-agenda-has-economic-consequences--f68cf3d9/blocks/809400e0a8a3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-brace-for-a-prolonged-oil-price-shock/",
+        "instanceId": "d6621bf273ea",
+        "instanceIds": [
+          "d6621bf273ea"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-brace-for-a-prolonged-oil-price-shock--4ba7e76b/blocks/d6621bf273ea.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-britains-war-readiness-in-question/",
+        "instanceId": "687f36f9c83b",
+        "instanceIds": [
+          "687f36f9c83b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-britains-war-readiness-in-question--bd80f881/blocks/687f36f9c83b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-paralysed-as-economic-faultlines-widen/",
+        "instanceId": "fa8dc41875d3",
+        "instanceIds": [
+          "fa8dc41875d3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-labour-paralysed-as-economic-faultlines-widen--8232b586/blocks/fa8dc41875d3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-no-end-in-sight-for-the-gulf-war/",
+        "instanceId": "df88bb2171bb",
+        "instanceIds": [
+          "df88bb2171bb"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-no-end-in-sight-for-the-gulf-war--60544c8c/blocks/df88bb2171bb.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-gulf-war-has-let-the-inflation-genie-out/",
+        "instanceId": "e386ceadcd48",
+        "instanceIds": [
+          "e386ceadcd48"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-gulf-war-has-let-the-inflation-genie-out--b5735b15/blocks/e386ceadcd48.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-faces-congressional-challenge-over-iran-war/",
+        "instanceId": "c42e9e112d09",
+        "instanceIds": [
+          "c42e9e112d09"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-faces-congressional-challenge-over-iran-war--05357c69/blocks/c42e9e112d09.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trumps-mixed-signals-fuel-volatility/",
+        "instanceId": "555527bd1a04",
+        "instanceIds": [
+          "555527bd1a04"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trumps-mixed-signals-fuel-volatility--7dc0a0e5/blocks/555527bd1a04.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/outlook-2026-trump-backed-into-corner-debt-still-dominates/",
+        "instanceId": "9337669cfe7a",
+        "instanceIds": [
+          "9337669cfe7a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_outlook-2026-trump-backed-into-corner-debt-still-dominates--66e2ff57/blocks/9337669cfe7a.jpg"
+      }
+    ],
+    "reuseCount": 9
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "same tags plus share/print strip, only the HTML nesting differs",
+    "mergedInto": "v_dd33d4b6f279"
+  }
+}

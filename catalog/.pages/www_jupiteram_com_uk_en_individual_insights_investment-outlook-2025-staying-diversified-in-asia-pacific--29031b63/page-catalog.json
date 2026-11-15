@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-staying-diversified-in-asia-pacific/",
+  "title": "Outlook 2025: Staying diversified in Asia Pacific - Jupiter Asset Management",
+  "timestamp": "2026-11-12T15:06:51.806Z",
+  "duration": "11.9s",
+  "cleanup": {
+    "elementsRemoved": 5,
+    "types": [
+      "overlay",
+      "cookie-banner",
+      "popup"
+    ],
+    "cookieConsentDismissed": true,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#onetrust-banner-sdk",
+        "type": "overlay"
+      },
+      {
+        "selector": "#onetrust-style",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "#onetrust-consent-sdk",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "div.cce-backdropoverlay",
+        "type": "popup",
+        "rule": "body [class*=\"overlay\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/Header_logo_125x45px.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Outlook_Asia_02?ts=1737969174917&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--5cf655f2-0d99-43e0-9273-411b978c88d4/jason_pidcock_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--f8fb2839-665c-4f42-ab4c-16f217742bd8/sam_konrad_rgb_850x800px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/footer-logo-v2.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/close-popup.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/select-dropdown.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_UK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Austria.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Belguim.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Brunei.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_China.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Denmark.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Finland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_France.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Germany.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_HK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Iceland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_ireland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Italy.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Japan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Korea.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lichenstein.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lux.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Malyasia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Netherlands.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Norway.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Pillapenes.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Portugal.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Singapore.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Spain.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Sweden.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Swiss.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Taiwan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_US.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/US_Latam.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Thai.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Australia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-dropdown-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-glob-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/search-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/calendar-icon-white.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/clock-icon-white.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/linkedin-no-circle.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/printer-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/drop-down.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/globe.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-right.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/linkedin.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/external-icon.svg",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s(sB,s(s,s,s,s,s,s,s,s),s))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(1)",
+      "rc2c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(2)",
+      "rc2c2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)",
+      "rc2c2c4": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.tags.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c5": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderlessBlue.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c6": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderedWhite.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c7": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c8": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(8)",
+      "rc2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content",
+        "background": "#002755",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero"
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.cmp-container--article.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc4",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 0,
+      "height": 5640.0625
+    },
+    "splits": [],
+    "start": {
+      "kind": "heading",
+      "look": {
+        "font": "Poppins, Helvetica, Arial, sans-serif",
+        "color": "rgb(255, 255, 255)",
+        "align": "start"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "38f08679b9d8",
+      "type": "default-content",
+      "detectionTier": 2,
+      "selector": "#container-516b8c8e95 > div > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 902
+      },
+      "visualChars": {
+        "colorScheme": "dark",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "image + list + link + heading"
+      },
+      "description": "hero",
+      "features": {
+        "skeleton": "(nav T [~@(T)])",
+        "variant": "(nav Tw [~@(Tw)])",
+        "variantClean": "(nav Tk [~@(Tk)])"
+      },
+      "screenshot": null,
+      "html": "blocks/38f08679b9d8.html"
+    },
+    {
+      "id": "ec4f150e993c",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-14d29a141e > div > div:nth-child(1)",
+      "bounds": {
+        "x": 250,
+        "y": 1002,
+        "width": 940,
+        "height": 1852
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "dense",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text + heading"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/ec4f150e993c.html"
+    },
+    {
+      "id": "774aae20a95b",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-14d29a141e > div > div:nth-child(2)",
+      "bounds": {
+        "x": 250,
+        "y": 2854,
+        "width": 940,
+        "height": 1432
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + list"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/774aae20a95b.html"
+    },
+    {
+      "id": "d37941ceb4d3",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#container-14d29a141e > div > div:nth-child(3)",
+      "bounds": {
+        "x": 250,
+        "y": 4286,
+        "width": 940,
+        "height": 155
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link + image + heading + text"
+      },
+      "description": "cards",
+      "features": {
+        "skeleton": "[[T]]",
+        "variant": "[[T|Tb]]",
+        "variantClean": "[[T|Tk]]",
+        "set": true
+      },
+      "screenshot": "blocks/d37941ceb4d3.jpg",
+      "html": "blocks/d37941ceb4d3.html",
+      "variantId": "v_91cef497bd90"
+    },
+    {
+      "id": "deb99cbc7cfc",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-14d29a141e > div > div.tags.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 250,
+        "y": 4441,
+        "width": 940,
+        "height": 175
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "list + link"
+      },
+      "description": "tags",
+      "features": {
+        "skeleton": "[[~(T)]|[~@]]",
+        "variant": "[[~b(Tb)]|[~@]]",
+        "variantClean": "[[~b(Tk)]|[~@]]"
+      },
+      "screenshot": "blocks/deb99cbc7cfc.jpg",
+      "html": "blocks/deb99cbc7cfc.html",
+      "variantId": "v_dd33d4b6f279"
+    },
+    {
+      "id": "8506dd814d6a",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-14d29a141e > div > div.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 250,
+        "y": 4616,
+        "width": 940,
+        "height": 308
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "experiencefragment",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/8506dd814d6a.html"
+    },
+    {
+      "id": "6b25ac5fc571",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-14d29a141e > div > div:nth-child(8)",
+      "bounds": {
+        "x": 250,
+        "y": 4924,
+        "width": 940,
+        "height": 616
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/6b25ac5fc571.html"
+    }
+  ]
+}

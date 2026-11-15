@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.jupiteram.com/uk/en/individual/fund-centre/",
+  "title": "Fund centre - Jupiter Asset Management",
+  "timestamp": "2026-11-12T15:02:12.970Z",
+  "duration": "20.9s",
+  "cleanup": {
+    "elementsRemoved": 9,
+    "types": [
+      "overlay",
+      "cookie-banner",
+      "popup",
+      "survey"
+    ],
+    "cookieConsentDismissed": true,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#onetrust-banner-sdk",
+        "type": "overlay"
+      },
+      {
+        "selector": "#onetrust-style",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "#onetrust-consent-sdk",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "div.cce-backdropoverlay",
+        "type": "popup",
+        "rule": "body [class*=\"overlay\"]:not(nav *)"
+      },
+      {
+        "selector": "#cce_chat_survey_card",
+        "type": "survey",
+        "rule": "[class*=\"survey\"]"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/Header_logo_125x45px.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://dfs.jupiteram.instinctcentral.io/assets/static/powered-instinct.UOJkik2y.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/footer-logo-v2.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/close-popup.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/select-dropdown.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_UK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Austria.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Belguim.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Brunei.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_China.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Denmark.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Finland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_France.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Germany.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_HK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Iceland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_ireland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Italy.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Japan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Korea.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lichenstein.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lux.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Malyasia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Netherlands.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Norway.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Pillapenes.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Portugal.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Singapore.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Spain.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Sweden.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Swiss.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Taiwan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_US.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/US_Latam.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Thai.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Australia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-dropdown-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-glob-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/search-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://static-jam-prd-eu-central-1.s3.amazonaws.com/prd/node_fa07f3ad27c892beb723f777687a871e32c81b7f",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/drop-down.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/globe.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-right.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/linkedin.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/external-icon.svg",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s(s,sB(sB(s(,),s),sB,sB,sB(2x1(,),s),2x1B)),sB(s,s))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div.root.container.responsivegrid",
+      "rc1c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+      "rc1c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+      "rc1c2c1": "#page-view > div.difraas-app-placement.css-dj4y66 > div.fundListPageHeader.css-ie2xlp",
+      "rc1c2c1c1": "#page-view > div.difraas-app-placement.css-dj4y66 > div.fundListPageHeader.css-ie2xlp > div.contentContainer.css-188saqo > div.css-1dqldeg",
+      "rc1c2c1c1c1": "#page-view > div.difraas-app-placement.css-dj4y66 > div.fundListPageHeader.css-ie2xlp > div.contentContainer.css-188saqo > div.css-1dqldeg > div.css-ehoejh",
+      "rc1c2c1c1c2": "#page-view > div.difraas-app-placement.css-dj4y66 > div.fundListPageHeader.css-ie2xlp > div.contentContainer.css-188saqo > div.css-1dqldeg > h2.chakra-heading.css-nlpvg5",
+      "rc1c2c1c2": "#page-view > div.difraas-app-placement.css-dj4y66 > div.fundListPageHeader.css-ie2xlp > div.contentContainer.css-188saqo > div.css-k008qs",
+      "rc1c2c2": "#page-view > div.difraas-app-placement.css-dj4y66 > div.css-88ek5i",
+      "rc1c2c3": "#page-view > div.difraas-app-placement.css-dj4y66 > div.css-9u7l16",
+      "rc1c2c4": "#page-view > div.difraas-app-placement.css-dj4y66 > div.css-1kmg022",
+      "rc1c2c4c1": "#page-view > div.difraas-app-placement.css-dj4y66 > div.css-1kmg022 > div.css-k008qs",
+      "rc1c2c4c1c1": "#tabs-fund-list--tabpanel-0",
+      "rc1c2c4c1c1c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-17cwjho",
+      "rc1c2c4c1c1c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(2)",
+      "rc1c2c4c1c1c2c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(2) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c2c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(2) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c3": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(3)",
+      "rc1c2c4c1c1c3c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(3) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c3c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(3) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c4": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(4)",
+      "rc1c2c4c1c1c4c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(4) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c4c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(4) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c5": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(5)",
+      "rc1c2c4c1c1c5c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(5) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c5c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(5) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c6": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(6)",
+      "rc1c2c4c1c1c6c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(6) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c6c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(6) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c7": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(7)",
+      "rc1c2c4c1c1c7c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(7) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c7c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(7) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c8": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(8)",
+      "rc1c2c4c1c1c8c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(8) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c8c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(8) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c9": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(9)",
+      "rc1c2c4c1c1c9c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(9) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c9c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(9) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c10": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(10)",
+      "rc1c2c4c1c1c10c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(10) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c10c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(10) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c11": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(11)",
+      "rc1c2c4c1c1c11c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(11) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c11c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(11) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c12": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(12)",
+      "rc1c2c4c1c1c12c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(12) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c12c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(12) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c13": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(13)",
+      "rc1c2c4c1c1c13c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(13) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c13c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(13) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c14": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(14)",
+      "rc1c2c4c1c1c14c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(14) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c14c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(14) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c15": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(15)",
+      "rc1c2c4c1c1c15c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(15) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c15c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(15) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c16": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(16)",
+      "rc1c2c4c1c1c16c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(16) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c16c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(16) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c17": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(17)",
+      "rc1c2c4c1c1c17c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(17) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c17c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(17) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c18": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(18)",
+      "rc1c2c4c1c1c18c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(18) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c18c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(18) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c19": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(19)",
+      "rc1c2c4c1c1c19c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(19) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c19c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(19) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c20": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(20)",
+      "rc1c2c4c1c1c20c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(20) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c20c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(20) > div.css-1w0ma2h",
+      "rc1c2c4c1c1c21": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(21)",
+      "rc1c2c4c1c1c21c1": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(21) > li.no-tap-highlight.css-5byv4d",
+      "rc1c2c4c1c1c21c2": "#tabs-fund-list--tabpanel-0 > ul.css-uldtuq > div.css-0:nth-of-type(21) > div.css-1w0ma2h",
+      "rc1c2c4c1c2": "#fund-list > div.chakra-tabs__tab-panels.css-8atqhb > div.css-1xhj18k",
+      "rc1c2c4c2": "#page-view > div.difraas-app-placement.css-dj4y66 > div.css-1kmg022 > div.accreditationList.css-b0bdxf",
+      "rc1c2c5": "#page-view > div.difraas-app-placement.css-dj4y66 > div.collectionManagerRoot.css-1lj4s1e",
+      "rc2": "body > div.chakra-portal.difraas-app",
+      "rc2c1": "#chakra-toast-manager-top",
+      "rc2c2": "#chakra-toast-manager-bottom"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "#page-view > div.difraas-app-placement.css-dj4y66 > div.fundListPageHeader.css-ie2xlp",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content",
+        "background": "#dbedff",
+        "backgroundImage": "url",
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc3",
+        "selector": "#page-view > div.difraas-app-placement.css-dj4y66 > div.css-88ek5i",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc4",
+        "selector": "#page-view > div.difraas-app-placement.css-dj4y66 > div.css-9u7l16",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc5",
+        "selector": "#page-view > div.difraas-app-placement.css-dj4y66 > div.css-1kmg022",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block",
+        "background": "#f9f9f9",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "#page-view > div.difraas-app-placement.css-dj4y66 > div.css-1kmg022"
+      },
+      {
+        "id": "rc6",
+        "selector": "#page-view > div.difraas-app-placement.css-dj4y66 > div.collectionManagerRoot.css-1lj4s1e",
+        "layout": "2x1",
+        "hasBg": true,
+        "hint": "block",
+        "background": "#01234b",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "#page-view > div.difraas-app-placement.css-dj4y66 > div.collectionManagerRoot.css-1lj4s1e"
+      },
+      {
+        "id": "rc7",
+        "selector": "body > div.chakra-portal.difraas-app",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 159,
+      "height": 5190.75
+    },
+    "splits": [],
+    "start": {
+      "kind": "text on photo"
+    }
+  },
+  "blocks": [
+    {
+      "id": "efc731266da1",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#page-view > div > div.fundListPageHeader.css-ie2xlp",
+      "bounds": {
+        "x": 0,
+        "y": 159,
+        "width": 1440,
+        "height": 310
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "fundlistpageheader",
+      "features": {
+        "skeleton": "~@(T)",
+        "variant": "~@(Tw)",
+        "variantClean": "~@(Tw)"
+      },
+      "screenshot": "blocks/efc731266da1.jpg",
+      "html": "blocks/efc731266da1.html",
+      "variantId": "v_9a887c696eb3"
+    },
+    {
+      "id": "8545d2e8f3dc",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#page-view > div > div.css-88ek5i",
+      "bounds": {
+        "x": 0,
+        "y": 469,
+        "width": 1440,
+        "height": 422
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "css-88ek5i",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~w(Tb)",
+        "variantClean": "~w(Tk)"
+      },
+      "screenshot": "blocks/8545d2e8f3dc.jpg",
+      "html": "blocks/8545d2e8f3dc.html",
+      "variantId": "v_fee7afa96819"
+    },
+    {
+      "id": "2d20f8ca5f96",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#page-view > div > div.css-1kmg022 > div.css-k008qs",
+      "bounds": {
+        "x": 0,
+        "y": 986,
+        "width": 1440,
+        "height": 4284
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "dense",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "button + list + field + text + link + heading"
+      },
+      "description": "css-k008qs",
+      "features": {
+        "skeleton": "[~(button [input|~*3|T*3] button [input|~*3|T*3] button [input|~*3|T*3] button)|(~([T*3|T*1.5|T]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) ~([(T [T])*3|T*1.5|(T [T])*1.5|button]) ~([T|svg]) [button|~(T)] T)*2.75]",
+        "variant": "[~w(button [input|~w*3|Tn*3] button [input|~w*3|Tn*3] button [input|~w*3|Tn*3] button)|(~b([Tw*3|Tw*1.5|Tw]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) ~s([(Tb [Tb])*3|Tb*1.5|(Tb [Tb])*1.5|button]) ~s([Tb|svg]) [button~b|~b(Tw)] Tk)*2.75]",
+        "variantClean": "[~w(button [input|~w*3|Tk*3] button [input|~w*3|Tk*3] button [input|~w*3|Tk*3] button)|(~b([Tw*3|Tw*1.5|Tw]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) ~s([(Tk [Tk])*3|Tk*1.5|(Tk [Tk])*1.5|button]) ~s([Tk|svg]) [button~b|~b(Tw)] Tk)*2.75]"
+      },
+      "screenshot": "blocks/2d20f8ca5f96.jpg",
+      "html": "blocks/2d20f8ca5f96.html",
+      "variantId": "v_74f1ff25ddb9"
+    },
+    {
+      "id": "82a63095bc89",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#page-view > div > div.css-1kmg022 > div.accreditationList.css-b0bdxf",
+      "bounds": {
+        "x": 0,
+        "y": 5270,
+        "width": 1440,
+        "height": 80
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "image"
+      },
+      "description": "accreditationlist",
+      "features": {
+        "skeleton": "T",
+        "variant": "T",
+        "variantClean": "T"
+      },
+      "screenshot": null,
+      "html": "blocks/82a63095bc89.html"
+    }
+  ]
+}

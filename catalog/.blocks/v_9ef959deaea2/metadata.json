@@ -1,0 +1,134 @@
+{
+  "id": "v_9ef959deaea2",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/insights/deepSeek-a-new-era-for-ai/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "text"
+  },
+  "layoutKey": "[T|[T|~@]]",
+  "colour": "[Tk|[Tk|~@]]",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/deepSeek-a-new-era-for-ai/",
+        "instanceId": "352ae4fb07aa",
+        "instanceIds": [
+          "352ae4fb07aa"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_deepSeek-a-new-era-for-ai--d713daa8/blocks/352ae4fb07aa.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/jupiter-global-sustainable-equities-fund-name-change/",
+        "instanceId": "123d91ce2540",
+        "instanceIds": [
+          "123d91ce2540"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_jupiter-global-sustainable-equities-fund-name-change--dcd6a9d7/blocks/123d91ce2540.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/adrian-gosden/",
+        "instanceId": "3105bc04e629",
+        "instanceIds": [
+          "3105bc04e629"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_adrian-gosden--65b769a9/blocks/3105bc04e629.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/alex-savvides/",
+        "instanceId": "e39af0e9c66f",
+        "instanceIds": [
+          "e39af0e9c66f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_alex-savvides--9e8208c4/blocks/e39af0e9c66f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-morrison/",
+        "instanceId": "f9d0862c5125",
+        "instanceIds": [
+          "f9d0862c5125"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_chris-morrison--6d38c69f/blocks/f9d0862c5125.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jason-pidcock/",
+        "instanceId": "1c55a957edc8",
+        "instanceIds": [
+          "1c55a957edc8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_jason-pidcock--0fba1868/blocks/1c55a957edc8.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/sam-konrad/",
+        "instanceId": "404dc32bd6df",
+        "instanceIds": [
+          "404dc32bd6df"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_sam-konrad--e1c95ce5/blocks/404dc32bd6df.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/siddharth-sukumar/",
+        "instanceId": "1ed40a80e6a5",
+        "instanceIds": [
+          "1ed40a80e6a5"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_siddharth-sukumar--b464d928/blocks/1ed40a80e6a5.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/stephanie-geary/",
+        "instanceId": "3e383c4822bf",
+        "instanceIds": [
+          "3e383c4822bf"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_stephanie-geary--78a5a6a5/blocks/3e383c4822bf.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-dynamic-equity/",
+        "instanceId": "969a2121000e",
+        "instanceIds": [
+          "969a2121000e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_uk-dynamic-equity--35e01882/blocks/969a2121000e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-equity-income/",
+        "instanceId": "f83fc2f41c3c",
+        "instanceIds": [
+          "f83fc2f41c3c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_uk-equity-income--2e506384/blocks/f83fc2f41c3c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-dynamic-equity-fund/",
+        "instanceId": "63504620a85e",
+        "instanceIds": [
+          "63504620a85e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-uk-dynamic-equity-fund--8e51e66e/blocks/63504620a85e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-multi-cap-income-fund/",
+        "instanceId": "63504620a85e",
+        "instanceIds": [
+          "63504620a85e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-uk-multi-cap-income-fund--9eaf27d2/blocks/63504620a85e.jpg"
+      }
+    ],
+    "reuseCount": 13
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "same date metadata line, reading time is optional content",
+    "mergedInto": "v_9a887c696eb3"
+  }
+}

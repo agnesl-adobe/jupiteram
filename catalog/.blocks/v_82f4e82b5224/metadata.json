@@ -1,0 +1,38 @@
+{
+  "id": "v_82f4e82b5224",
+  "type": "carousel",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.873Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "image + heading + text + link + list"
+  },
+  "layoutKey": "{T [tab]}",
+  "colour": "{Tk [tab|tab~b]}",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/",
+        "instanceId": "b991e1f45c90",
+        "instanceIds": [
+          "b991e1f45c90"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual--17bd0a2e/blocks/b991e1f45c90.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "rotating full-width homepage slides with photo, heading and CTA",
+    "mergedInto": null
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "v_2b3169f9c2a3",
+  "type": "table",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-price-controls-ever-work/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "table"
+  },
+  "layoutKey": "table",
+  "colour": "table",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-price-controls-ever-work/",
+        "instanceId": "56cd1ba3938c",
+        "instanceIds": [
+          "56cd1ba3938c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-can-price-controls-ever-work--71830c79/blocks/56cd1ba3938c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-promises-in-tatters/",
+        "instanceId": "1254f5466060",
+        "instanceIds": [
+          "1254f5466060"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-labour-promises-in-tatters--29bcbedc/blocks/1254f5466060.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-sunak-talks-tough-on-defence/",
+        "instanceId": "0c0044243409",
+        "instanceIds": [
+          "0c0044243409"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-sunak-talks-tough-on-defence--5359b4e7/blocks/0c0044243409.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/modern-slavery-statement/",
+        "instanceId": "067ff7b82595",
+        "instanceIds": [
+          "067ff7b82595"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_modern-slavery-statement--49a3ed85/blocks/067ff7b82595.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/onshore-ta/",
+        "instanceId": "9b39cd20e8f3",
+        "instanceIds": [
+          "9b39cd20e8f3",
+          "a52ddcb9bd09"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_onshore-ta--3ff76d6a/blocks/9b39cd20e8f3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/privacy/",
+        "instanceId": "08d9b80c1220",
+        "instanceIds": [
+          "08d9b80c1220"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_privacy--1dd7d66a/blocks/08d9b80c1220.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/",
+        "instanceId": "b90b4a9f2a36",
+        "instanceIds": [
+          "b90b4a9f2a36",
+          "8459b54494d3",
+          "d76614f90b28",
+          "09ea34d7cca0",
+          "364fb6c47939",
+          "ee80af7ff50c",
+          "96dc4a4e0c0b",
+          "0d78e66c8e0b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help--b7dfb547/blocks/b90b4a9f2a36.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/consumer-duty/",
+        "instanceId": "088126d9abfc",
+        "instanceIds": [
+          "088126d9abfc"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_consumer-duty--ec7a506c/blocks/088126d9abfc.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/biodiversity/",
+        "instanceId": "f6ed170a18ca",
+        "instanceIds": [
+          "f6ed170a18ca"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_biodiversity--e2bea9eb/blocks/f6ed170a18ca.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/jupiter-approach-and-finance-for-biodiversity-pledge/",
+        "instanceId": "753d47c5c109",
+        "instanceIds": [
+          "753d47c5c109"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_jupiter-approach-and-finance-for-biodiversity-pledge--6f155a07/blocks/753d47c5c109.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/reports/",
+        "instanceId": "40291f0764fe",
+        "instanceIds": [
+          "40291f0764fe",
+          "4e4765471ed3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_reports--8176b5fa/blocks/40291f0764fe.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainability-disclosure-requirements/",
+        "instanceId": "203e2071dd08",
+        "instanceIds": [
+          "203e2071dd08"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_sustainability-disclosure-requirements--30203a0e/blocks/203e2071dd08.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/task-force-on-climate-related-financial-disclosures/",
+        "instanceId": "f721b117d6e1",
+        "instanceIds": [
+          "f721b117d6e1",
+          "07cceed197d1",
+          "a54677950a1a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_task-force-on-climate-related-financial-disclosures--b75b71b7/blocks/f721b117d6e1.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/tiered-pricing-on-the-fixed-annual-charge/",
+        "instanceId": "05f8c0d666f7",
+        "instanceIds": [
+          "05f8c0d666f7",
+          "f9b142c31a76"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_tiered-pricing-on-the-fixed-annual-charge--23542044/blocks/05f8c0d666f7.jpg"
+      }
+    ],
+    "reuseCount": 14
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "ruled data table of contact information",
+    "mergedInto": null
+  }
+}

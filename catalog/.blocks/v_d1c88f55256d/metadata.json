@@ -1,0 +1,38 @@
+{
+  "id": "v_d1c88f55256d",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.873Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "dense",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "heading + field + button + text + link"
+  },
+  "layoutKey": "~([(T [button])*2|~(form)])",
+  "colour": "~w([(Tk [button~@])*2|~w(form)])",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/",
+        "instanceId": "649effbf8af7",
+        "instanceIds": [
+          "649effbf8af7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual--17bd0a2e/blocks/649effbf8af7.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "promo slides beside a fund search form; could be a carousel plus a separate form block",
+    "mergedInto": null
+  }
+}

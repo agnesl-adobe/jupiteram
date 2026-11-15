@@ -1,0 +1,38 @@
+{
+  "id": "v_447702855b7a",
+  "type": "cards",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-death-and-a-birthday-in-the-eu-family/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "link + image + text + heading + list"
+  },
+  "layoutKey": "(T [(T [T|[T*2.25|~@]] [~(T)])|(T [T|[T*2.5|~@]] [~(T)])|(T [T|[T*3|~@]] [~(T)])] [(T [T|[T*2.25|~@]] [~(T)])|(T [T|[T*2.5|~@]] [~(T)])|(T [T|[T|~@]] [~(T)])] [(T [T|[T*2.25|~@]] [~(T)])|(T [T|[T*2.75|~@]] [~(T)])|(T [T|[T|~@]] [~(T)])] [(T [T|[T*2.25|~@]] [~(T)])|(T [T|[T|~@]] [~(T)])] [(T [T|[T*2.5|~@]] [~(T)])|(T [T|[T*2.75|~@]] [~(T)])|(T [T|[T*3|~@]] [~(T)])] [(T [T|[T*2.5|~@]] [~(T)])|(T [T|[T*2.75|~@]] [~(T)])|(T [T|[T|~@]] [~(T)])] [(T [T|[T*2.5|~@]] [~(T)])|(T [T|[T*3|~@]] [~(T)])|(T [T|[T|~@]] [~(T)])] [(T [T|[T*2.5|~@]] [~(T)])|(T [T|[T|~@]] [~(T)])] [(T [T|[T*2.75|~@]] [~(T)])|(T [T|[T|~@]] [~(T)])] [T|[T|~@]] [~(T)])",
+  "colour": "(T Tk [(T Tk [Tk|[Tk*2.25|~@]] [~b(Tk)])|(T Tk [Tk|[Tk*2.5|~@]] [~b(Tk)])|(T Tk [Tk|[Tk*3|~@]] [~b(Tk)])] [(T Tk [Tk|[Tk*2.25|~@]] [~b(Tk)])|(T Tk [Tk|[Tk*2.5|~@]] [~b(Tk)])|(T Tk [Tk|[Tk|~@]] [~b(Tk)])] [(T Tk [Tk|[Tk*2.25|~@]] [~b(Tk)])|(T Tk [Tk|[Tk*2.75|~@]] [~b(Tk)])|(T Tk [Tk|[Tk|~@]] [~b(Tk)])] [(T Tk [Tk|[Tk*2.25|~@]] [~b(Tk)])|(T Tk [Tk|[Tk|~@]] [~b(Tk)])] [(T Tk [Tk|[Tk*2.5|~@]] [~b(Tk)])|(T Tk [Tk|[Tk*2.75|~@]] [~b(Tk)])|(T Tk [Tk|[Tk*3|~@]] [~b(Tk)])] [(T Tk [Tk|[Tk*2.5|~@]] [~b(Tk)])|(T Tk [Tk|[Tk*2.75|~@]] [~b(Tk)])|(T Tk [Tk|[Tk|~@]] [~b(Tk)])] [(T Tk [Tk|[Tk*2.5|~@]] [~b(Tk)])|(T Tk [Tk|[Tk*3|~@]] [~b(Tk)])|(T Tk [Tk|[Tk|~@]] [~b(Tk)])] [(T Tk [Tk|[Tk*2.5|~@]] [~b(Tk)])|(T Tk [Tk|[Tk|~@]] [~b(Tk)])] [(T Tk [Tk|[Tk*2.75|~@]] [~b(Tk)])|(T Tk [Tk|[Tk|~@]] [~b(Tk)])] [Tk|[Tk|~@]] [~b(Tk)])",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-death-and-a-birthday-in-the-eu-family/",
+        "instanceId": "5b36a87102c4",
+        "instanceIds": [
+          "5b36a87102c4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-a-death-and-a-birthday-in-the-eu-family--cdb44bf0/blocks/5b36a87102c4.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "same article card fields, shown as a wrapping grid archive instead of a slider",
+    "mergedInto": "v_2d51d2db9b0f"
+  }
+}

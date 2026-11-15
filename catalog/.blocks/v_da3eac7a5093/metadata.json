@@ -1,0 +1,38 @@
+{
+  "id": "v_da3eac7a5093",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.873Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/insights/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "heading + button"
+  },
+  "layoutKey": "[T|button]",
+  "colour": "[Tk|button]",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/",
+        "instanceId": "c779fc4367cf",
+        "instanceIds": [
+          "c779fc4367cf"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights--51db238d/blocks/c779fc4367cf.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "filter heading and clear-filters control of the same insights filter",
+    "mergedInto": "v_e3ba3da2b33d"
+  }
+}

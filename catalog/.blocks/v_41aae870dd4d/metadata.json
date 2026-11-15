@@ -1,0 +1,38 @@
+{
+  "id": "v_41aae870dd4d",
+  "type": "search",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.873Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/insights/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "field + button"
+  },
+  "layoutKey": "form",
+  "colour": "form",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/",
+        "instanceId": "34811ee2d4e2",
+        "instanceIds": [
+          "34811ee2d4e2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights--51db238d/blocks/34811ee2d4e2.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "keyword search input over articles",
+    "mergedInto": null
+  }
+}

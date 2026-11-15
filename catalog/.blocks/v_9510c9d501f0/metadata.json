@@ -1,0 +1,38 @@
+{
+  "id": "v_9510c9d501f0",
+  "type": "columns",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/power-of-attorneys-and-executors/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "link"
+  },
+  "layoutKey": "~([T])",
+  "colour": "~b([Tw])",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/power-of-attorneys-and-executors/",
+        "instanceId": "bc527066feef",
+        "instanceIds": [
+          "bc527066feef"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_power-of-attorneys-and-executors--f6a519c2/blocks/bc527066feef.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "only a lone CTA button is visible; may be default-content button",
+    "mergedInto": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "v_061e78219397",
+  "type": "default-content",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/jupiter-strategic-absolute-return-bond-fund/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "heading + button + text"
+  },
+  "layoutKey": "(T button)",
+  "colour": "(Tk button)",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-strategic-absolute-return-bond-fund/",
+        "instanceId": "21683e95dea8",
+        "instanceIds": [
+          "21683e95dea8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-strategic-absolute-return-bond-fund--20b184ed/blocks/21683e95dea8.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/frequently-asked-questions/",
+        "instanceId": "d608364acf8b",
+        "instanceIds": [
+          "d608364acf8b",
+          "94d8272abb51",
+          "4d7467e4c02b",
+          "a8b8189a8362",
+          "e46461a217da",
+          "1ef1bdad04ad",
+          "0e8f0b8416f5"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_frequently-asked-questions--d87f3b14/blocks/d608364acf8b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/rights-and-issues-investment-trust-plc/",
+        "instanceId": "1ea82a867513",
+        "instanceIds": [
+          "1ea82a867513"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_rights-and-issues-investment-trust-plc--dafb46d1/blocks/1ea82a867513.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/security-alerts/",
+        "instanceId": "1542beaaf8dc",
+        "instanceIds": [
+          "1542beaaf8dc",
+          "6166e99c9131",
+          "12dd73419755"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_security-alerts--77647607/blocks/1542beaaf8dc.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/corporate-sustainability/",
+        "instanceId": "3d86e8280f75",
+        "instanceIds": [
+          "3d86e8280f75",
+          "aebf62ec2919",
+          "b6de4d7b44b0"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_corporate-sustainability--7fb61c16/blocks/3d86e8280f75.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainability-disclosure-requirements/",
+        "instanceId": "0cd52b399f5b",
+        "instanceIds": [
+          "0cd52b399f5b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_sustainability-disclosure-requirements--30203a0e/blocks/0cd52b399f5b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainable-finance-disclosure-regulation/",
+        "instanceId": "5d8bdfc783bd",
+        "instanceIds": [
+          "5d8bdfc783bd",
+          "dcabea0a91ea"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_sustainable-finance-disclosure-regulation--92cc7ebb/blocks/5d8bdfc783bd.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/uk-equities/",
+        "instanceId": "a35394130845",
+        "instanceIds": [
+          "a35394130845"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_uk-equities--fa04f43e/blocks/a35394130845.jpg"
+      }
+    ],
+    "reuseCount": 8
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "text plus a button an author can type; not visible in screenshot",
+    "mergedInto": null
+  }
+}

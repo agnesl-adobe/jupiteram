@@ -1,0 +1,1560 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/corporate-sustainability/",
+  "title": "Corporate Sustainability - Jupiter Asset Management",
+  "timestamp": "2026-11-12T15:17:13.452Z",
+  "duration": "12.5s",
+  "cleanup": {
+    "elementsRemoved": 5,
+    "types": [
+      "overlay",
+      "cookie-banner",
+      "popup"
+    ],
+    "cookieConsentDismissed": true,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#onetrust-banner-sdk",
+        "type": "overlay"
+      },
+      {
+        "selector": "#onetrust-style",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "#onetrust-consent-sdk",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "div.cce-backdropoverlay",
+        "type": "popup",
+        "rule": "body [class*=\"overlay\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/Header_logo_125x45px.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Sustainability_01?ts=1789396980085&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/content/JupiterAsset/Information?ts=1789396979012&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/content/JupiterAsset/Track_record?ts=1789396979031&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/content/JupiterAsset/Team?ts=1789396979050&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/jupiter-sustainability-report-2025_Page_01?qlt=85&wid=%7B.width%7D&ts=1789396979067&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/jupiter-sustainability-report-2025_Page_01?qlt=85&wid=320&ts=1789396979067&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/jupiter-sustainability-report-2025_Page_01?qlt=85&wid=480&ts=1789396979067&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/jupiter-sustainability-report-2025_Page_01?qlt=85&wid=600&ts=1789396979067&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/jupiter-sustainability-report-2025_Page_01?qlt=85&wid=800&ts=1789396979067&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/jupiter-sustainability-report-2025_Page_01?qlt=85&wid=1024&ts=1789396979067&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/jupiter-sustainability-report-2025_Page_01?qlt=85&wid=1200&ts=1789396979067&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/jupiter-sustainability-report-2025_Page_01?qlt=85&wid=1600&ts=1789396979067&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UN-global-compact-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979531&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UN-global-compact-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979531&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UN-global-compact-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979531&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UN-global-compact-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979531&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UN-global-compact-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979531&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UN-global-compact-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979531&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UN-global-compact-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979531&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UN-global-compact-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979531&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/re100_-__430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979550&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/re100_-__430x253px?qlt=85&wid=320&ts=1789396979550&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/re100_-__430x253px?qlt=85&wid=480&ts=1789396979550&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/re100_-__430x253px?qlt=85&wid=600&ts=1789396979550&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/re100_-__430x253px?qlt=85&wid=800&ts=1789396979550&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/re100_-__430x253px?qlt=85&wid=1024&ts=1789396979550&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/re100_-__430x253px?qlt=85&wid=1200&ts=1789396979550&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/re100_-__430x253px?qlt=85&wid=1600&ts=1789396979550&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Fair-Tax-Foundation-colour-logo_430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979574&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Fair-Tax-Foundation-colour-logo_430x253px?qlt=85&wid=320&ts=1789396979574&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Fair-Tax-Foundation-colour-logo_430x253px?qlt=85&wid=480&ts=1789396979574&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Fair-Tax-Foundation-colour-logo_430x253px?qlt=85&wid=600&ts=1789396979574&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Fair-Tax-Foundation-colour-logo_430x253px?qlt=85&wid=800&ts=1789396979574&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Fair-Tax-Foundation-colour-logo_430x253px?qlt=85&wid=1024&ts=1789396979574&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Fair-Tax-Foundation-colour-logo_430x253px?qlt=85&wid=1200&ts=1789396979574&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Fair-Tax-Foundation-colour-logo_430x253px?qlt=85&wid=1600&ts=1789396979574&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/The-Investment-Association_430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979595&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/The-Investment-Association_430x253px?qlt=85&wid=320&ts=1789396979595&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/The-Investment-Association_430x253px?qlt=85&wid=480&ts=1789396979595&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/The-Investment-Association_430x253px?qlt=85&wid=600&ts=1789396979595&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/The-Investment-Association_430x253px?qlt=85&wid=800&ts=1789396979595&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/The-Investment-Association_430x253px?qlt=85&wid=1024&ts=1789396979595&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/The-Investment-Association_430x253px?qlt=85&wid=1200&ts=1789396979595&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/The-Investment-Association_430x253px?qlt=85&wid=1600&ts=1789396979595&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Net-zero-initaive-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979612&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Net-zero-initaive-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979612&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Net-zero-initaive-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979612&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Net-zero-initaive-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979612&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Net-zero-initaive-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979612&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Net-zero-initaive-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979612&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Net-zero-initaive-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979612&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Net-zero-initaive-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979612&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Finance-for-Biodiversity-Pledge-logo-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979630&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Finance-for-Biodiversity-Pledge-logo-430x253px?qlt=85&wid=320&ts=1789396979630&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Finance-for-Biodiversity-Pledge-logo-430x253px?qlt=85&wid=480&ts=1789396979630&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Finance-for-Biodiversity-Pledge-logo-430x253px?qlt=85&wid=600&ts=1789396979630&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Finance-for-Biodiversity-Pledge-logo-430x253px?qlt=85&wid=800&ts=1789396979630&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Finance-for-Biodiversity-Pledge-logo-430x253px?qlt=85&wid=1024&ts=1789396979630&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Finance-for-Biodiversity-Pledge-logo-430x253px?qlt=85&wid=1200&ts=1789396979630&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Finance-for-Biodiversity-Pledge-logo-430x253px?qlt=85&wid=1600&ts=1789396979630&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSC-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979647&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSC-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979647&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSC-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979647&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSC-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979647&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSC-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979647&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSC-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979647&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSC-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979647&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSC-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979647&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/PRI-Sig-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979664&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/PRI-Sig-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979664&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/PRI-Sig-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979664&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/PRI-Sig-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979664&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/PRI-Sig-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979664&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/PRI-Sig-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979664&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/PRI-Sig-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979664&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/PRI-Sig-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979664&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/climate-action-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979687&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/climate-action-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979687&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/climate-action-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979687&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/climate-action-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979687&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/climate-action-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979687&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/climate-action-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979687&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/climate-action-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979687&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/climate-action-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979687&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/FAIRR-logo_Square_430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979708&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/FAIRR-logo_Square_430x253px?qlt=85&wid=320&ts=1789396979708&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/FAIRR-logo_Square_430x253px?qlt=85&wid=480&ts=1789396979708&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/FAIRR-logo_Square_430x253px?qlt=85&wid=600&ts=1789396979708&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/FAIRR-logo_Square_430x253px?qlt=85&wid=800&ts=1789396979708&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/FAIRR-logo_Square_430x253px?qlt=85&wid=1024&ts=1789396979708&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/FAIRR-logo_Square_430x253px?qlt=85&wid=1200&ts=1789396979708&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/FAIRR-logo_Square_430x253px?qlt=85&wid=1600&ts=1789396979708&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/iigcc-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979729&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/iigcc-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979729&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/iigcc-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979729&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/iigcc-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979729&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/iigcc-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979729&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/iigcc-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979729&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/iigcc-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979729&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/iigcc-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979729&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSIF-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979746&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSIF-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979746&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSIF-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979746&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSIF-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979746&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSIF-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979746&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSIF-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979746&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSIF-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979746&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/UKSIF-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979746&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investor-Forum-Logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979763&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investor-Forum-Logo-colour-430x253px?qlt=85&wid=320&ts=1789396979763&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investor-Forum-Logo-colour-430x253px?qlt=85&wid=480&ts=1789396979763&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investor-Forum-Logo-colour-430x253px?qlt=85&wid=600&ts=1789396979763&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investor-Forum-Logo-colour-430x253px?qlt=85&wid=800&ts=1789396979763&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investor-Forum-Logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979763&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investor-Forum-Logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979763&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investor-Forum-Logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979763&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/pensions-for-purpose-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979781&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/pensions-for-purpose-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979781&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/pensions-for-purpose-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979781&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/pensions-for-purpose-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979781&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/pensions-for-purpose-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979781&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/pensions-for-purpose-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979781&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/pensions-for-purpose-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979781&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/pensions-for-purpose-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979781&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/WIF-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979798&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/WIF-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979798&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/WIF-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979798&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/WIF-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979798&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/WIF-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979798&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/WIF-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979798&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/WIF-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979798&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/WIF-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979798&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investment-2020-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979815&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investment-2020-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979815&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investment-2020-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979815&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investment-2020-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979815&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investment-2020-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979815&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investment-2020-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979815&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investment-2020-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979815&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Investment-2020-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979815&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/GAIN_Logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979832&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/GAIN_Logo-colour-430x253px?qlt=85&wid=320&ts=1789396979832&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/GAIN_Logo-colour-430x253px?qlt=85&wid=480&ts=1789396979832&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/GAIN_Logo-colour-430x253px?qlt=85&wid=600&ts=1789396979832&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/GAIN_Logo-colour-430x253px?qlt=85&wid=800&ts=1789396979832&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/GAIN_Logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979832&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/GAIN_Logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979832&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/GAIN_Logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979832&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Diversity-project-logo-colour-430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979849&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Diversity-project-logo-colour-430x253px?qlt=85&wid=320&ts=1789396979849&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Diversity-project-logo-colour-430x253px?qlt=85&wid=480&ts=1789396979849&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Diversity-project-logo-colour-430x253px?qlt=85&wid=600&ts=1789396979849&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Diversity-project-logo-colour-430x253px?qlt=85&wid=800&ts=1789396979849&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Diversity-project-logo-colour-430x253px?qlt=85&wid=1024&ts=1789396979849&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Diversity-project-logo-colour-430x253px?qlt=85&wid=1200&ts=1789396979849&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Diversity-project-logo-colour-430x253px?qlt=85&wid=1600&ts=1789396979849&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Carbon_Disclosure_Project_logo_430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979867&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Carbon_Disclosure_Project_logo_430x253px?qlt=85&wid=320&ts=1789396979867&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Carbon_Disclosure_Project_logo_430x253px?qlt=85&wid=480&ts=1789396979867&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Carbon_Disclosure_Project_logo_430x253px?qlt=85&wid=600&ts=1789396979867&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Carbon_Disclosure_Project_logo_430x253px?qlt=85&wid=800&ts=1789396979867&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Carbon_Disclosure_Project_logo_430x253px?qlt=85&wid=1024&ts=1789396979867&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Carbon_Disclosure_Project_logo_430x253px?qlt=85&wid=1200&ts=1789396979867&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Carbon_Disclosure_Project_logo_430x253px?qlt=85&wid=1600&ts=1789396979867&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Print-Releaf_430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979884&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Print-Releaf_430x253px?qlt=85&wid=320&ts=1789396979884&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Print-Releaf_430x253px?qlt=85&wid=480&ts=1789396979884&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Print-Releaf_430x253px?qlt=85&wid=600&ts=1789396979884&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Print-Releaf_430x253px?qlt=85&wid=800&ts=1789396979884&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Print-Releaf_430x253px?qlt=85&wid=1024&ts=1789396979884&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Print-Releaf_430x253px?qlt=85&wid=1200&ts=1789396979884&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Print-Releaf_430x253px?qlt=85&wid=1600&ts=1789396979884&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/thinking-ahead-institute-logo_430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979905&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/thinking-ahead-institute-logo_430x253px?qlt=85&wid=320&ts=1789396979905&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/thinking-ahead-institute-logo_430x253px?qlt=85&wid=480&ts=1789396979905&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/thinking-ahead-institute-logo_430x253px?qlt=85&wid=600&ts=1789396979905&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/thinking-ahead-institute-logo_430x253px?qlt=85&wid=800&ts=1789396979905&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/thinking-ahead-institute-logo_430x253px?qlt=85&wid=1024&ts=1789396979905&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/thinking-ahead-institute-logo_430x253px?qlt=85&wid=1200&ts=1789396979905&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/thinking-ahead-institute-logo_430x253px?qlt=85&wid=1600&ts=1789396979905&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ICGN_logo_430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979926&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ICGN_logo_430x253px?qlt=85&wid=320&ts=1789396979926&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ICGN_logo_430x253px?qlt=85&wid=480&ts=1789396979926&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ICGN_logo_430x253px?qlt=85&wid=600&ts=1789396979926&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ICGN_logo_430x253px?qlt=85&wid=800&ts=1789396979926&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ICGN_logo_430x253px?qlt=85&wid=1024&ts=1789396979926&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ICGN_logo_430x253px?qlt=85&wid=1200&ts=1789396979926&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ICGN_logo_430x253px?qlt=85&wid=1600&ts=1789396979926&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/NA100-logo-_430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979947&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/NA100-logo-_430x253px?qlt=85&wid=320&ts=1789396979947&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/NA100-logo-_430x253px?qlt=85&wid=480&ts=1789396979947&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/NA100-logo-_430x253px?qlt=85&wid=600&ts=1789396979947&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/NA100-logo-_430x253px?qlt=85&wid=800&ts=1789396979947&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/NA100-logo-_430x253px?qlt=85&wid=1024&ts=1789396979947&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/NA100-logo-_430x253px?qlt=85&wid=1200&ts=1789396979947&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/NA100-logo-_430x253px?qlt=85&wid=1600&ts=1789396979947&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ACT_ALLIANCE_LOGO%20430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979972&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ACT_ALLIANCE_LOGO%20430x253px?qlt=85&wid=320&ts=1789396979972&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ACT_ALLIANCE_LOGO%20430x253px?qlt=85&wid=480&ts=1789396979972&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ACT_ALLIANCE_LOGO%20430x253px?qlt=85&wid=600&ts=1789396979972&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ACT_ALLIANCE_LOGO%20430x253px?qlt=85&wid=800&ts=1789396979972&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ACT_ALLIANCE_LOGO%20430x253px?qlt=85&wid=1024&ts=1789396979972&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ACT_ALLIANCE_LOGO%20430x253px?qlt=85&wid=1200&ts=1789396979972&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/ACT_ALLIANCE_LOGO%20430x253px?qlt=85&wid=1600&ts=1789396979972&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/LGPS-advisory-logo%20430x253px?qlt=85&wid=%7B.width%7D&ts=1789396979996&$ImageCarousel$&dpr=on,1",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/LGPS-advisory-logo%20430x253px?qlt=85&wid=320&ts=1789396979996&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/LGPS-advisory-logo%20430x253px?qlt=85&wid=480&ts=1789396979996&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/LGPS-advisory-logo%20430x253px?qlt=85&wid=600&ts=1789396979996&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/LGPS-advisory-logo%20430x253px?qlt=85&wid=800&ts=1789396979996&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/LGPS-advisory-logo%20430x253px?qlt=85&wid=1024&ts=1789396979996&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/LGPS-advisory-logo%20430x253px?qlt=85&wid=1200&ts=1789396979996&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/LGPS-advisory-logo%20430x253px?qlt=85&wid=1600&ts=1789396979996&$ImageCarousel$&dpr=off",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/footer-logo-v2.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/close-popup.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/select-dropdown.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_UK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Austria.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Belguim.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Brunei.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_China.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Denmark.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Finland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_France.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Germany.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_HK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Iceland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_ireland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Italy.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Japan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Korea.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lichenstein.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lux.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Malyasia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Netherlands.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Norway.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Pillapenes.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Portugal.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Singapore.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Spain.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Sweden.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Swiss.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Taiwan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_US.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/US_Latam.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Thai.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Australia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-dropdown-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-glob-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/search-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/accordion-icon-down.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/carousel-left-button.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/carousel-right-button.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/drop-down.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/globe.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-right.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/linkedin.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/external-icon.svg",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s(sB,s(s,s(s,3x1,s),2x1B,3x1,s(s,2x1,2x1,2x1),s(s,2x1,2x1,2x1),s(s,2x1,2x1,2x1),s,s(6x1,2x1),s(s,3x1,s))))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderlessBlue.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderlessBlue.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-cards-container > div.cmp-text",
+      "rc2c2c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderlessBlue.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-cards-container > div.cmp-cards",
+      "rc2c2c2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderlessBlue.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-cards-container > div.biography-item__arrow-container",
+      "rc2c2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.contentblock.teaser.carpo-bright-50.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c4": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.stats.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c5": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.accordion.panelcontainer.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(5)",
+      "rc2c2c5c1": "body > div:nth-of-type(1) > div > div > main > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(5) > div > div:nth-of-type(1)",
+      "rc2c2c5c2": "#reporting > div.cmp-accordion__item:nth-of-type(2)",
+      "rc2c2c5c3": "#reporting > div.cmp-accordion__item:nth-of-type(3)",
+      "rc2c2c5c4": "#reporting > div.cmp-accordion__item:nth-of-type(4)",
+      "rc2c2c6": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.accordion.panelcontainer.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(6)",
+      "rc2c2c6c1": "body > div:nth-of-type(1) > div > div > main > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(6) > div > div:nth-of-type(1)",
+      "rc2c2c6c2": "#metrics > div.cmp-accordion__item:nth-of-type(2)",
+      "rc2c2c6c3": "#metrics > div.cmp-accordion__item:nth-of-type(3)",
+      "rc2c2c6c4": "#metrics > div.cmp-accordion__item:nth-of-type(4)",
+      "rc2c2c7": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.accordion.panelcontainer.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(7)",
+      "rc2c2c7c1": "body > div:nth-of-type(1) > div > div > main > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(7) > div > div:nth-of-type(1)",
+      "rc2c2c7c2": "#stakeholder > div.cmp-accordion__item:nth-of-type(2)",
+      "rc2c2c7c3": "#stakeholder > div.cmp-accordion__item:nth-of-type(3)",
+      "rc2c2c7c4": "#stakeholder > div.cmp-accordion__item:nth-of-type(4)",
+      "rc2c2c8": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.title.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c9": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.imagecarousel.carousel.panelcontainer.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c9c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.imagecarousel.carousel.panelcontainer.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-image-carousel > div.cmp-carousel__content",
+      "rc2c2c9c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.imagecarousel.carousel.panelcontainer.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-image-carousel > div.cmp-carousel__actionElement",
+      "rc2c2c10": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderlessBlue.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(10)",
+      "rc2c2c10c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderlessBlue.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(10) > div.cmp-cards-container > div.cmp-text",
+      "rc2c2c10c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderlessBlue.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(10) > div.cmp-cards-container > div.cmp-cards.defaultList.threeNoOfColumns.id--cards-e502ba466b",
+      "rc2c2c10c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderlessBlue.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(10) > div.cmp-cards-container > div.biography-item__arrow-container"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content",
+        "background": "#002755",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero"
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 0,
+      "height": 5218.984375
+    },
+    "splits": [],
+    "start": {
+      "kind": "heading",
+      "look": {
+        "font": "Poppins, Helvetica, Arial, sans-serif",
+        "color": "rgb(255, 255, 255)",
+        "align": "start"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "192b28f80778",
+      "type": "default-content",
+      "detectionTier": 2,
+      "selector": "#container-e21af23548 > div > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 569
+      },
+      "visualChars": {
+        "colorScheme": "dark",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "image + list + link + heading"
+      },
+      "description": "hero",
+      "features": {
+        "skeleton": "(nav T)",
+        "variant": "(nav Tw)",
+        "variantClean": "(nav Tk)"
+      },
+      "screenshot": null,
+      "html": "blocks/192b28f80778.html"
+    },
+    {
+      "id": "3e58d1e08e01",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-31a0610e73 > div > div.text.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 569,
+        "width": 1440,
+        "height": 424
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/3e58d1e08e01.html"
+    },
+    {
+      "id": "4145b847970e",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-6afe0386fe",
+      "bounds": {
+        "x": 245,
+        "y": 1009,
+        "width": 950,
+        "height": 112
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/4145b847970e.html"
+    },
+    {
+      "id": "978d6fa085d1",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#cards-6afe0386fe > div.cmp-cards",
+      "bounds": {
+        "x": 245,
+        "y": 1121,
+        "width": 950,
+        "height": 695
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "image + heading + text + link"
+      },
+      "description": "cmp-cards",
+      "features": {
+        "skeleton": "[~(T)]",
+        "variant": "[~w(Tbw)]",
+        "variantClean": "[~w(Tk)]",
+        "set": true
+      },
+      "screenshot": "blocks/978d6fa085d1.jpg",
+      "html": "blocks/978d6fa085d1.html",
+      "variantId": "v_7517a669c4d4"
+    },
+    {
+      "id": "8fb5c6372c65",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-31a0610e73 > div > div.contentblock.teaser.carpo-bright-50.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 1916,
+        "width": 1440,
+        "height": 466
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "image + heading + link"
+      },
+      "description": "contentblock",
+      "features": {
+        "skeleton": "~([T])",
+        "variant": "~w([T|Tbw])",
+        "variantClean": "~w([T|Tk])"
+      },
+      "screenshot": "blocks/8fb5c6372c65.jpg",
+      "html": "blocks/8fb5c6372c65.html",
+      "variantId": "v_02b022831544"
+    },
+    {
+      "id": "f70e474570e9",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-31a0610e73 > div > div.stats.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 2382,
+        "width": 1440,
+        "height": 318
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + text"
+      },
+      "description": "stats",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/f70e474570e9.jpg",
+      "html": "blocks/f70e474570e9.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "3d86e8280f75",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#container-31a0610e73 > div > div:nth-child(5)",
+      "bounds": {
+        "x": 0,
+        "y": 2700,
+        "width": 1440,
+        "height": 506
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + button"
+      },
+      "description": "accordion",
+      "features": {
+        "skeleton": "(T button)",
+        "variant": "(Tb button)",
+        "variantClean": "(Tk button)"
+      },
+      "screenshot": "blocks/3d86e8280f75.jpg",
+      "html": "blocks/3d86e8280f75.html",
+      "variantId": "v_061e78219397"
+    },
+    {
+      "id": "aebf62ec2919",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#container-31a0610e73 > div > div:nth-child(6)",
+      "bounds": {
+        "x": 0,
+        "y": 3206,
+        "width": 1440,
+        "height": 506
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + button"
+      },
+      "description": "accordion",
+      "features": {
+        "skeleton": "(T button)",
+        "variant": "(Tb button)",
+        "variantClean": "(Tk button)"
+      },
+      "screenshot": "blocks/aebf62ec2919.jpg",
+      "html": "blocks/aebf62ec2919.html",
+      "variantId": "v_061e78219397"
+    },
+    {
+      "id": "b6de4d7b44b0",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#container-31a0610e73 > div > div:nth-child(7)",
+      "bounds": {
+        "x": 0,
+        "y": 3712,
+        "width": 1440,
+        "height": 506
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + button"
+      },
+      "description": "accordion",
+      "features": {
+        "skeleton": "(T button)",
+        "variant": "(Tb button)",
+        "variantClean": "(Tk button)"
+      },
+      "screenshot": "blocks/b6de4d7b44b0.jpg",
+      "html": "blocks/b6de4d7b44b0.html",
+      "variantId": "v_061e78219397"
+    },
+    {
+      "id": "a934a920698c",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-31a0610e73 > div > div.title.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 4218,
+        "width": 1440,
+        "height": 166
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "title",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/a934a920698c.html"
+    },
+    {
+      "id": "e64141f367f4",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#imagecarousel-102ecfaf43 > div.cmp-carousel__content",
+      "bounds": {
+        "x": 245,
+        "y": 4400,
+        "width": 950,
+        "height": 142
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "image"
+      },
+      "description": "cmp-carousel-content",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[T]",
+        "variantClean": "[T]",
+        "set": true
+      },
+      "screenshot": "blocks/e64141f367f4.jpg",
+      "html": "blocks/e64141f367f4.html",
+      "variantId": "v_0f0850c2d372"
+    },
+    {
+      "id": "37c09768bfcd",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#imagecarousel-102ecfaf43 > div.cmp-carousel__actionElement",
+      "bounds": {
+        "x": 245,
+        "y": 4582,
+        "width": 950,
+        "height": 63
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-carousel-actionelement",
+      "features": {
+        "skeleton": "[~@]",
+        "variant": "[~@]",
+        "variantClean": "[~@]",
+        "set": true
+      },
+      "screenshot": "blocks/37c09768bfcd.jpg",
+      "html": "blocks/37c09768bfcd.html",
+      "variantId": "v_809bb862994b"
+    },
+    {
+      "id": "151a4922eff1",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-e502ba466b",
+      "bounds": {
+        "x": 245,
+        "y": 4845,
+        "width": 950,
+        "height": 82
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/151a4922eff1.html"
+    },
+    {
+      "id": "ce6f1ca6aa4f",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#cards-e502ba466b > div.cmp-cards.defaultList.threeNoOfColumns.id--cards-e502ba466b",
+      "bounds": {
+        "x": 245,
+        "y": 4927,
+        "width": 950,
+        "height": 192
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + text + link"
+      },
+      "description": "cmp-cards",
+      "features": {
+        "skeleton": "[~(T)]",
+        "variant": "[~w(Tbw)]",
+        "variantClean": "[~w(Tk)]",
+        "set": true
+      },
+      "screenshot": "blocks/ce6f1ca6aa4f.jpg",
+      "html": "blocks/ce6f1ca6aa4f.html",
+      "variantId": "v_7517a669c4d4"
+    }
+  ]
+}

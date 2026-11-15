@@ -1,0 +1,54 @@
+{
+  "id": "v_844c547ab6a2",
+  "type": "cards",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/about-jupiter/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "heading + text + link"
+  },
+  "layoutKey": "T",
+  "colour": "Tk",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/about-jupiter/",
+        "instanceId": "ef03d385ccdb",
+        "instanceIds": [
+          "ef03d385ccdb"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_about-jupiter--8b864c51/blocks/ef03d385ccdb.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/search/",
+        "instanceId": "5dabcb871b22",
+        "instanceIds": [
+          "5dabcb871b22",
+          "dc5c6ddc9c01",
+          "8ec38dbb919f",
+          "ecdf48356d5e",
+          "eeaba44a52d4",
+          "6d7ecd844512",
+          "c797111c999c",
+          "d52598e925d6",
+          "68cdc7bb0276"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_search--8e66d9e9/blocks/5dabcb871b22.jpg"
+      }
+    ],
+    "reuseCount": 2
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "bordered card with heading, text and Read more; only one seen per instance, may be default-content",
+    "mergedInto": null
+  }
+}

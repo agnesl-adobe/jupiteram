@@ -1,0 +1,54 @@
+{
+  "id": "v_02b022831544",
+  "type": "columns",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/resources-and-help/consumer-duty/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "image + heading + link"
+  },
+  "layoutKey": "~([T])",
+  "colour": "~w([T|Tk])",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/consumer-duty/",
+        "instanceId": "879024884211",
+        "instanceIds": [
+          "879024884211"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_consumer-duty--ec7a506c/blocks/879024884211.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/value-assessment/",
+        "instanceId": "a17d9e51dee7",
+        "instanceIds": [
+          "a17d9e51dee7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_value-assessment--2f0e7caf/blocks/a17d9e51dee7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/corporate-sustainability/",
+        "instanceId": "8fb5c6372c65",
+        "instanceIds": [
+          "8fb5c6372c65"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_corporate-sustainability--7fb61c16/blocks/8fb5c6372c65.jpg"
+      }
+    ],
+    "reuseCount": 3
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "image beside heading, copy and CTA, a fixed two-part layout",
+    "mergedInto": null
+  }
+}

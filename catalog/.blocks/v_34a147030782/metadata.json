@@ -1,0 +1,38 @@
+{
+  "id": "v_34a147030782",
+  "type": "tabs",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/investment-teams/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "list + heading + text + link"
+  },
+  "layoutKey": "([tab] [~(T)])",
+  "colour": "([tab] [~w(Tk)])",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/",
+        "instanceId": "aa4193c181c2",
+        "instanceIds": [
+          "aa4193c181c2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams--1b0ffef1/blocks/aa4193c181c2.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "asset class tabs over team tiles; tab label plus content, same fields",
+    "mergedInto": "v_ddbe24e1ed11"
+  }
+}

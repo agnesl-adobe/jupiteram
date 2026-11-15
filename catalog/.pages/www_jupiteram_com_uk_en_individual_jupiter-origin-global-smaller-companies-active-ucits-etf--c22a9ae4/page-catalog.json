@@ -1,0 +1,763 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.jupiteram.com/uk/en/individual/jupiter-origin-global-smaller-companies-active-ucits-etf/",
+  "title": "Jupiter Origin Global Smaller Companies Active UCITS ETF - Jupiter Asset Management",
+  "timestamp": "2026-11-12T15:04:03.027Z",
+  "duration": "13.2s",
+  "cleanup": {
+    "elementsRemoved": 5,
+    "types": [
+      "overlay",
+      "cookie-banner",
+      "popup"
+    ],
+    "cookieConsentDismissed": true,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#onetrust-banner-sdk",
+        "type": "overlay"
+      },
+      {
+        "selector": "#onetrust-style",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "#onetrust-consent-sdk",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "div.cce-backdropoverlay",
+        "type": "popup",
+        "rule": "body [class*=\"overlay\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/Header_logo_125x45px.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/image/JupiterAsset/Hero_Image_atom_1920x1080?ts=1765356819492&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/content/JupiterAsset/Earth?ts=1765356819747&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/content/JupiterAsset/Growth?ts=1765356819773&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/content/JupiterAsset/Investment_philosophy?ts=1765356819791&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://s7g10.scene7.com/is/content/JupiterAsset/Cubes?ts=1765356819809&dpr=off",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--c0d9ab8c-e48f-4e57-8982-0734a1efa140/Chris_Carter.JPG.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--ddcedb3a-7bf2-4581-8eb6-18e7a5da3c48/Tarlock_Randhawa.JPG.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--7626293c-a759-4329-85f0-161a7f0597ca/Nerys_Weir.JPG.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--8995b8cc-24d4-430f-8351-233fbcc7e94b/Ben_Marsh.JPG.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--2f39da34-e880-404c-87e8-d6727565a036/Ruairi_Devery-Kavanagh.JPG.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/footer-logo-v2.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/close-popup.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/select-dropdown.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_UK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Austria.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Belguim.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Brunei.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_China.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Denmark.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Finland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_France.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Germany.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_HK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Iceland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_ireland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Italy.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Japan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Korea.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lichenstein.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lux.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Malyasia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Netherlands.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Norway.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Pillapenes.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Portugal.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Singapore.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Spain.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Sweden.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Swiss.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Taiwan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_US.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/US_Latam.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Thai.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Australia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-dropdown-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-glob-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/search-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/drop-down.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/globe.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-right.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/linkedin.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/external-icon.svg",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s(sB,s(4x1B,s(s(,),2x2,s),sB(s,s(,,,)),s(s,2x1,s,s,s,s),s(s,sB(,,,,,,,,,,,),s),s,s(s(,),3x2,s),s,s(s,s,s,s,s,s,s),s,s(s,s(,,,,,,,,,),s),sB(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s))))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.anchornavigation.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(2)",
+      "rc2c2c2c1": "body > div:nth-of-type(1) > div > div > main > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1)",
+      "rc2c2c2c1c1": "#why > h2",
+      "rc2c2c2c1c2": "#why > p",
+      "rc2c2c2c2": "#why > div.cmp-cards",
+      "rc2c2c2c3": "#biography-item__arrow-container-why",
+      "rc2c2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.carpo-bright-50.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c3c1": "#approach > h2",
+      "rc2c2c3c2": "#approach > ul",
+      "rc2c2c3c2c1": "#approach > ul > li:nth-of-type(1)",
+      "rc2c2c3c2c2": "#approach > ul > li:nth-of-type(2)",
+      "rc2c2c3c2c3": "#approach > ul > li:nth-of-type(3)",
+      "rc2c2c3c2c4": "#approach > ul > li:nth-of-type(4)",
+      "rc2c2c4": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c4c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > h2:nth-of-type(1)",
+      "rc2c2c4c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(1)",
+      "rc2c2c4c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(2)",
+      "rc2c2c4c4": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(3)",
+      "rc2c2c4c5": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > h2:nth-of-type(2)",
+      "rc2c2c4c6": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(4)",
+      "rc2c2c5": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--borderlessBlue.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c5c1": "body > div:nth-of-type(1) > div > div > main > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(5) > div > div:nth-of-type(1)",
+      "rc2c2c5c2": "#systematicequitiesrange > div.cmp-cards",
+      "rc2c2c5c2c1": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > h4.cmp-card__content-title",
+      "rc2c2c5c2c2": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(1)",
+      "rc2c2c5c2c3": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(2)",
+      "rc2c2c5c2c4": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(3)",
+      "rc2c2c5c2c5": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(4)",
+      "rc2c2c5c2c6": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(5)",
+      "rc2c2c5c2c7": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(6)",
+      "rc2c2c5c2c8": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(7)",
+      "rc2c2c5c2c9": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(8)",
+      "rc2c2c5c2c10": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(9)",
+      "rc2c2c5c2c11": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(10)",
+      "rc2c2c5c2c12": "#systematicequitiesrange > div.cmp-cards > div.card-list-oneNoOfColumns > div.cmp-container > div.card.image > div.cmp-card > div.cmp-card-container-no-image.container-with-icon-and-content > div.cmp-card__content > div.cmp-card__content-text > p:nth-of-type(11)",
+      "rc2c2c5c3": "#biography-item__arrow-container-systematicequitiesrange",
+      "rc2c2c6": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.separator.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(6)",
+      "rc2c2c7": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.cmp-cards--secondaryButton.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c7c1": "body > div:nth-of-type(1) > div > div > main > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(7) > div > div:nth-of-type(1)",
+      "rc2c2c7c1c1": "#meettheteam > h2",
+      "rc2c2c7c1c2": "#meettheteam > p",
+      "rc2c2c7c2": "#meettheteam > div.cmp-cards.biographyList.threeNoOfColumns.id--meettheteam",
+      "rc2c2c7c3": "#biography-item__arrow-container-meettheteam",
+      "rc2c2c8": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.separator.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(8)",
+      "rc2c2c9": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(9)",
+      "rc2c2c9c1": "#buy > h2",
+      "rc2c2c9c2": "#buy > p:nth-of-type(1)",
+      "rc2c2c9c3": "#buy > p:nth-of-type(2)",
+      "rc2c2c9c4": "#buy > p:nth-of-type(3)",
+      "rc2c2c9c5": "#buy > p:nth-of-type(4)",
+      "rc2c2c9c6": "#buy > p:nth-of-type(5)",
+      "rc2c2c9c7": "#buy > p:nth-of-type(6)",
+      "rc2c2c10": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.separator.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(10)",
+      "rc2c2c11": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11)",
+      "rc2c2c11c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > h2",
+      "rc2c2c11c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul",
+      "rc2c2c11c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul > li:nth-of-type(1)",
+      "rc2c2c11c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul > li:nth-of-type(2)",
+      "rc2c2c11c2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul > li:nth-of-type(3)",
+      "rc2c2c11c2c4": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul > li:nth-of-type(4)",
+      "rc2c2c11c2c5": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul > li:nth-of-type(5)",
+      "rc2c2c11c2c6": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul > li:nth-of-type(6)",
+      "rc2c2c11c2c7": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul > li:nth-of-type(7)",
+      "rc2c2c11c2c8": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul > li:nth-of-type(8)",
+      "rc2c2c11c2c9": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul > li:nth-of-type(9)",
+      "rc2c2c11c2c10": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > ul > li:nth-of-type(10)",
+      "rc2c2c11c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(11) > div.cmp-text > p",
+      "rc2c2c12": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c12c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > h5",
+      "rc2c2c12c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(1)",
+      "rc2c2c12c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(2)",
+      "rc2c2c12c4": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(3)",
+      "rc2c2c12c5": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(4)",
+      "rc2c2c12c6": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(5)",
+      "rc2c2c12c7": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(6)",
+      "rc2c2c12c8": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(7)",
+      "rc2c2c12c9": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(8)",
+      "rc2c2c12c10": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(9)",
+      "rc2c2c12c11": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(10)",
+      "rc2c2c12c12": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(11)",
+      "rc2c2c12c13": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(12)",
+      "rc2c2c12c14": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(13)",
+      "rc2c2c12c15": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(14)",
+      "rc2c2c12c16": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(15)",
+      "rc2c2c12c17": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(16)",
+      "rc2c2c12c18": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-text > p:nth-of-type(17)"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content",
+        "background": "#002755",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero"
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--wide.cmp-container--fade-up.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 0,
+      "height": 8708.0625
+    },
+    "splits": [],
+    "start": {
+      "kind": "heading",
+      "look": {
+        "font": "Poppins, Helvetica, Arial, sans-serif",
+        "color": "rgb(255, 255, 255)",
+        "align": "start"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "e2210fbbcff8",
+      "type": "default-content",
+      "detectionTier": 2,
+      "selector": "#container-9c6ca6d37f > div > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 710
+      },
+      "visualChars": {
+        "colorScheme": "dark",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "image + list + link + heading + text"
+      },
+      "description": "hero",
+      "features": {
+        "skeleton": "(nav T)",
+        "variant": "(nav Trw)",
+        "variantClean": "(nav Tk)"
+      },
+      "screenshot": null,
+      "html": "blocks/e2210fbbcff8.html"
+    },
+    {
+      "id": "06443af2592d",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "body > div:nth-of-type(1) > div > div > main > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div > div:nth-of-type(1)",
+      "bounds": {
+        "x": 144,
+        "y": 886,
+        "width": 1152,
+        "height": 162
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "cmp-text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/06443af2592d.html"
+    },
+    {
+      "id": "03366d82b93c",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#why > div.cmp-cards",
+      "bounds": {
+        "x": 144,
+        "y": 1048,
+        "width": 1152,
+        "height": 726
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "image + heading + text"
+      },
+      "description": "cmp-cards",
+      "features": {
+        "skeleton": "[~(T)]",
+        "variant": "[~w(Tb)]",
+        "variantClean": "[~w(Tk)]",
+        "set": true
+      },
+      "screenshot": "blocks/03366d82b93c.jpg",
+      "html": "blocks/03366d82b93c.html",
+      "variantId": "v_7517a669c4d4"
+    },
+    {
+      "id": "4e5abbc5d6b0",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#approach > h2",
+      "bounds": {
+        "x": 144,
+        "y": 1974,
+        "width": 1152,
+        "height": 150
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/4e5abbc5d6b0.html"
+    },
+    {
+      "id": "b14ccfd9ea73",
+      "type": "default-content",
+      "detectionTier": 2,
+      "selector": "#approach > ul",
+      "bounds": {
+        "x": 124,
+        "y": 2148,
+        "width": 1172,
+        "height": 184
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "list"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/b14ccfd9ea73.html"
+    },
+    {
+      "id": "22ce37dfe4ac",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-da0b3e1149 > div > div.text.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 2432,
+        "width": 1440,
+        "height": 610
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "dense",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text + link"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/22ce37dfe4ac.html"
+    },
+    {
+      "id": "86ba18247093",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "body > div:nth-of-type(1) > div > div > main > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(5) > div > div:nth-of-type(1)",
+      "bounds": {
+        "x": 144,
+        "y": 3058,
+        "width": 1152,
+        "height": 82
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/86ba18247093.html"
+    },
+    {
+      "id": "ed747833d631",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#systematicequitiesrange > div.cmp-cards",
+      "bounds": {
+        "x": 144,
+        "y": 3140,
+        "width": 1152,
+        "height": 592
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "cmp-cards",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~w(Tb)",
+        "variantClean": "~w(Tk)"
+      },
+      "screenshot": "blocks/ed747833d631.jpg",
+      "html": "blocks/ed747833d631.html",
+      "variantId": "v_fee7afa96819"
+    },
+    {
+      "id": "b8cbe811f410",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "body > div:nth-of-type(1) > div > div > main > div > div > div:nth-of-type(2) > div > div > div:nth-of-type(7) > div > div:nth-of-type(1)",
+      "bounds": {
+        "x": 144,
+        "y": 3954,
+        "width": 1152,
+        "height": 134
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "cmp-text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/b8cbe811f410.html"
+    },
+    {
+      "id": "956e06065c28",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#meettheteam > div.cmp-cards.biographyList.threeNoOfColumns.id--meettheteam",
+      "bounds": {
+        "x": 144,
+        "y": 4088,
+        "width": 1152,
+        "height": 888
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link + image + heading + text"
+      },
+      "description": "cmp-cards",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]",
+        "set": true
+      },
+      "screenshot": "blocks/956e06065c28.jpg",
+      "html": "blocks/956e06065c28.html",
+      "variantId": "v_0f0850c2d372"
+    },
+    {
+      "id": "22d5aa50cd92",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-da0b3e1149 > div > div:nth-child(9)",
+      "bounds": {
+        "x": 0,
+        "y": 5098,
+        "width": 1440,
+        "height": 618
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/22d5aa50cd92.html"
+    },
+    {
+      "id": "213bb8f5e9bb",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-da0b3e1149 > div > div:nth-child(11)",
+      "bounds": {
+        "x": 0,
+        "y": 5738,
+        "width": 1440,
+        "height": 1158
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + list + text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/213bb8f5e9bb.html"
+    },
+    {
+      "id": "bfdc5d020098",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#container-da0b3e1149 > div > div.text.kale-bright-5.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 6896,
+        "width": 1440,
+        "height": 1812
+      },
+      "visualChars": {
+        "colorScheme": "dark",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~b(Tb)",
+        "variantClean": "~b(Tk)"
+      },
+      "screenshot": "blocks/bfdc5d020098.jpg",
+      "html": "blocks/bfdc5d020098.html",
+      "variantId": "v_1b6ab12eaf01"
+    }
+  ]
+}

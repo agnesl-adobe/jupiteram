@@ -1,0 +1,38 @@
+{
+  "id": "v_519266947d1c",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.873Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/insights/introducing-the-jupiter-merlin-team/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": ""
+  },
+  "layoutKey": "[~@(T)]",
+  "colour": "[~@(Tk)]",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/introducing-the-jupiter-merlin-team/",
+        "instanceId": "b473f6a6c194",
+        "instanceIds": [
+          "b473f6a6c194"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_introducing-the-jupiter-merlin-team--032cdbd6/blocks/b473f6a6c194.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "same date and reading time metadata, navy is section style",
+    "mergedInto": "v_9a887c696eb3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "v_74f1ff25ddb9",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.873Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/fund-centre/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "dense",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "button + list + field + text + link + heading"
+  },
+  "layoutKey": "[(T [button|~(T)] ~([(T [T])*1.5|(T [T])*3|T*1.5|button]) ~([T|T*1.5|T*3]) ~([T|svg]))*2.75|~([T*3|input|~*3] button)]",
+  "colour": "[(Tk [button~b|~b(Tw)] ~b([Tw|Tw*1.5|Tw*3]) ~s([(Tk [Tk])*1.5|(Tk [Tk])*3|Tk*1.5|button]) ~s([Tk|svg]))*2.75|~w([Tk*3|input|~w*3] button)]",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/fund-centre/",
+        "instanceId": "2d20f8ca5f96",
+        "instanceIds": [
+          "2d20f8ca5f96"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_fund-centre--f2814807/blocks/2d20f8ca5f96.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "interactive filterable paginated fund listing app",
+    "mergedInto": null
+  }
+}

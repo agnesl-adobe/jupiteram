@@ -1,0 +1,38 @@
+{
+  "id": "v_7c5230ab79e0",
+  "type": "columns",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.873Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/jupiter-merlin-portfolios/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "image + text"
+  },
+  "layoutKey": "~([T|T*1.5])",
+  "colour": "~b([T|Tk*1.5])",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-merlin-portfolios/",
+        "instanceId": "ee15a7a0f963",
+        "instanceIds": [
+          "ee15a7a0f963"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-merlin-portfolios--0365eece/blocks/ee15a7a0f963.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "image (award badge) beside text, same media plus text fields",
+    "mergedInto": "v_02b022831544"
+  }
+}

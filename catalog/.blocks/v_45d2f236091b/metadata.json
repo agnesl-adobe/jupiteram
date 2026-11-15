@@ -1,0 +1,46 @@
+{
+  "id": "v_45d2f236091b",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/press-releases/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": ""
+  },
+  "layoutKey": "[[T|~(T)*1.25]|~@]",
+  "colour": "[[Tk|~b(Tw)*1.25]|~@]",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/",
+        "instanceId": "9d69bbd0fc59",
+        "instanceIds": [
+          "9d69bbd0fc59"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases--cd41abf9/blocks/9d69bbd0fc59.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/search/",
+        "instanceId": "b22edfdc4a26",
+        "instanceIds": [
+          "b22edfdc4a26"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_search--8e66d9e9/blocks/b22edfdc4a26.jpg"
+      }
+    ],
+    "reuseCount": 2
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "pagination controls of the press release listing; likely part of that listing's code",
+    "mergedInto": null
+  }
+}

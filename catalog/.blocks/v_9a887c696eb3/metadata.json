@@ -1,0 +1,166 @@
+{
+  "id": "v_9a887c696eb3",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/fund-centre/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "heading"
+  },
+  "layoutKey": "~@(T)",
+  "colour": "~@(Tk)",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/fund-centre/",
+        "instanceId": "efc731266da1",
+        "instanceIds": [
+          "efc731266da1"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_fund-centre--f2814807/blocks/efc731266da1.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/chief-executive-officer-succession-planning/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_chief-executive-officer-succession-planning--b3556abd/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/emerging-market-debt-update/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_emerging-market-debt-update--682ee27d/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-australias-institutional-distribution-partners/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-distribution-partnership-with-australias-institutional-distribution-partners--8d45a201/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-dutch-specialist-oceanside/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-distribution-partnership-with-dutch-specialist-oceanside--897363a9/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-its-first-active-etf-for-global-government-bonds/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-its-first-active-etf-for-global-government-bonds--8a0bdf45/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-announces-hire-selina-tyler-head-of-uk/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-announces-hire-selina-tyler-head-of-uk--876b2c91/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-builds-scale-emerging-markets-acquisition-team-institutional-assets-origin-asset-management/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-builds-scale-emerging-markets-acquisition-team-institutional-assets-origin-asset-management--84c76149/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-confirms-investment-managers-of-the-jupiter-global-value-equity-unit-trust/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-confirms-investment-managers-of-the-jupiter-global-value-equity-unit-trust--f99459bd/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-hires-highly-successful-european-equity-team-from-gam-investments/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-hires-highly-successful-european-equity-team-from-gam-investments--77b73694/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-launches-systematic-thematic-fund-range/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-launches-systematic-thematic-fund-range--31412fa4/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-ecology-fund-plans-to-adopt-fca-sustainability-focus-label/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-ecology-fund-plans-to-adopt-fca-sustainability-focus-label--cca82baa/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-launches-global-ecology-bond-fund/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-launches-global-ecology-bond-fund--88c330a9/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-uk-multi-cap-income-fund-launches/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-uk-multi-cap-income-fund-launches--0230a257/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-wins-four-accolades-at-fund-manager-of-the-year-awards-2024/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-wins-four-accolades-at-fund-manager-of-the-year-awards-2024--cd5cb832/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/origin-asset-management-investment-team-and-assets-join-jupiter-on-completion-of-acquisition/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_origin-asset-management-investment-team-and-assets-join-jupiter-on-completion-of-acquisition--0eaf6502/blocks/5c3a6d055de6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/richard-buxton-announces-retirement/",
+        "instanceId": "5c3a6d055de6",
+        "instanceIds": [
+          "5c3a6d055de6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_richard-buxton-announces-retirement--73395e50/blocks/5c3a6d055de6.jpg"
+      }
+    ],
+    "reuseCount": 17
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "publish date with calendar icon; could also be typed default-content with an icon",
+    "mergedInto": null
+  }
+}

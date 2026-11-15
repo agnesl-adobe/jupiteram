@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "url": "https://www.jupiteram.com/uk/en/individual/",
   "title": "Home - Jupiter Asset Management",
-  "timestamp": "2026-11-12T15:03:56.208Z",
-  "duration": "9.4s",
+  "timestamp": "2026-11-12T15:02:00.336Z",
+  "duration": "12.7s",
   "cleanup": {
     "elementsRemoved": 5,
     "types": [
@@ -507,7 +507,7 @@
         "background": "#002755",
         "backgroundImage": null,
         "colored": true,
-        "paintSelector": "#carousel-34d3d81275-item-0493667e20-tabpanel > div.hero.teaser > div.cmp-hero"
+        "paintSelector": "#carousel-34d3d81275-item-896f209ccf-tabpanel > div.hero.teaser > div.cmp-hero"
       },
       {
         "id": "rc3",
@@ -526,7 +526,7 @@
   "pageLayout": {
     "box": {
       "y": 0,
-      "height": 5073.6875
+      "height": 4981.6875
     },
     "splits": [],
     "start": {
@@ -543,7 +543,7 @@
         "x": 0,
         "y": 0,
         "width": 1440,
-        "height": 869
+        "height": 777
       },
       "visualChars": {
         "colorScheme": "light",
@@ -555,11 +555,12 @@
       "description": "container",
       "features": {
         "skeleton": "{T [tab]}",
-        "variant": "{Trw [tab~b|tab]}",
-        "variantClean": "{Tk [tab~b|tab]}"
+        "variant": "{Trw [tab|tab~b|tab]}",
+        "variantClean": "{Tk [tab|tab~b|tab]}"
       },
       "screenshot": "blocks/b991e1f45c90.jpg",
-      "html": "blocks/b991e1f45c90.html"
+      "html": "blocks/b991e1f45c90.html",
+      "variantId": "v_82f4e82b5224"
     },
     {
       "id": "9e151eb1cd48",
@@ -568,7 +569,7 @@
       "selector": "#container-ead72389b3 > div > div.text.carpo-bright-50.reduced-padding--top.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12",
       "bounds": {
         "x": 0,
-        "y": 869,
+        "y": 777,
         "width": 1440,
         "height": 88
       },
@@ -586,7 +587,8 @@
         "variantClean": "~w(Tk)"
       },
       "screenshot": "blocks/9e151eb1cd48.jpg",
-      "html": "blocks/9e151eb1cd48.html"
+      "html": "blocks/9e151eb1cd48.html",
+      "variantId": "v_fee7afa96819"
     },
     {
       "id": "649effbf8af7",
@@ -595,7 +597,7 @@
       "selector": "#container-ead72389b3 > div > div.fundfinder.aem-GridColumn.aem-GridColumn--default--12",
       "bounds": {
         "x": 0,
-        "y": 957,
+        "y": 865,
         "width": 1440,
         "height": 744
       },
@@ -613,7 +615,8 @@
         "variantClean": "~w([~w(form)|(Tk [button~@])*2])"
       },
       "screenshot": "blocks/649effbf8af7.jpg",
-      "html": "blocks/649effbf8af7.html"
+      "html": "blocks/649effbf8af7.html",
+      "variantId": "v_d1c88f55256d"
     },
     {
       "id": "e9c8ac37d740",
@@ -622,7 +625,7 @@
       "selector": "#container-ead72389b3 > div > div.cards.list.cmp-cards--borderlessBlue.aem-GridColumn.aem-GridColumn--default--12",
       "bounds": {
         "x": 0,
-        "y": 1701,
+        "y": 1609,
         "width": 1440,
         "height": 635
       },
@@ -641,7 +644,8 @@
         "set": true
       },
       "screenshot": "blocks/e9c8ac37d740.jpg",
-      "html": "blocks/e9c8ac37d740.html"
+      "html": "blocks/e9c8ac37d740.html",
+      "variantId": "v_7517a669c4d4"
     },
     {
       "id": "bc7d432499e0",
@@ -650,7 +654,7 @@
       "selector": "#container-ead72389b3 > div > div.contentblock.teaser.cmp-contentblock--imageRight.cmp-contentblock--promoSmall.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12",
       "bounds": {
         "x": 0,
-        "y": 2336,
+        "y": 2244,
         "width": 1440,
         "height": 626
       },
@@ -668,7 +672,8 @@
         "variantClean": "[T|Tk]"
       },
       "screenshot": "blocks/bc7d432499e0.jpg",
-      "html": "blocks/bc7d432499e0.html"
+      "html": "blocks/bc7d432499e0.html",
+      "variantId": "v_21b93a5df19d"
     },
     {
       "id": "3e6b1f1c452e",
@@ -677,7 +682,7 @@
       "selector": "#container-ead72389b3 > div > div.contentblock.teaser.cmp-contentblock--imageLeft.cmp-contentblock--promoSmall.reduced-padding--top.reduced-padding--bottom.aem-GridColumn.aem-GridColumn--default--12",
       "bounds": {
         "x": 0,
-        "y": 2962,
+        "y": 2870,
         "width": 1440,
         "height": 542
       },
@@ -695,7 +700,8 @@
         "variantClean": "[T|Tk]"
       },
       "screenshot": "blocks/3e6b1f1c452e.jpg",
-      "html": "blocks/3e6b1f1c452e.html"
+      "html": "blocks/3e6b1f1c452e.html",
+      "variantId": "v_21b93a5df19d"
     },
     {
       "id": "6606cf232321",
@@ -704,7 +710,7 @@
       "selector": "#container-ead72389b3 > div > div.contentblock.teaser.cmp-contentblock--imageRight.cmp-contentblock--promoSmall.reduced-padding--top.aem-GridColumn.aem-GridColumn--default--12",
       "bounds": {
         "x": 0,
-        "y": 3504,
+        "y": 3412,
         "width": 1440,
         "height": 626
       },
@@ -722,7 +728,8 @@
         "variantClean": "[T|Tk]"
       },
       "screenshot": "blocks/6606cf232321.jpg",
-      "html": "blocks/6606cf232321.html"
+      "html": "blocks/6606cf232321.html",
+      "variantId": "v_21b93a5df19d"
     },
     {
       "id": "07c9fba2ab87",
@@ -731,7 +738,7 @@
       "selector": "#text-d4ed291d87",
       "bounds": {
         "x": 144,
-        "y": 4230,
+        "y": 4138,
         "width": 1152,
         "height": 82
       },
@@ -758,7 +765,7 @@
       "selector": "#cards-d4ed291d87 > div.cmp-cards.insightsList.threeNoOfColumns.id--cards-d4ed291d87",
       "bounds": {
         "x": 144,
-        "y": 4312,
+        "y": 4220,
         "width": 1152,
         "height": 662
       },
@@ -777,7 +784,8 @@
         "set": true
       },
       "screenshot": "blocks/bb01d411d157.jpg",
-      "html": "blocks/bb01d411d157.html"
+      "html": "blocks/bb01d411d157.html",
+      "variantId": "v_2d51d2db9b0f"
     }
   ],
   "globalElements": {

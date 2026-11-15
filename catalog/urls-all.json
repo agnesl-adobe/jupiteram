@@ -1,0 +1,916 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-11-12T15:01:01.115Z",
+    "totalUrls": 300,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/global/en/corporate.sitemap.xml,/global/en/institutional.sitemap.xml,/latam/en/professional.sitemap.xml,/latam/es/professional.sitemap.xml,/be/en/professional.sitemap.xml,/dk/en/professional.sitemap.xml,/de/de/professional.sitemap.xml,/de/de/individual.sitemap.xml,/es/es/professional.sitemap.xml,/es/es/individual.sitemap.xml,/fi/en/professional.sitemap.xml,/fi/en/individual.sitemap.xml,/fr/fr/professional.sitemap.xml,/fr/fr/individual.sitemap.xml,/hk/en/professional.sitemap.xml,/hk/en/individual.sitemap.xml,/hk/zh/individual.sitemap.xml,/is/en/professional.sitemap.xml,/ie/en/professional.sitemap.xml,/ie/en/individual.sitemap.xml,/it/en/professional.sitemap.xml,/it/it/professional.sitemap.xml,/it/it/individual.sitemap.xml,/li/en/professional.sitemap.xml,/lu/en/individual.sitemap.xml,/lu/en/professional.sitemap.xml,/nl/en/individual.sitemap.xml,/nl/en/professional.sitemap.xml,/no/en/professional.sitemap.xml,/at/de/individual.sitemap.xml,/at/de/professional.sitemap.xml,/pt/en/individual.sitemap.xml,/pt/en/professional.sitemap.xml,/se/en/individual.sitemap.xml,/se/en/professional.sitemap.xml,/ch/en/individual.sitemap.xml,/ch/en/professional.sitemap.xml,/ch/de/individual.sitemap.xml,/ch/de/professional.sitemap.xml,/sg/en/professional.sitemap.xml,/uk/en/professional.sitemap.xml,/uk/en/individual.sitemap.xml,/usnrc/en/professional.sitemap.xml,/usnrc/es/professional.sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/navigation/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/about-jupiter/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/about-jupiter/our-principles/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/fund-centre/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/abbie-llewellyn-waters/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/adam-darling/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/adrian-gosden/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/alastair-irvine/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/amanda-sillars/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/david-lewis/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/george-fox/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/john-chatfeild-roberts/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/venetia-campbell/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-novotny/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/mark-nash/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/orestis-vamvakas/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/alex-savvides/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/siddharth-sukumar/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/stephanie-geary/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/avinash-vazirani/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/colin-croft/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/grisha-milushev/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jon-wallace/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/noelle-guo/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/caroline-cantor/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/nikisha-mistry/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/andrew-rubins/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ariel-bezalel/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-lau/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/harry-richards/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/hilary-blandy/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/huw-davies/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/lakshay-thakur/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/leon-wei/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/luca-evangelisti/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ning-yang/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/paridhi-garg/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/valerio-angioni/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/xuchen-zhang/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/dan-carter/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/freddie-woolfe/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/guy-de-blonay/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jason-pidcock/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/kristian-herrington/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/mitesh-patel/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/sam-konrad/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/carli-prewett/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-mahoney/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/joe-lunn/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ned-naylor-leyland/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/brad-slingerlend/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/brinton-johns/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/joe-furmanski/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jon-bathgate/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/richard-curling/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/amadeo-alentorn/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-murray/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/matus-mrazik/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/sean-storey/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/tarun-inani/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/yuangao-liu/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ed-meier/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/errol-francis/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-morrison/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-smith/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-moir/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/claudia-ho/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-gilbert/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/matt-cable/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/tim-service/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/brian-mccormick/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-dynamic-equity/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/emerging-market-equities/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/european-growth/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/global/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/specialist/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/systematic-equities/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-equity-income/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-growth/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-small-and-mid-cap/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/value/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/fixed-income/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/funds-of-funds/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/environmental-solutions/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/global-leaders/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/zara-azad/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-carter/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/tarlock-randhawa/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/nerys-weir/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ben-marsh/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ruairi-devery-kavanagh/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jupiter-origin/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/christopher-legg/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/christopher-sellers/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/niall-gallagher/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/solutions/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-death-and-a-birthday-in-the-eu-family/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-countdown-to-5th-november/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-dear-jeremy-dear-andrew/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-macro-securonomics-now-you-see-it-now-you-dont/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-24-hours-to-forget-for-the-tories/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-wests-diplomacy-has-failed-ukraine/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/on-our-bookshelf-the-merlin-teams-spring-reading/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/jupiter-merlin-weekly-hunts-budget-pleases-hardly-anyone/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-old-challenges-for-any-new-government/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-rehabilitation-of-the-iron-lady/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-interpreting-the-feds-policy-signals/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-threat-to-the-rules-based-order/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-us-inflation-moves-stubbornly-sideways/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-diplomatic-leverage-in-short-supply/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-sunak-talks-tough-on-defence/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-this-blue-and-pleasant-land/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-election-race-is-on/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-central-bankers-in-a-bind/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-on-tax-the-devil-is-in-the-detail/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-natos-disunited-band-of-brothers/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-spotlight-on-labours-economic-plan/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-do-you-hear-the-drums-of-discontent/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-government-requires-effective-challenge/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-nato-really-as-united-as-it-claims/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-the-us-constitution-endure-trump/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-and-deficits-plague-the-west/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-battle-of-wills-on-interest-rates/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-stock-markets-get-the-jitters/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-how-clean-can-electricity-become/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-price-controls-ever-work/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-should-you-be-worried-about-german-politics/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ecb-faces-hardest-interest-rate-challenge/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-labour-heading-in-the-wrong-direction/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-why-are-markets-acting-so-calmly/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-have-labour-painted-themselves-into-a-corner/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-rachel-through-the-looking-glass/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-trump-agenda-has-economic-consequences/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-european-powers-on-shaky-political-ground/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/jupiter-global-sustainable-equities-fund-name-change/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-france-germany-debt-rises-government-falls/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-2024-in-retrospect/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-there-method-to-trumps-madness/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-writing-joe-bidens-report-card/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-heres-donny-trump-davos/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-helpful-catalysts-for-uk-equities/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-uk-value-investing-through-business-transformation/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-staying-diversified-in-asia-pacific/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/deepSeek-a-new-era-for-ai/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-the-uk-government-all-at-sea-on-growth/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-is-using-tariffs-as-political-levers/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-reeves-macron-have-big-debt-problems/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/an-investors-view-on-uk-defence-policy-and-geopolitics/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-unpredictability-upends-global-norms/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-america-first-leaves-europe-floundering/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-germany-is-back-or-is-it/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-problems-mount-at-11-downing-street/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-tinkering-at-the-edges-of-the-uk-economy/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-follows-through-on-tariff-pledge/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/jupiter-merlin-team-react-to-tariffs-and-market-volatility/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-uk-debt-problem-makes-it-vulnerable/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-and-the-new-world-disorder/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-dollar-deliberations/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-reform-ready-to-govern/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-china-russia-and-the-emerging-geopolitical-reality/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-starmer-eu-reset-good-deal/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-addiction-poses-far-reaching-risks/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-defence-spending-conundrum/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-fiscal-fantasy-land/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-raging-wars-calm-markets/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-tears-uk-fiscal-plan-in-tatters/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labours-backbenchers-in-the-fiscal-driving-seat/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-will-trump-deadlines-sour-the-summer-party/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-think-like-a-ukrainian/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-winners-and-losers-trump-tariff-game/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-taxonomy-of-the-uk-political-scene/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-vj-day-whats-at-stake-ukraine/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-fishing-for-answers-at-jackson-hole/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-fiscal-folly-global-tensions-drive-debt-costs-up/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-frances-fiscal-woes-expose-eurozone-faultlines/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-promises-in-tatters/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-europe-on-edge-as-putin-escalates-hybrid-warfare/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-an-open-letter-to-sir-keir-starmer/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-cooperate-or-confront-thats-the-question/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-markets-sanguine-even-as-geopolitical-risks-rise/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-myth-and-reality-of-brexit/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-its-the-economy/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-a-budget-bind/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-urgency-and-energy-needed-on-defence-spending/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-eu-integration-and-euroscepticism/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-reeves-budget-change-labour-fortunes/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/outlook-2026-trump-backed-into-corner-debt-still-dominates/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-welfare-expansion-and-the-uks-politics-of-envy/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ukraine-and-the-great-game-of-geopolitical-poker/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-whos-not-afraid-of-donald-trump/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-trumps-ire-with-europes-democracy-justified/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/introducing-the-jupiter-merlin-team/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-question-of-energy-security/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-political-avalanche-hits-davos/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-2026-has-begun-with-a-bang/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-prince-of-darkness-casts-pall-of-doom-and-gloom/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-high-stakes-energy-security-game/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-an-unmitigated-disaster-for-mainstream-parties/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/reflections-on-peace-and-perversion/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-brace-for-a-prolonged-oil-price-shock/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-no-end-in-sight-for-the-gulf-war/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-of-office-without-power-and-power-without-office/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trumps-mixed-signals-fuel-volatility/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-when-smart-finance-leads-to-stupid-outcomes/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-britains-war-readiness-in-question/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-faces-congressional-challenge-over-iran-war/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-gulf-war-has-let-the-inflation-genie-out/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-paralysed-as-economic-faultlines-widen/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-art-of-being-both-in-office-and-in-opposition/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ai-mega-ipos-and-the-indexation-trap/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-defence-plan-falls-apart/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-on-the-brink-trump-iran-gamble/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-delinquency-and-manchesterism/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/defence-deceit-2026-defence-investment-plan/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-just-how-stupid-are-we/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ibm-tells-a-tale-of-our-times/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-putin-setbacks-heighten-geopolitical-risk/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-yen-intervention-conundrum/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-wayward-ways-undermine-america-first/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/an-open-letter-to-a-new-prime-minister/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-german-elections-have-seismic-ramifications/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-fed-lumbers-out-of-the-traps/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-germany-political-polarisation/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-conference-marks-a-socialist-turn/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-france-fiscal-woes-rattle-bond-investors/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-faces-heat-before-mid-term-elections/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-grappling-with-the-cost-of-living-crisis/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-complacent-budget-courts-fiscal-crisis/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-trumped-what-now/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-invest/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/value-assessment/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/consumer-duty/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-sell/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-switch--transfer--convert/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/bereavement-and-power-of-attorney/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/frequently-asked-questions/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/historical-assessment-of-value-reports/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/anti-money-laundering-requirements/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/contact/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/privacy/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/cookie-policy/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/accessibility/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/terms-and-conditions/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/security-alerts/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/legal-and-regulatory/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/corporate-sustainability/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/investment-and-stewardship/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/task-force-on-climate-related-financial-disclosures/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainable-finance-disclosure-regulation/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainability-disclosure-requirements/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/reports/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/biodiversity/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/jupiter-approach-and-finance-for-biodiversity-pledge/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/social-media-policy-and-community-guidelines/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-strategic-absolute-return-bond-fund/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/mifid-ii/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/modern-slavery-statement/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-merlin-portfolios/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-leaders-fund/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/legal-notice/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/tiered-pricing-on-the-fixed-annual-charge/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-dynamic-equity-fund/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-multi-cap-income-fund/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/uk-equities/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-wins-four-accolades-at-fund-manager-of-the-year-awards-2024/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-uk-multi-cap-income-fund-launches/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/emerging-market-debt-update/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-ecology-fund-plans-to-adopt-fca-sustainability-focus-label/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-builds-scale-emerging-markets-acquisition-team-institutional-assets-origin-asset-management/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-australias-institutional-distribution-partners/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-confirms-investment-managers-of-the-jupiter-global-value-equity-unit-trust/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-hires-highly-successful-european-equity-team-from-gam-investments/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-announces-hire-selina-tyler-head-of-uk/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-dutch-specialist-oceanside/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/origin-asset-management-investment-team-and-assets-join-jupiter-on-completion-of-acquisition/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-launches-systematic-thematic-fund-range/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/richard-buxton-announces-retirement/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/chief-executive-officer-succession-planning/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-launches-global-ecology-bond-fund/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-its-first-active-etf-for-global-government-bonds/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/in-the-spotlight/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/document-library/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-green-investment-trust-plc/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/search/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/rights-and-issues-investment-trust-plc/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-trusts/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/glossary/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/power-of-attorneys-and-executors/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-government-bond-active-ucits-etf/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-european-equities/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/offshore-ta/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-origin-global-smaller-companies-active-ucits-etf/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/income-solutions/"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/onshore-ta/"
+      }
+    ],
+    "documents": []
+  }
+}

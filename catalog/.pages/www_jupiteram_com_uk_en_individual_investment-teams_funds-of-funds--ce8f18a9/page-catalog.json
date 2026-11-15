@@ -1,0 +1,996 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/funds-of-funds/",
+  "title": "Funds of Funds - Jupiter Asset Management",
+  "timestamp": "2026-11-12T15:15:49.777Z",
+  "duration": "34.3s",
+  "cleanup": {
+    "elementsRemoved": 5,
+    "types": [
+      "overlay",
+      "cookie-banner",
+      "popup"
+    ],
+    "cookieConsentDismissed": true,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#onetrust-banner-sdk",
+        "type": "overlay"
+      },
+      {
+        "selector": "#onetrust-style",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "#onetrust-consent-sdk",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "div.cce-backdropoverlay",
+        "type": "popup",
+        "rule": "body [class*=\"overlay\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/Header_logo_125x45px.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--2ccc459c-d909-4663-8571-0bbda4fc5f5d/alastair_irvine_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--2dd84a05-2850-46f3-b0ca-2632d982fda7/amanda_sillars_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--faeeac97-f33c-4cc5-801a-1b2a0c37e5da/david_lewis_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--b43148eb-1710-4c11-85cb-8ad667bd8c5b/george_fox_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--cb03a55d-fe21-447e-8a5c-a2f1031ef625/john_chatfeildroberts_850x800.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--d9fd1dc9-cbbe-4a7f-bf56-4416236625c6/venetia-campbell_rgb_850x800px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--7bb3fb55-3d0e-405c-a28d-026a7f6a91d5/JUP-2008_Merlin_Wekly_Macro_23.02.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--7af69272-629b-4505-9ab4-2de4bae35cef/JUP-2625_Merlin_Weekly_Macro_07.06.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--e48d584d-bfad-4e68-b8cb-03f71beb5a20/JUP-2759_Merlin_Weekly_Macro_02.07.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--ef6f2c43-0950-4f5c-ad5c-69c00fb0c5e4/JUP-2600_Merlin_Weekly_Macro_31.05.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--8ba69c23-66cf-4339-a439-47b487397f76/JUP-3128_Merlin_Wekly_Macro_30.08.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--dc382d3a-62f8-4c76-8358-705322cf4576/JUP-3199_Merlin_Weekly_Macro_6.09.24.jpeg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--73e4e435-d6c3-4062-a14c-ade5f2889768/JUP-2458_Merlin_Weekly_03.05.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--8a98e914-8319-4e5e-a58c-9923bdbae40e/JUP-2352_Merlin_Weekly_Macro_12.04.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--2859aeca-a68a-4fea-9890-fffa1bbbcf32/JUP-2154_Merlin_Weekly_Macro_19.03.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--4d4ac6ba-c1ca-42c8-adfb-ecbe62dcfb62/JUP-2932_Merlin_Weekly_Macro_-_26.07.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--81131cd7-2a8f-4aeb-8679-d32badc90a41/JUP-3199_Merlin_Weekly_Macro_13.09.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--6f70dc1e-a161-4a3c-a7aa-b7534c109d46/JUP-2575_Merlin_Wekly_Macro_24.05.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--ec1e68a3-8a60-4fd6-af68-8d55f41145a6/JUP-1879_Merlin_Weekly_Macro_02.02.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--13210aad-9c37-436e-a1ad-074ff42e3b94/JUP-3446_Merlin_Weekly_Macro_11.10.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--3b3b9421-559a-4863-96da-4c862a1b385f/JUP-2708_Merlin_Weekly_Macro_21.06.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--dcc7ed55-8461-4935-a8c4-3e153cc81582/JUP-3008_Merlin_Weekly_Macro_9.08.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--d9460ed0-e4df-4d45-8263-46f2a4e4bdce/JUP-2526_Merlin_Weekly_17.05.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--9ceefa1f-eee9-4ca3-8711-e368d721ccdf/merlin-on-our-bookshelf-the-merlin-teams-spring-reading.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--5aac601a-26ca-4b4b-8e92-082e9192b82a/JUP-2401_Merlin_Weekly_Macro_22.04.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--2e66a913-3694-44b7-9509-33e44d53e97b/JUP-2187_Merlin_Weekly_Macro_22.03.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--fd1d1616-0a0c-4d1d-b7a1-993d641d7599/JUP-2891_Merlin_Weekly_Macro_-_Trump_19.07.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--55e3e87a-c630-4143-9c6f-22a90b8303ec/JUP-2673_Merlin_Weekly_Macro_14.06.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--7e29b32e-6ea9-4bbd-888d-f70bf0592431/JUP-2955_Merlin_Weekly_Macro_02.08.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--fc47da78-deb7-46e4-8f0a-7bb9c3c744ff/JUP-1854-Merlin-Weekly-Macro-26.01.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--77ee9ddc-74fd-4599-9cd9-2b4c2f9fe08d/JUP-1932_Merlin_Weekly_Macro_09.02.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--f1c1beaa-f607-4df0-9971-a7dc3aea813c/JUP-2840_Merlin_Weekly_Macro_09.07.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--175cf104-3267-4693-b6d9-8019b715103a/JUP-2867_Merlin_Weekly_Macro_-_NATO_12.07.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--f07284f8-ab7c-4520-a381-66d83b71253a/JUP-2104_Merlin_Weekly_Macro_12.03.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--8698b97d-6b26-4ddb-a342-a350fd680d3b/JUP-3301_Merlin_Weekly_Macro_-_Labour_27.09.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--234726c0-eada-4005-8bbd-103015de1c43/JUP-2974_Merlin_Weekly_Macro_6.08.24.jpeg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--31ca81be-5c2a-4582-afd1-36279ea6733f/JUP-3499_Merlin_Weekly_Macro_18.10.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--7c925531-d55f-4f1d-871f-9ddf298761cd/JUP-3391_Merlin_Weekly_Macro_7.10.24.jpeg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--68ddaae0-9ab3-4821-a2d9-8cf701ec3500/JUP-2312_Merlin_Weekly_Macro_05.04.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--ecaea108-3fd9-40d3-ba14-78dffeb41aa6/JUP-2281_Merlin_Weekly_Macro_28.03.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--64579d03-7033-4b68-8635-8244bc5f132f/JUP-1972_Merlin_Weekly_Macro_16.02.24.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--26d9f154-b8c0-45ff-886f-bdb61abe5c64/JUP-1748-Merlin-Weekly-Macro-12.01.24-a-death-and-a-birthday-in-the-eu-family.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--37145532-b2d7-4efa-b732-fcb7a2f36a0b/Outlook_Trump_01.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--d9f1283f-d26f-4cfb-a6df-c20b4396086a/AdobeStock_248672886.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--2cc0524e-b536-449c-a3f6-354501400736/JUP-3753-Merlin-Weekly-Macro-09.12.24-WEB-1920x1080px-A.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--12f3a69d-c6d3-4620-98dc-e7c591bf202e/JUP-3812-Merlin-Weekly-Macro-20.12.24-WEB-1920x1080px-A.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--9f624907-72c9-4608-b06d-0f2ba8437490/JUP-3917-Merlin-Weekly-Macro-10.01.25-WEB-1920x1080.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--a54add6d-a0b8-46cf-9133-c527e1125192/JUP-3944-Merlin-Weekly-Macro-17.01.25-WEB-1920x1080.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--5cb9e457-1019-4604-bb8a-3c58b4d5c363/JUP-3986-Merlin-Macro-WEB-1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--fb48a031-b132-4818-9442-bd296314a9f3/JUP-4012-Merlin-Macro-WEB-1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--5a3b7357-6f13-496d-b3ef-1b76ff26beb4/JUP-4037-Merlin-Macro-WEB-1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--e4006b72-14d3-4559-8f4d-25fe586ff540/JUP-4077-Merlin-Macro-WEB-1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--bb887e89-d1ca-4605-baf5-8ebd4b798fce/JUP-4169-Merlin-Macro-WEB-1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--142dc66b-bf1b-44bf-8b88-50183b5b0e2d/JUP-4222-Merlin-Macro-WEB-1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--ca712a28-56cd-40ff-861b-3bd4dc49077a/JUP-4282-Merlin-Macro-WEB-1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--b676d762-f716-4b9b-91ff-b1bc579dcecd/JUP-4323-Merlin-Macro-WEB-1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--a772d150-e843-4161-a9d4-547f5b837c71/Tile_image.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--64d4b70b-5197-4cb3-85da-5e9efb78c67c/Merlin_Weekly_Hero_Image_04_04_25.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--db49ded4-aa36-4b07-8aa2-0e2f1c916eda/JUP4420-09.04.25.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--805d494a-3010-4ade-8062-5bd75d95727f/JUP-4450-Merlin-Weekly-Macro-WEBTILE.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--3809d402-e0bf-41b9-bfe9-7b9c91e4fdb1/Merlin-Weekly-Macro-IMAGE-17.04.25-TILE.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--6dd16a2b-c59a-43a4-8847-52fcc08e89fd/JUP-4546-Merlin-Weekly-Macro-25.04.25-IMAGE-TILE.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--4019e69d-df1e-4a48-ba34-f8860aa92a1d/Merlin_Weekly_9.5.25.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--da242438-c3c7-4edc-b82b-5e8fdba0667b/JUP-4658-Merlin-Weekly-Macro-16.05.25-IMAGE-TILE.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--d091ccd1-39e2-429a-8729-b803425aa991/JUP-4694-Merlin-Weekly-Macro-23.05.25-IMAGE-TILE.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--76e8be1e-4f13-4977-8ca4-577a5c40afc1/JUP-4728-Merlin-Weekly-Macro-30.05.25-IMAGE-TILE.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--cfc6bcd6-3ad2-403c-9115-36a7c5c06ced/JUP-4770-Merlin-Weekly-Macro-06.06.25-IMAGE-TILE.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/JUP-4803-Merlin-Weekly-Macro-13.06.25-HERO%20IMAGE.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--68a5ece9-b857-479c-8a1f-0f7448fd3a81/UP-4848-Merlin-Weekly-Macro-20.06.25-HERO-IMAGE.png.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--d75368a5-c16f-4abb-b000-d0824304e1c8/JUP4890.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--20fc5c69-6321-4b4f-b7aa-32d0c1d20feb/JUP4986-Merlin-Weekly.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--db8f9129-f6c7-4bfc-98bf-b54728440ef3/JUP-5017-Merlin-Weekly-Macro-18.07.25-IMAGE-TILE.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Merlin%20Weekly%2025.07.2025%20-%20Hero%20Image%204.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--39e4b043-54b1-4765-a836-c0f9428807fc/JUP5087-Merlin-Article-Hero_Image.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--32b3f0b1-e4c0-4921-bff8-9544d30e0e55/JUP5126-Merlin-Article-Hero_Image_Tier1.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--7783b888-8671-4360-84ea-4d4e3e3c53b9/JUP5153-Merlin-Article-Hero_Image_Tier1.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/21.08.2025%20Merlin%20Weekly%20v2%202.png/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Merlin%20Weekly%20-%20Hero%20Image%20-%2005.09.2025.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Merlin%20Weekly%20-%20Hero%20Image%20-%2013.09.2025.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Merlin%20Weekly_19.09.2025.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Merlin%20Weekly%2029.09.2025%20-%20Hero%20Image%202.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Merlin%20Weekly%2008.10.2025%20-%20Hero%20Image_v2.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Merlin%20Weekly%2010.10.2025%20-%20Hero%20Image.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--6d6dcaa4-6179-4114-af65-dc8b834d19ef/Merlin_Weekly-17.10.2025_Hero.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_%20The%20myth%20and%20reality%20of%20Brexit_24.10.2025%204.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Merlin%20Weekly%2031.10.2025%20-%20Hero%20Image.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--adc4ab2c-7537-4965-ac67-637ba8d3c594/Merlin-Weekly-07.11.2025.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--f65c42fe-3302-4c10-8767-1ab9299ab00e/Merlin-Weekly-14.11.2025.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/21.11.2025%20merlin%20weekly%20Hero%20Image.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--48a93fbe-732a-4221-95ba-85f4a88f4e7a/merlin27.11.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--21fdd702-6f1a-43bc-bd44-d17420840349/Merlin_Outlook.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--0c0b89f8-4c72-4031-9bd5-ab30ebd2af37/08.12.2025_Hero_Images_Merlin_Weekly.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/12.12.202_Hero_Images%20.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Merlin%20Weekly%2019.12.2025%20-%20Hero%20Image.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--ba7e8a67-5906-4bd0-9078-a30aab3aad2b/09.01.2026_Hero_Images_Merlin.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--12fd1d91-d323-4e0b-8b0d-e419ddb7c9a4/16.01.2026_Merlin.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/23.01.2026_Hero_Images_Merlin%20Weekly.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--d07c9a98-dacd-4bb6-9cb9-59c8bc94df00/30.01.2026_Merlin_weekly.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--b63a9306-2cd4-4762-a4cf-64f9ba97a725/06.02.2026_Merlin_Weekly.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--825b568b-9c65-4f11-8117-aaade2bda7e4/Hero_Merlin_13.02.26_1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Merlin%20Weekly%20-%2027.02.2026.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Merlin%20Weekly_12.03.2026.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--a2f02e0b-6daa-4de3-bc91-360580931d07/Hero_Images_Merlin_Weekly_23.03.2026.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Merlin%20Weekly%20-%2027.03.2026%20v3.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/02.04.2026_Hero_Images_Merlin%20Weekly%20.png/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--42e97f45-8fe6-4609-a59f-bc074e7a2801/MerlinWeekly_Hero_Images_Tier2.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--91bca87e-ae65-49ac-ad79-42a7b9ee6331/17.04.2026-Merlin-Weekly-Hero_Images_Tier2.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--ceb87058-49c2-4fe2-a251-d70dada79618/MerlinWeekly24.04.2026.png.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/01.05.2026_Hero%20Image%20-%20Merlin%20Weekly.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/15.05.2026_Hero_Images_Half%20Overlay-Merlin-15.05.2026.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--0c349408-4fe9-4fde-ad63-5acc6edab18d/Merlin29.05.2026.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/05.06.2026_Hero_Images_Half%20Overlay-Merlin-05.06.2026.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Half%20Overlay-Merlin-11.06.2026.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--b2e0cc92-1d2d-4e26-aa3d-4d7a156bf0cd/JUP-3846-Merlin-Webcast-22.01.25-WEB-TILE-1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/19.6.2026_Hero_Images_Half%20Overlay-Merlin-19.06.2026%20v3.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/29.06.2026_Hero_Images_Half%20Overlay-Merlin-.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/11.07.2026_Hero_Images_Half%20Overlay-Merlin%20v3.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Half%20Overlay-Merlin-17.07.2026%20v1.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/31.07.2026_Hero_Images_Half%20Overlay-Merlin-v2.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--518c990f-5128-44ac-aad7-e682731c1277/06.08.2026_Merlin.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--7523f028-a4fb-49a7-a5d6-6e830229f6ce/Merlin21.08.2026.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--1d166a76-3f6d-4db1-b182-99d4dae567ca/C2807-Merlin-Weekly-Hero_Images_Tier2.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/11.09.2026_Hero_Images_Half%20Overlay-Merlin.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/18.09.2026_Hero_Images_Half%20Overlay-Merlin.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--12c91e19-3ceb-425b-b0f2-274b1ec03265/Merlin25.09.2026.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/02.10.202_Hero_Images_Half%20Overlay-Merlin.v2.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--59d4daae-2aaf-4cb8-821f-9a6ea267ff1d/Merlin09.10.2026.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/17.10.2026%20_Hero_Images_Half%20Overlay-Merlinv1.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--3b84293d-d3f3-4ef1-9530-3e80bbcee596/23.10.2026Merlin.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--54c55d5e-fba9-4896-a4bb-569878835c4b/30.10.26-C-328-Merlin-Weekly-Macro-IMAGE-TILE.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Half%20Overlay-Merlin-06.11.2026.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--14b31aa2-d878-418e-8226-f3d0a8163b91/JUP-3980-UK-Defence-Geopolitics-WEB-1920x1080px.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--a905ef3d-1331-4839-9d2a-93caf61975a7/Hero_Images_War_planes.jpg.webp?preferwebp=true",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Half%20Overlay-Merlin-03.07.2026%20v3.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/footer-logo-v2.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/close-popup.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/select-dropdown.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_UK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Austria.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Belguim.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Brunei.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_China.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Denmark.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Finland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_France.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Germany.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_HK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Iceland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_ireland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Italy.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Japan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Korea.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lichenstein.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lux.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Malyasia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Netherlands.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Norway.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Pillapenes.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Portugal.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Singapore.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Spain.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Sweden.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Swiss.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Taiwan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_US.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/US_Latam.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Thai.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Australia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-dropdown-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-glob-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/search-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/clock-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/drop-down.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/globe.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-right.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/linkedin.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/external-icon.svg",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s(sB(3x1,s),s(s(s,3x2,s),s(s,3x43,s))))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c1c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero > div.cmp-hero--content > nav.cmp-breadcrumb",
+      "rc2c1c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero > div.cmp-hero--content > div.cmp-text__container",
+      "rc2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(1)",
+      "rc2c2c1c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(1) > div.cmp-cards-container.biographyType > div.cmp-text",
+      "rc2c2c1c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(1) > div.cmp-cards-container.biographyType > div.cmp-cards.biographyList.threeNoOfColumns.id--cards-5369673b88",
+      "rc2c2c1c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(1) > div.cmp-cards-container.biographyType > div.biography-item__arrow-container.active-arrows",
+      "rc2c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(2)",
+      "rc2c2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(2) > div.cmp-cards-container > div.cmp-text",
+      "rc2c2c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(2) > div.cmp-cards-container > div.cmp-cards.insightsList.threeNoOfColumns.id--cards-e47e7a4249",
+      "rc2c2c2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.cards.list.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(2) > div.cmp-cards-container > div.biography-item__arrow-container"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block",
+        "background": "#002755",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero"
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 0,
+      "height": 35174.6875
+    },
+    "splits": [],
+    "start": {
+      "kind": "heading",
+      "look": {
+        "font": "Poppins, Helvetica, Arial, sans-serif",
+        "color": "rgb(255, 255, 255)",
+        "align": "start"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "b31cff3cdc98",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#breadcrumb-0da51d9f1a",
+      "bounds": {
+        "x": 245,
+        "y": 220,
+        "width": 925,
+        "height": 25
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "list + link"
+      },
+      "description": "cmp-breadcrumb",
+      "features": {
+        "skeleton": "nav",
+        "variant": "nav",
+        "variantClean": "nav"
+      },
+      "screenshot": "blocks/b31cff3cdc98.jpg",
+      "html": "blocks/b31cff3cdc98.html",
+      "variantId": "v_3658828ee6d4"
+    },
+    {
+      "id": "5de900a73acf",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-e21af23548 > div > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12 > div > div > div",
+      "bounds": {
+        "x": 245,
+        "y": 285,
+        "width": 925,
+        "height": 62
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-text-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tw",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/5de900a73acf.html"
+    },
+    {
+      "id": "bad3fd409fb7",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-5369673b88",
+      "bounds": {
+        "x": 245,
+        "y": 547,
+        "width": 950,
+        "height": 82
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/bad3fd409fb7.html"
+    },
+    {
+      "id": "0f363f01f4c2",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#cards-5369673b88 > div.cmp-cards.biographyList.threeNoOfColumns.id--cards-5369673b88",
+      "bounds": {
+        "x": 245,
+        "y": 629,
+        "width": 950,
+        "height": 940
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link + image + heading + text"
+      },
+      "description": "cmp-cards",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]",
+        "set": true
+      },
+      "screenshot": "blocks/0f363f01f4c2.jpg",
+      "html": "blocks/0f363f01f4c2.html",
+      "variantId": "v_0f0850c2d372"
+    },
+    {
+      "id": "65e4e2f60dc3",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-e47e7a4249",
+      "bounds": {
+        "x": 245,
+        "y": 1769,
+        "width": 950,
+        "height": 82
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "cmp-text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/65e4e2f60dc3.html"
+    },
+    {
+      "id": "19d5374e5745",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#cards-e47e7a4249 > div.cmp-cards.insightsList.threeNoOfColumns.id--cards-e47e7a4249",
+      "bounds": {
+        "x": 245,
+        "y": 1851,
+        "width": 950,
+        "height": 33224
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link + image + text + heading + list"
+      },
+      "description": "cmp-cards",
+      "features": {
+        "skeleton": "[(T [T|[~@|T]] T [~(T)])]",
+        "variant": "[(T [Tb|[~@|Tb]] Tb [~b(Tb)])]",
+        "variantClean": "[(T [Tk|[~@|Tk]] Tk [~b(Tk)])]",
+        "set": true
+      },
+      "screenshot": "blocks/19d5374e5745.jpg",
+      "html": "blocks/19d5374e5745.html",
+      "variantId": "v_2d51d2db9b0f"
+    }
+  ]
+}

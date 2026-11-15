@@ -1,0 +1,1174 @@
+{
+  "id": "v_3658828ee6d4",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.871Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/accessibility/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "list + link"
+  },
+  "layoutKey": "nav",
+  "colour": "nav",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/accessibility/",
+        "instanceId": "833a1202e047",
+        "instanceIds": [
+          "833a1202e047"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_accessibility--e0df92bc/blocks/833a1202e047.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/cookie-policy/",
+        "instanceId": "14274f318ad0",
+        "instanceIds": [
+          "14274f318ad0"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_cookie-policy--9ee7ea52/blocks/14274f318ad0.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/document-library/",
+        "instanceId": "56717ebc38ca",
+        "instanceIds": [
+          "56717ebc38ca"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_document-library--33fce9cd/blocks/56717ebc38ca.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/glossary/",
+        "instanceId": "c4bc381d1691",
+        "instanceIds": [
+          "c4bc381d1691"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_glossary--ae9fae61/blocks/c4bc381d1691.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/in-the-spotlight/",
+        "instanceId": "4c61a21f6bf2",
+        "instanceIds": [
+          "4c61a21f6bf2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_in-the-spotlight--b90da623/blocks/4c61a21f6bf2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/",
+        "instanceId": "646e225741a5",
+        "instanceIds": [
+          "646e225741a5"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights--51db238d/blocks/646e225741a5.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/introducing-the-jupiter-merlin-team/",
+        "instanceId": "bc954e3b0ff4",
+        "instanceIds": [
+          "bc954e3b0ff4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_introducing-the-jupiter-merlin-team--032cdbd6/blocks/bc954e3b0ff4.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/",
+        "instanceId": "c6bb8ff272a4",
+        "instanceIds": [
+          "c6bb8ff272a4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams--1b0ffef1/blocks/c6bb8ff272a4.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/abbie-llewellyn-waters/",
+        "instanceId": "63a47f180d6d",
+        "instanceIds": [
+          "63a47f180d6d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_abbie-llewellyn-waters--65fac07a/blocks/63a47f180d6d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/adam-darling/",
+        "instanceId": "4221e12ac44d",
+        "instanceIds": [
+          "4221e12ac44d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_adam-darling--2994969d/blocks/4221e12ac44d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/adrian-gosden/",
+        "instanceId": "4a86350c9534",
+        "instanceIds": [
+          "4a86350c9534"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_adrian-gosden--65b769a9/blocks/4a86350c9534.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/alastair-irvine/",
+        "instanceId": "5733a52d93f3",
+        "instanceIds": [
+          "5733a52d93f3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_alastair-irvine--238075d4/blocks/5733a52d93f3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/alex-savvides/",
+        "instanceId": "f0f7d3eda51d",
+        "instanceIds": [
+          "f0f7d3eda51d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_alex-savvides--9e8208c4/blocks/f0f7d3eda51d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/amadeo-alentorn/",
+        "instanceId": "2d22d2f8c992",
+        "instanceIds": [
+          "2d22d2f8c992"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_amadeo-alentorn--cf6202df/blocks/2d22d2f8c992.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/amanda-sillars/",
+        "instanceId": "c2a396e5d57c",
+        "instanceIds": [
+          "c2a396e5d57c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_amanda-sillars--61afe136/blocks/c2a396e5d57c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/andrew-rubins/",
+        "instanceId": "663d7138a7d9",
+        "instanceIds": [
+          "663d7138a7d9"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_andrew-rubins--54e57868/blocks/663d7138a7d9.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ariel-bezalel/",
+        "instanceId": "115e122432cc",
+        "instanceIds": [
+          "115e122432cc"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_ariel-bezalel--5f7d3c7f/blocks/115e122432cc.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/avinash-vazirani/",
+        "instanceId": "385b66a11b67",
+        "instanceIds": [
+          "385b66a11b67"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_avinash-vazirani--04640a6c/blocks/385b66a11b67.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ben-marsh/",
+        "instanceId": "7acb13519dd3",
+        "instanceIds": [
+          "7acb13519dd3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_ben-marsh--66698a1b/blocks/7acb13519dd3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/brad-slingerlend/",
+        "instanceId": "3dc0897b1486",
+        "instanceIds": [
+          "3dc0897b1486"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_brad-slingerlend--754cd9e1/blocks/3dc0897b1486.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/brian-mccormick/",
+        "instanceId": "514bd8f580ef",
+        "instanceIds": [
+          "514bd8f580ef"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_brian-mccormick--b48ff9e5/blocks/514bd8f580ef.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/brinton-johns/",
+        "instanceId": "ff419e1dd9d5",
+        "instanceIds": [
+          "ff419e1dd9d5"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_brinton-johns--9c4e9fef/blocks/ff419e1dd9d5.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/carli-prewett/",
+        "instanceId": "7534a39eecf3",
+        "instanceIds": [
+          "7534a39eecf3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_carli-prewett--257cfbf1/blocks/7534a39eecf3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/caroline-cantor/",
+        "instanceId": "e7ad9cb299c8",
+        "instanceIds": [
+          "e7ad9cb299c8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_caroline-cantor--8a6bf8a3/blocks/e7ad9cb299c8.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-carter/",
+        "instanceId": "dddffd53e79f",
+        "instanceIds": [
+          "dddffd53e79f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_chris-carter--d6581b5c/blocks/dddffd53e79f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-lau/",
+        "instanceId": "dbce29270cf0",
+        "instanceIds": [
+          "dbce29270cf0"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_chris-lau--f8615eb3/blocks/dbce29270cf0.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-mahoney/",
+        "instanceId": "01cc854b0cc4",
+        "instanceIds": [
+          "01cc854b0cc4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_chris-mahoney--35032cd8/blocks/01cc854b0cc4.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-morrison/",
+        "instanceId": "f2ce5f9d2d89",
+        "instanceIds": [
+          "f2ce5f9d2d89"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_chris-morrison--6d38c69f/blocks/f2ce5f9d2d89.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-smith/",
+        "instanceId": "aa348dca56ef",
+        "instanceIds": [
+          "aa348dca56ef"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_chris-smith--2dc7b891/blocks/aa348dca56ef.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/christopher-legg/",
+        "instanceId": "1ad811dffbe2",
+        "instanceIds": [
+          "1ad811dffbe2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_christopher-legg--bbc0f3c7/blocks/1ad811dffbe2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/christopher-sellers/",
+        "instanceId": "1d83ac03c3c6",
+        "instanceIds": [
+          "1d83ac03c3c6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_christopher-sellers--36583dcc/blocks/1d83ac03c3c6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/claudia-ho/",
+        "instanceId": "4b317fb033a4",
+        "instanceIds": [
+          "4b317fb033a4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_claudia-ho--5c858a64/blocks/4b317fb033a4.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/colin-croft/",
+        "instanceId": "18d939b482f9",
+        "instanceIds": [
+          "18d939b482f9"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_colin-croft--b20cec90/blocks/18d939b482f9.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/dan-carter/",
+        "instanceId": "aeb8c5b6a0ab",
+        "instanceIds": [
+          "aeb8c5b6a0ab"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_dan-carter--398c5f35/blocks/aeb8c5b6a0ab.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/david-lewis/",
+        "instanceId": "8c107fa65cca",
+        "instanceIds": [
+          "8c107fa65cca"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_david-lewis--8c6beb29/blocks/8c107fa65cca.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ed-meier/",
+        "instanceId": "e5b2445cfc69",
+        "instanceIds": [
+          "e5b2445cfc69"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_ed-meier--9c14122c/blocks/e5b2445cfc69.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/emerging-market-equities/",
+        "instanceId": "33cf89fd2e81",
+        "instanceIds": [
+          "33cf89fd2e81"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_emerging-market-equities--d7ba2363/blocks/33cf89fd2e81.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/environmental-solutions/",
+        "instanceId": "db9f181d46b2",
+        "instanceIds": [
+          "db9f181d46b2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_environmental-solutions--789106fb/blocks/db9f181d46b2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/errol-francis/",
+        "instanceId": "54fb71e1da0e",
+        "instanceIds": [
+          "54fb71e1da0e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_errol-francis--7b0625ed/blocks/54fb71e1da0e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/european-growth/",
+        "instanceId": "4642e9e70361",
+        "instanceIds": [
+          "4642e9e70361"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_european-growth--073cc43d/blocks/4642e9e70361.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/fixed-income/",
+        "instanceId": "c5a97056e8ac",
+        "instanceIds": [
+          "c5a97056e8ac"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_fixed-income--6713fd01/blocks/c5a97056e8ac.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/freddie-woolfe/",
+        "instanceId": "02395d148e0b",
+        "instanceIds": [
+          "02395d148e0b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_freddie-woolfe--1865c57b/blocks/02395d148e0b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/funds-of-funds/",
+        "instanceId": "b31cff3cdc98",
+        "instanceIds": [
+          "b31cff3cdc98"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_funds-of-funds--ce8f18a9/blocks/b31cff3cdc98.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/george-fox/",
+        "instanceId": "1b3d00e3d3bd",
+        "instanceIds": [
+          "1b3d00e3d3bd"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_george-fox--ea25e27f/blocks/1b3d00e3d3bd.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/global-leaders/",
+        "instanceId": "45ab8c2c0eb7",
+        "instanceIds": [
+          "45ab8c2c0eb7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_global-leaders--0978f419/blocks/45ab8c2c0eb7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/global/",
+        "instanceId": "e19482d67fa7",
+        "instanceIds": [
+          "e19482d67fa7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_global--7fde36ab/blocks/e19482d67fa7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/grisha-milushev/",
+        "instanceId": "d5784f2d5201",
+        "instanceIds": [
+          "d5784f2d5201"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_grisha-milushev--e57bfc81/blocks/d5784f2d5201.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/guy-de-blonay/",
+        "instanceId": "cb00b1420de7",
+        "instanceIds": [
+          "cb00b1420de7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_guy-de-blonay--c0ff4f75/blocks/cb00b1420de7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/harry-richards/",
+        "instanceId": "81758e5cbe42",
+        "instanceIds": [
+          "81758e5cbe42"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_harry-richards--895fef08/blocks/81758e5cbe42.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/hilary-blandy/",
+        "instanceId": "22afc63e1662",
+        "instanceIds": [
+          "22afc63e1662"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_hilary-blandy--5f3c2879/blocks/22afc63e1662.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/huw-davies/",
+        "instanceId": "df16f8425f27",
+        "instanceIds": [
+          "df16f8425f27"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_huw-davies--39f2fda6/blocks/df16f8425f27.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-gilbert/",
+        "instanceId": "1675e29e72ed",
+        "instanceIds": [
+          "1675e29e72ed"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_james-gilbert--6beed1cf/blocks/1675e29e72ed.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-moir/",
+        "instanceId": "9fb47eaa585e",
+        "instanceIds": [
+          "9fb47eaa585e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_james-moir--f27ac4c6/blocks/9fb47eaa585e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-murray/",
+        "instanceId": "33fcfcf578e8",
+        "instanceIds": [
+          "33fcfcf578e8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_james-murray--08f34042/blocks/33fcfcf578e8.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-novotny/",
+        "instanceId": "41190639e13a",
+        "instanceIds": [
+          "41190639e13a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_james-novotny--b677de12/blocks/41190639e13a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jason-pidcock/",
+        "instanceId": "4afb0514635d",
+        "instanceIds": [
+          "4afb0514635d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_jason-pidcock--0fba1868/blocks/4afb0514635d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/joe-furmanski/",
+        "instanceId": "3ba29a7c469f",
+        "instanceIds": [
+          "3ba29a7c469f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_joe-furmanski--7d347384/blocks/3ba29a7c469f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/joe-lunn/",
+        "instanceId": "19a351d8bc0f",
+        "instanceIds": [
+          "19a351d8bc0f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_joe-lunn--3c24a3ab/blocks/19a351d8bc0f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/john-chatfeild-roberts/",
+        "instanceId": "9394a3a285f2",
+        "instanceIds": [
+          "9394a3a285f2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_john-chatfeild-roberts--10f051f4/blocks/9394a3a285f2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jon-bathgate/",
+        "instanceId": "503283abfefb",
+        "instanceIds": [
+          "503283abfefb"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_jon-bathgate--b7c5fdd7/blocks/503283abfefb.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jon-wallace/",
+        "instanceId": "55ebc4c9e9b7",
+        "instanceIds": [
+          "55ebc4c9e9b7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_jon-wallace--6a9bec0a/blocks/55ebc4c9e9b7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jupiter-origin/",
+        "instanceId": "ae4e3ceca702",
+        "instanceIds": [
+          "ae4e3ceca702"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_jupiter-origin--c20d6fe5/blocks/ae4e3ceca702.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/kristian-herrington/",
+        "instanceId": "32c5b29b59a9",
+        "instanceIds": [
+          "32c5b29b59a9"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_kristian-herrington--4250ea9a/blocks/32c5b29b59a9.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/lakshay-thakur/",
+        "instanceId": "8fa2e507df05",
+        "instanceIds": [
+          "8fa2e507df05"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_lakshay-thakur--f0bbd897/blocks/8fa2e507df05.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/leon-wei/",
+        "instanceId": "cdab88d377c3",
+        "instanceIds": [
+          "cdab88d377c3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_leon-wei--6eac6ad3/blocks/cdab88d377c3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/luca-evangelisti/",
+        "instanceId": "a9ba4821aa82",
+        "instanceIds": [
+          "a9ba4821aa82"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_luca-evangelisti--ac774fcf/blocks/a9ba4821aa82.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/mark-nash/",
+        "instanceId": "11c57dff817f",
+        "instanceIds": [
+          "11c57dff817f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_mark-nash--7e58696d/blocks/11c57dff817f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/matt-cable/",
+        "instanceId": "94ebe2ce3f56",
+        "instanceIds": [
+          "94ebe2ce3f56"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_matt-cable--783cd981/blocks/94ebe2ce3f56.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/matus-mrazik/",
+        "instanceId": "4c5b43558929",
+        "instanceIds": [
+          "4c5b43558929"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_matus-mrazik--c31d4665/blocks/4c5b43558929.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/mitesh-patel/",
+        "instanceId": "aa60c039832c",
+        "instanceIds": [
+          "aa60c039832c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_mitesh-patel--65e4dda7/blocks/aa60c039832c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ned-naylor-leyland/",
+        "instanceId": "c50cc1c2d786",
+        "instanceIds": [
+          "c50cc1c2d786"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_ned-naylor-leyland--3d788d45/blocks/c50cc1c2d786.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/nerys-weir/",
+        "instanceId": "b50f5e0f0d04",
+        "instanceIds": [
+          "b50f5e0f0d04"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_nerys-weir--b0004249/blocks/b50f5e0f0d04.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/niall-gallagher/",
+        "instanceId": "3485d0b5e073",
+        "instanceIds": [
+          "3485d0b5e073"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_niall-gallagher--74d81a81/blocks/3485d0b5e073.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/nikisha-mistry/",
+        "instanceId": "e2d54b22114a",
+        "instanceIds": [
+          "e2d54b22114a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_nikisha-mistry--2aaba57a/blocks/e2d54b22114a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ning-yang/",
+        "instanceId": "4a9c05a86991",
+        "instanceIds": [
+          "4a9c05a86991"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_ning-yang--01469018/blocks/4a9c05a86991.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/noelle-guo/",
+        "instanceId": "54f396ac8129",
+        "instanceIds": [
+          "54f396ac8129"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_noelle-guo--b13c939b/blocks/54f396ac8129.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/orestis-vamvakas/",
+        "instanceId": "43f278a8127a",
+        "instanceIds": [
+          "43f278a8127a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_orestis-vamvakas--31a3cab1/blocks/43f278a8127a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/paridhi-garg/",
+        "instanceId": "760653d51ea7",
+        "instanceIds": [
+          "760653d51ea7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_paridhi-garg--89149f1a/blocks/760653d51ea7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/richard-curling/",
+        "instanceId": "071ec572bff2",
+        "instanceIds": [
+          "071ec572bff2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_richard-curling--3a6343c8/blocks/071ec572bff2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ruairi-devery-kavanagh/",
+        "instanceId": "36ac34674ce7",
+        "instanceIds": [
+          "36ac34674ce7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_ruairi-devery-kavanagh--b544008a/blocks/36ac34674ce7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/sam-konrad/",
+        "instanceId": "9b01b2423c71",
+        "instanceIds": [
+          "9b01b2423c71"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_sam-konrad--e1c95ce5/blocks/9b01b2423c71.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/sean-storey/",
+        "instanceId": "f158e741b1c6",
+        "instanceIds": [
+          "f158e741b1c6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_sean-storey--3a035603/blocks/f158e741b1c6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/siddharth-sukumar/",
+        "instanceId": "11f42536b155",
+        "instanceIds": [
+          "11f42536b155"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_siddharth-sukumar--b464d928/blocks/11f42536b155.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/specialist/",
+        "instanceId": "17faa7b89cdb",
+        "instanceIds": [
+          "17faa7b89cdb"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_specialist--501713dc/blocks/17faa7b89cdb.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/stephanie-geary/",
+        "instanceId": "e1ba32ca6e14",
+        "instanceIds": [
+          "e1ba32ca6e14"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_stephanie-geary--78a5a6a5/blocks/e1ba32ca6e14.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/systematic-equities/",
+        "instanceId": "bc771b5b78f5",
+        "instanceIds": [
+          "bc771b5b78f5"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_systematic-equities--3872782f/blocks/bc771b5b78f5.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/tarlock-randhawa/",
+        "instanceId": "bfe79368e2ab",
+        "instanceIds": [
+          "bfe79368e2ab"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_tarlock-randhawa--7b643f97/blocks/bfe79368e2ab.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/tarun-inani/",
+        "instanceId": "b817239b1c3b",
+        "instanceIds": [
+          "b817239b1c3b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_tarun-inani--4d6b4296/blocks/b817239b1c3b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/tim-service/",
+        "instanceId": "6715f5e6520a",
+        "instanceIds": [
+          "6715f5e6520a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_tim-service--947b6abc/blocks/6715f5e6520a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-dynamic-equity/",
+        "instanceId": "0805f413ee4b",
+        "instanceIds": [
+          "0805f413ee4b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_uk-dynamic-equity--35e01882/blocks/0805f413ee4b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-equity-income/",
+        "instanceId": "9c91496395ba",
+        "instanceIds": [
+          "9c91496395ba"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_uk-equity-income--2e506384/blocks/9c91496395ba.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-growth/",
+        "instanceId": "f6469078f89f",
+        "instanceIds": [
+          "f6469078f89f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_uk-growth--c3e18338/blocks/f6469078f89f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-small-and-mid-cap/",
+        "instanceId": "eccc7d27b651",
+        "instanceIds": [
+          "eccc7d27b651"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_uk-small-and-mid-cap--f40acc6d/blocks/eccc7d27b651.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/valerio-angioni/",
+        "instanceId": "f2959029ca9d",
+        "instanceIds": [
+          "f2959029ca9d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_valerio-angioni--d23ff4bf/blocks/f2959029ca9d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/value/",
+        "instanceId": "bb734275b7a2",
+        "instanceIds": [
+          "bb734275b7a2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_value--5a53a3bc/blocks/bb734275b7a2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/venetia-campbell/",
+        "instanceId": "4097b4a71f8c",
+        "instanceIds": [
+          "4097b4a71f8c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_venetia-campbell--4233b234/blocks/4097b4a71f8c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/xuchen-zhang/",
+        "instanceId": "9b8753732fe8",
+        "instanceIds": [
+          "9b8753732fe8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_xuchen-zhang--40d3744b/blocks/9b8753732fe8.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/yuangao-liu/",
+        "instanceId": "02674354d186",
+        "instanceIds": [
+          "02674354d186"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_yuangao-liu--8ca80d69/blocks/02674354d186.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/zara-azad/",
+        "instanceId": "c60a31c1df5e",
+        "instanceIds": [
+          "c60a31c1df5e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_zara-azad--0cd32b3c/blocks/c60a31c1df5e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-trusts/",
+        "instanceId": "132df5b29b0a",
+        "instanceIds": [
+          "132df5b29b0a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-trusts--0b517fc1/blocks/132df5b29b0a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-green-investment-trust-plc/",
+        "instanceId": "010ebc371224",
+        "instanceIds": [
+          "010ebc371224"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-green-investment-trust-plc--7fbef415/blocks/010ebc371224.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/legal-and-regulatory/",
+        "instanceId": "9185f21b74dd",
+        "instanceIds": [
+          "9185f21b74dd"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_legal-and-regulatory--cafb3002/blocks/9185f21b74dd.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/legal-notice/",
+        "instanceId": "3b89456279a8",
+        "instanceIds": [
+          "3b89456279a8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_legal-notice--9d854ce6/blocks/3b89456279a8.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/mifid-ii/",
+        "instanceId": "2935cce3c6fb",
+        "instanceIds": [
+          "2935cce3c6fb"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_mifid-ii--49167482/blocks/2935cce3c6fb.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/modern-slavery-statement/",
+        "instanceId": "716a0d7d7716",
+        "instanceIds": [
+          "716a0d7d7716"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_modern-slavery-statement--49a3ed85/blocks/716a0d7d7716.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/navigation/",
+        "instanceId": "ed83d4909e8c",
+        "instanceIds": [
+          "ed83d4909e8c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_navigation--60c79394/blocks/ed83d4909e8c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/offshore-ta/",
+        "instanceId": "4f64c8e4bb30",
+        "instanceIds": [
+          "4f64c8e4bb30"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_offshore-ta--29d4f0da/blocks/4f64c8e4bb30.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/onshore-ta/",
+        "instanceId": "0e379ddf8730",
+        "instanceIds": [
+          "0e379ddf8730"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_onshore-ta--3ff76d6a/blocks/0e379ddf8730.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/power-of-attorneys-and-executors/",
+        "instanceId": "8ad2e5ff41fa",
+        "instanceIds": [
+          "8ad2e5ff41fa"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_power-of-attorneys-and-executors--f6a519c2/blocks/8ad2e5ff41fa.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/",
+        "instanceId": "9b217b1cd00d",
+        "instanceIds": [
+          "9b217b1cd00d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases--cd41abf9/blocks/9b217b1cd00d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/chief-executive-officer-succession-planning/",
+        "instanceId": "e2be4089de52",
+        "instanceIds": [
+          "e2be4089de52"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_chief-executive-officer-succession-planning--b3556abd/blocks/e2be4089de52.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/emerging-market-debt-update/",
+        "instanceId": "36b0391cb864",
+        "instanceIds": [
+          "36b0391cb864"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_emerging-market-debt-update--682ee27d/blocks/36b0391cb864.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-australias-institutional-distribution-partners/",
+        "instanceId": "8ff5f35ece6c",
+        "instanceIds": [
+          "8ff5f35ece6c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-distribution-partnership-with-australias-institutional-distribution-partners--8d45a201/blocks/8ff5f35ece6c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-dutch-specialist-oceanside/",
+        "instanceId": "f4c6abbd3e01",
+        "instanceIds": [
+          "f4c6abbd3e01"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-distribution-partnership-with-dutch-specialist-oceanside--897363a9/blocks/f4c6abbd3e01.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-its-first-active-etf-for-global-government-bonds/",
+        "instanceId": "e0d3f1d3c0d2",
+        "instanceIds": [
+          "e0d3f1d3c0d2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-its-first-active-etf-for-global-government-bonds--8a0bdf45/blocks/e0d3f1d3c0d2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-announces-hire-selina-tyler-head-of-uk/",
+        "instanceId": "97a4a97f2a0a",
+        "instanceIds": [
+          "97a4a97f2a0a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-announces-hire-selina-tyler-head-of-uk--876b2c91/blocks/97a4a97f2a0a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-builds-scale-emerging-markets-acquisition-team-institutional-assets-origin-asset-management/",
+        "instanceId": "61457e77677f",
+        "instanceIds": [
+          "61457e77677f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-builds-scale-emerging-markets-acquisition-team-institutional-assets-origin-asset-management--84c76149/blocks/61457e77677f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-confirms-investment-managers-of-the-jupiter-global-value-equity-unit-trust/",
+        "instanceId": "900ca20a9ed9",
+        "instanceIds": [
+          "900ca20a9ed9"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-confirms-investment-managers-of-the-jupiter-global-value-equity-unit-trust--f99459bd/blocks/900ca20a9ed9.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-hires-highly-successful-european-equity-team-from-gam-investments/",
+        "instanceId": "0991ce25be6a",
+        "instanceIds": [
+          "0991ce25be6a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-hires-highly-successful-european-equity-team-from-gam-investments--77b73694/blocks/0991ce25be6a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-launches-systematic-thematic-fund-range/",
+        "instanceId": "d89ea76f8d5b",
+        "instanceIds": [
+          "d89ea76f8d5b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-launches-systematic-thematic-fund-range--31412fa4/blocks/d89ea76f8d5b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-ecology-fund-plans-to-adopt-fca-sustainability-focus-label/",
+        "instanceId": "6b4f8a969614",
+        "instanceIds": [
+          "6b4f8a969614"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-ecology-fund-plans-to-adopt-fca-sustainability-focus-label--cca82baa/blocks/6b4f8a969614.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-launches-global-ecology-bond-fund/",
+        "instanceId": "76b875bd762f",
+        "instanceIds": [
+          "76b875bd762f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-launches-global-ecology-bond-fund--88c330a9/blocks/76b875bd762f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-uk-multi-cap-income-fund-launches/",
+        "instanceId": "9c8b5c8cafb1",
+        "instanceIds": [
+          "9c8b5c8cafb1"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-uk-multi-cap-income-fund-launches--0230a257/blocks/9c8b5c8cafb1.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-wins-four-accolades-at-fund-manager-of-the-year-awards-2024/",
+        "instanceId": "701b951de523",
+        "instanceIds": [
+          "701b951de523"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-wins-four-accolades-at-fund-manager-of-the-year-awards-2024--cd5cb832/blocks/701b951de523.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/origin-asset-management-investment-team-and-assets-join-jupiter-on-completion-of-acquisition/",
+        "instanceId": "2943dbda0eb3",
+        "instanceIds": [
+          "2943dbda0eb3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_origin-asset-management-investment-team-and-assets-join-jupiter-on-completion-of-acquisition--0eaf6502/blocks/2943dbda0eb3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/richard-buxton-announces-retirement/",
+        "instanceId": "8fcb586d36fc",
+        "instanceIds": [
+          "8fcb586d36fc"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_richard-buxton-announces-retirement--73395e50/blocks/8fcb586d36fc.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/privacy/",
+        "instanceId": "a1fd91693b4f",
+        "instanceIds": [
+          "a1fd91693b4f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_privacy--1dd7d66a/blocks/a1fd91693b4f.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/",
+        "instanceId": "f97fcd8e9152",
+        "instanceIds": [
+          "f97fcd8e9152"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help--b7dfb547/blocks/f97fcd8e9152.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/anti-money-laundering-requirements/",
+        "instanceId": "1383754ce403",
+        "instanceIds": [
+          "1383754ce403"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_anti-money-laundering-requirements--0ad1d121/blocks/1383754ce403.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/bereavement-and-power-of-attorney/",
+        "instanceId": "b9aab1933366",
+        "instanceIds": [
+          "b9aab1933366"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_bereavement-and-power-of-attorney--c9b07cf7/blocks/b9aab1933366.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/frequently-asked-questions/",
+        "instanceId": "5a1943dd045c",
+        "instanceIds": [
+          "5a1943dd045c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_frequently-asked-questions--d87f3b14/blocks/5a1943dd045c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/historical-assessment-of-value-reports/",
+        "instanceId": "500b2a9f462d",
+        "instanceIds": [
+          "500b2a9f462d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_historical-assessment-of-value-reports--9d20d0a9/blocks/500b2a9f462d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-invest/",
+        "instanceId": "2905cdb5efac",
+        "instanceIds": [
+          "2905cdb5efac"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_how-to-invest--49dfff13/blocks/2905cdb5efac.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-sell/",
+        "instanceId": "eefddf14e5bb",
+        "instanceIds": [
+          "eefddf14e5bb"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_how-to-sell--504bb344/blocks/eefddf14e5bb.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-switch--transfer--convert/",
+        "instanceId": "3f012346f8eb",
+        "instanceIds": [
+          "3f012346f8eb"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_how-to-switch--transfer--convert--dc8f7d59/blocks/3f012346f8eb.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/rights-and-issues-investment-trust-plc/",
+        "instanceId": "2ad642936454",
+        "instanceIds": [
+          "2ad642936454"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_rights-and-issues-investment-trust-plc--dafb46d1/blocks/2ad642936454.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/security-alerts/",
+        "instanceId": "5f92e48a730b",
+        "instanceIds": [
+          "5f92e48a730b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_security-alerts--77647607/blocks/5f92e48a730b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/social-media-policy-and-community-guidelines/",
+        "instanceId": "250b32ed6244",
+        "instanceIds": [
+          "250b32ed6244"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_social-media-policy-and-community-guidelines--a70240ea/blocks/250b32ed6244.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/solutions/",
+        "instanceId": "92d7e1a21cd7",
+        "instanceIds": [
+          "92d7e1a21cd7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_solutions--7b864fe6/blocks/92d7e1a21cd7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/biodiversity/",
+        "instanceId": "89a6faf7148c",
+        "instanceIds": [
+          "89a6faf7148c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_biodiversity--e2bea9eb/blocks/89a6faf7148c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/jupiter-approach-and-finance-for-biodiversity-pledge/",
+        "instanceId": "c295edd6042e",
+        "instanceIds": [
+          "c295edd6042e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_jupiter-approach-and-finance-for-biodiversity-pledge--6f155a07/blocks/c295edd6042e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/terms-and-conditions/",
+        "instanceId": "0bbf9685cfd4",
+        "instanceIds": [
+          "0bbf9685cfd4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_terms-and-conditions--6922a1a4/blocks/0bbf9685cfd4.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/tiered-pricing-on-the-fixed-annual-charge/",
+        "instanceId": "680be42bde4d",
+        "instanceIds": [
+          "680be42bde4d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_tiered-pricing-on-the-fixed-annual-charge--23542044/blocks/680be42bde4d.jpg"
+      }
+    ],
+    "reuseCount": 143
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "breadcrumb trail on every page, no library block",
+    "mergedInto": null
+  }
+}

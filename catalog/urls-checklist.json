@@ -1,0 +1,2413 @@
+{
+  "analysis-urls-checklist": {
+    "captured": "2026-11-12T15:01:47.186Z",
+    "totalPages": 300,
+    "statusBreakdown": {
+      "marked": 0,
+      "analyzed": 300,
+      "failed": 0
+    },
+    "pages": {
+      "https://www.jupiteram.com/uk/en/individual/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:00.605Z",
+        "slug": "www_jupiteram_com_uk_en_individual--17bd0a2e",
+        "title": "Home - Jupiter Asset Management",
+        "blockCount": 9
+      },
+      "https://www.jupiteram.com/uk/en/individual/navigation/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/navigation/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:01:58.513Z",
+        "slug": "www_jupiteram_com_uk_en_individual_navigation--60c79394",
+        "title": "Navigation - Jupiter Asset Management",
+        "blockCount": 2
+      },
+      "https://www.jupiteram.com/uk/en/individual/about-jupiter/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/about-jupiter/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:03.017Z",
+        "slug": "www_jupiteram_com_uk_en_individual_about-jupiter--8b864c51",
+        "title": "About us - Jupiter Asset Management",
+        "blockCount": 9
+      },
+      "https://www.jupiteram.com/uk/en/individual/fund-centre/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/fund-centre/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:13.045Z",
+        "slug": "www_jupiteram_com_uk_en_individual_fund-centre--f2814807",
+        "title": "Fund centre - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:06.516Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams--1b0ffef1",
+        "title": "Investment Teams - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/solutions/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/solutions/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:09.681Z",
+        "slug": "www_jupiteram_com_uk_en_individual_solutions--7b864fe6",
+        "title": "Solutions - Jupiter Asset Management",
+        "blockCount": 2
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:16.061Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights--51db238d",
+        "title": "Insights - Jupiter Asset Management",
+        "blockCount": 9
+      },
+      "https://www.jupiteram.com/uk/en/individual/resources-and-help/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:21.096Z",
+        "slug": "www_jupiteram_com_uk_en_individual_resources-and-help--b7dfb547",
+        "title": "Help & Resources - Jupiter Asset Management",
+        "blockCount": 23
+      },
+      "https://www.jupiteram.com/uk/en/individual/contact/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/contact/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:21.065Z",
+        "slug": "www_jupiteram_com_uk_en_individual_contact--6010a885",
+        "title": "Contact - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/privacy/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/privacy/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:23.715Z",
+        "slug": "www_jupiteram_com_uk_en_individual_privacy--1dd7d66a",
+        "title": "Privacy - Jupiter Asset Management",
+        "blockCount": 17
+      },
+      "https://www.jupiteram.com/uk/en/individual/cookie-policy/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/cookie-policy/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:25.963Z",
+        "slug": "www_jupiteram_com_uk_en_individual_cookie-policy--9ee7ea52",
+        "title": "Cookie policy - Jupiter Asset Management",
+        "blockCount": 5
+      },
+      "https://www.jupiteram.com/uk/en/individual/accessibility/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/accessibility/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:26.949Z",
+        "slug": "www_jupiteram_com_uk_en_individual_accessibility--e0df92bc",
+        "title": "Accessibility - Jupiter Asset Management",
+        "blockCount": 3
+      },
+      "https://www.jupiteram.com/uk/en/individual/terms-and-conditions/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/terms-and-conditions/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:30.166Z",
+        "slug": "www_jupiteram_com_uk_en_individual_terms-and-conditions--6922a1a4",
+        "title": "Terms & conditions - Jupiter Asset Management",
+        "blockCount": 2
+      },
+      "https://www.jupiteram.com/uk/en/individual/security-alerts/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/security-alerts/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:34.420Z",
+        "slug": "www_jupiteram_com_uk_en_individual_security-alerts--77647607",
+        "title": "Security alerts - Jupiter Asset Management",
+        "blockCount": 21
+      },
+      "https://www.jupiteram.com/uk/en/individual/legal-and-regulatory/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/legal-and-regulatory/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:33.748Z",
+        "slug": "www_jupiteram_com_uk_en_individual_legal-and-regulatory--cafb3002",
+        "title": "Legal & regulatory - Jupiter Asset Management",
+        "blockCount": 2
+      },
+      "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:36.859Z",
+        "slug": "www_jupiteram_com_uk_en_individual_sustainability-at-jupiter--550b472f",
+        "title": "Sustainability at Jupiter - Jupiter Asset Management",
+        "blockCount": 3
+      },
+      "https://www.jupiteram.com/uk/en/individual/social-media-policy-and-community-guidelines/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/social-media-policy-and-community-guidelines/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:37.358Z",
+        "slug": "www_jupiteram_com_uk_en_individual_social-media-policy-and-community-guidelines--a70240ea",
+        "title": "Social media policy and community guidelines - Jupiter Asset Management",
+        "blockCount": 3
+      },
+      "https://www.jupiteram.com/uk/en/individual/jupiter-strategic-absolute-return-bond-fund/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-strategic-absolute-return-bond-fund/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:45.690Z",
+        "slug": "www_jupiteram_com_uk_en_individual_jupiter-strategic-absolute-return-bond-fund--20b184ed",
+        "title": "Jupiter Strategic Absolute Return Bond Fund - Jupiter Asset Management",
+        "blockCount": 11
+      },
+      "https://www.jupiteram.com/uk/en/individual/mifid-ii/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/mifid-ii/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:44.857Z",
+        "slug": "www_jupiteram_com_uk_en_individual_mifid-ii--49167482",
+        "title": "MiFID II - Jupiter Asset Management",
+        "blockCount": 3
+      },
+      "https://www.jupiteram.com/uk/en/individual/modern-slavery-statement/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/modern-slavery-statement/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:44.800Z",
+        "slug": "www_jupiteram_com_uk_en_individual_modern-slavery-statement--49a3ed85",
+        "title": "Modern slavery statement - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/jupiter-merlin-portfolios/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-merlin-portfolios/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:54.976Z",
+        "slug": "www_jupiteram_com_uk_en_individual_jupiter-merlin-portfolios--0365eece",
+        "title": "Jupiter Merlin Portfolios - Jupiter Asset Management",
+        "blockCount": 23
+      },
+      "https://www.jupiteram.com/uk/en/individual/jupiter-global-leaders-fund/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-leaders-fund/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:54.703Z",
+        "slug": "www_jupiteram_com_uk_en_individual_jupiter-global-leaders-fund--5b8a5870",
+        "title": "Jupiter Global Leaders Fund - Jupiter Asset Management",
+        "blockCount": 16
+      },
+      "https://www.jupiteram.com/uk/en/individual/legal-notice/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/legal-notice/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:56.698Z",
+        "slug": "www_jupiteram_com_uk_en_individual_legal-notice--9d854ce6",
+        "title": "Terms of Use - Jupiter Asset Management",
+        "blockCount": 5
+      },
+      "https://www.jupiteram.com/uk/en/individual/tiered-pricing-on-the-fixed-annual-charge/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/tiered-pricing-on-the-fixed-annual-charge/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:02:56.602Z",
+        "slug": "www_jupiteram_com_uk_en_individual_tiered-pricing-on-the-fixed-annual-charge--23542044",
+        "title": "Tiered pricing on the Fixed Annual Charge - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/jupiter-uk-dynamic-equity-fund/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-dynamic-equity-fund/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:03.777Z",
+        "slug": "www_jupiteram_com_uk_en_individual_jupiter-uk-dynamic-equity-fund--8e51e66e",
+        "title": "Jupiter UK Dynamic Equity Fund - Jupiter Asset Management",
+        "blockCount": 20
+      },
+      "https://www.jupiteram.com/uk/en/individual/jupiter-uk-multi-cap-income-fund/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-multi-cap-income-fund/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:15.765Z",
+        "slug": "www_jupiteram_com_uk_en_individual_jupiter-uk-multi-cap-income-fund--9eaf27d2",
+        "title": "Jupiter UK Multi Cap Income Fund - Jupiter Asset Management",
+        "blockCount": 18
+      },
+      "https://www.jupiteram.com/uk/en/individual/uk-equities/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/uk-equities/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:14.919Z",
+        "slug": "www_jupiteram_com_uk_en_individual_uk-equities--fa04f43e",
+        "title": "Unlocking UK potential - Jupiter Asset Management",
+        "blockCount": 11
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:17.465Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases--cd41abf9",
+        "title": "Press releases and announcements - Jupiter Asset Management",
+        "blockCount": 26
+      },
+      "https://www.jupiteram.com/uk/en/individual/in-the-spotlight/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/in-the-spotlight/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:14.878Z",
+        "slug": "www_jupiteram_com_uk_en_individual_in-the-spotlight--b90da623",
+        "title": "Funds in the spotlight - Jupiter Asset Management",
+        "blockCount": 5
+      },
+      "https://www.jupiteram.com/uk/en/individual/document-library/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/document-library/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:16.942Z",
+        "slug": "www_jupiteram_com_uk_en_individual_document-library--33fce9cd",
+        "title": "Document library - Jupiter Asset Management",
+        "blockCount": 5
+      },
+      "https://www.jupiteram.com/uk/en/individual/jupiter-green-investment-trust-plc/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-green-investment-trust-plc/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:31.203Z",
+        "slug": "www_jupiteram_com_uk_en_individual_jupiter-green-investment-trust-plc--7fbef415",
+        "title": "Jupiter Green Investment Trust Plc - Jupiter Asset Management",
+        "blockCount": 9
+      },
+      "https://www.jupiteram.com/uk/en/individual/search/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/search/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:30.924Z",
+        "slug": "www_jupiteram_com_uk_en_individual_search--8e66d9e9",
+        "title": "Search - Jupiter Asset Management",
+        "blockCount": 15
+      },
+      "https://www.jupiteram.com/uk/en/individual/rights-and-issues-investment-trust-plc/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/rights-and-issues-investment-trust-plc/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:39.462Z",
+        "slug": "www_jupiteram_com_uk_en_individual_rights-and-issues-investment-trust-plc--dafb46d1",
+        "title": "Rights and Issues Investment Trust Plc - Jupiter Asset Management",
+        "blockCount": 11
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-trusts/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-trusts/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:30.755Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-trusts--0b517fc1",
+        "title": "Investment trusts - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/glossary/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/glossary/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:23.772Z",
+        "slug": "www_jupiteram_com_uk_en_individual_glossary--ae9fae61",
+        "title": "Glossary - Jupiter Asset Management",
+        "blockCount": 190
+      },
+      "https://www.jupiteram.com/uk/en/individual/power-of-attorneys-and-executors/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/power-of-attorneys-and-executors/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:48.233Z",
+        "slug": "www_jupiteram_com_uk_en_individual_power-of-attorneys-and-executors--f6a519c2",
+        "title": "Power of Attorneys and Executors - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/jupiter-global-government-bond-active-ucits-etf/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-government-bond-active-ucits-etf/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:53.492Z",
+        "slug": "www_jupiteram_com_uk_en_individual_jupiter-global-government-bond-active-ucits-etf--a67e656b",
+        "title": "Jupiter Global Government Bond Active UCITS ETF - Jupiter Asset Management",
+        "blockCount": 18
+      },
+      "https://www.jupiteram.com/uk/en/individual/jupiter-european-equities/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-european-equities/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:51.758Z",
+        "slug": "www_jupiteram_com_uk_en_individual_jupiter-european-equities--24af9070",
+        "title": "Jupiter European Fund - Jupiter Asset Management",
+        "blockCount": 17
+      },
+      "https://www.jupiteram.com/uk/en/individual/offshore-ta/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/offshore-ta/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:03:51.659Z",
+        "slug": "www_jupiteram_com_uk_en_individual_offshore-ta--29d4f0da",
+        "title": "Offshore Transfer Agent - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/jupiter-origin-global-smaller-companies-active-ucits-etf/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-origin-global-smaller-companies-active-ucits-etf/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:03.109Z",
+        "slug": "www_jupiteram_com_uk_en_individual_jupiter-origin-global-smaller-companies-active-ucits-etf--c22a9ae4",
+        "title": "Jupiter Origin Global Smaller Companies Active UCITS ETF - Jupiter Asset Management",
+        "blockCount": 13
+      },
+      "https://www.jupiteram.com/uk/en/individual/income-solutions/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/income-solutions/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:05.027Z",
+        "slug": "www_jupiteram_com_uk_en_individual_income-solutions--5794d808",
+        "title": "Income solutions backed by active insight - Jupiter Asset Management",
+        "blockCount": 9
+      },
+      "https://www.jupiteram.com/uk/en/individual/onshore-ta/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/onshore-ta/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:04.340Z",
+        "slug": "www_jupiteram_com_uk_en_individual_onshore-ta--3ff76d6a",
+        "title": "Onshore Transfer Agent - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-death-and-a-birthday-in-the-eu-family/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-death-and-a-birthday-in-the-eu-family/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:29.998Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-a-death-and-a-birthday-in-the-eu-family--cdb44bf0",
+        "title": "Merlin Weekly Macro: A death and a birthday in the EU family - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-countdown-to-5th-november/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-countdown-to-5th-november/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:19.768Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-countdown-to-5th-november--1a9c29ef",
+        "title": "Merlin Weekly Macro: The countdown to 5th November - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-dear-jeremy-dear-andrew/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-dear-jeremy-dear-andrew/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:21.157Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-dear-jeremy-dear-andrew--649b0548",
+        "title": "Merlin Weekly Macro: Dear Jeremy / Dear Andrew - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-macro-securonomics-now-you-see-it-now-you-dont/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-macro-securonomics-now-you-see-it-now-you-dont/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:24.065Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-macro-securonomics-now-you-see-it-now-you-dont--4aa42e34",
+        "title": "Merlin Macro: `Securonomics,’ now you see it, now you don’t - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-24-hours-to-forget-for-the-tories/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-24-hours-to-forget-for-the-tories/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:35.708Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-24-hours-to-forget-for-the-tories--a44ebbfe",
+        "title": "Merlin Weekly Macro: 24 hours to forget for the Tories - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-wests-diplomacy-has-failed-ukraine/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-wests-diplomacy-has-failed-ukraine/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:36.868Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-wests-diplomacy-has-failed-ukraine--eafd1b9b",
+        "title": "Merlin Weekly Macro: The West’s diplomacy has failed Ukraine - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/on-our-bookshelf-the-merlin-teams-spring-reading/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/on-our-bookshelf-the-merlin-teams-spring-reading/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:38.642Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_on-our-bookshelf-the-merlin-teams-spring-reading--59a8fde4",
+        "title": "On our bookshelf: the Merlin team’s spring reading - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/jupiter-merlin-weekly-hunts-budget-pleases-hardly-anyone/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/jupiter-merlin-weekly-hunts-budget-pleases-hardly-anyone/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:39.870Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_jupiter-merlin-weekly-hunts-budget-pleases-hardly-anyone--3bcf35dd",
+        "title": "Jupiter Merlin Weekly: Hunt’s budget pleases hardly anyone - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-old-challenges-for-any-new-government/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-old-challenges-for-any-new-government/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:46.056Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-old-challenges-for-any-new-government--65554ff2",
+        "title": "Merlin Weekly Macro: Old challenges for any new government - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-rehabilitation-of-the-iron-lady/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-rehabilitation-of-the-iron-lady/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:49.840Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-rehabilitation-of-the-iron-lady--1440de41",
+        "title": "Merlin Weekly Macro: The rehabilitation of The Iron Lady - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-interpreting-the-feds-policy-signals/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-interpreting-the-feds-policy-signals/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:51.326Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-interpreting-the-feds-policy-signals--dde4ea5d",
+        "title": "Merlin Weekly Macro: Interpreting the Fed’s policy signals - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-threat-to-the-rules-based-order/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-threat-to-the-rules-based-order/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:55.013Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-a-threat-to-the-rules-based-order--a671c820",
+        "title": "Merlin Weekly Macro: A threat to the rules-based order - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-us-inflation-moves-stubbornly-sideways/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-us-inflation-moves-stubbornly-sideways/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:04:54.358Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-us-inflation-moves-stubbornly-sideways--d619ce01",
+        "title": "Merlin Weekly Macro: US inflation moves stubbornly sideways - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-diplomatic-leverage-in-short-supply/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-diplomatic-leverage-in-short-supply/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:00.488Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-diplomatic-leverage-in-short-supply--dd828ee7",
+        "title": "Merlin Weekly Macro: Diplomatic leverage in short supply - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-sunak-talks-tough-on-defence/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-sunak-talks-tough-on-defence/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:09.477Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-sunak-talks-tough-on-defence--5359b4e7",
+        "title": "Merlin Weekly Macro: Sunak talks tough on defence - Jupiter Asset Management",
+        "blockCount": 41
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-this-blue-and-pleasant-land/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-this-blue-and-pleasant-land/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:09.766Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-this-blue-and-pleasant-land--e26e8044",
+        "title": "Merlin Weekly Macro: This blue and pleasant land? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-election-race-is-on/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-election-race-is-on/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:13.100Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-election-race-is-on--0225e291",
+        "title": "Merlin Weekly Macro: The election race is on - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-central-bankers-in-a-bind/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-central-bankers-in-a-bind/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:13.161Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-central-bankers-in-a-bind--1554b0ca",
+        "title": "Merlin Weekly Macro: Central bankers in a bind - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-on-tax-the-devil-is-in-the-detail/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-on-tax-the-devil-is-in-the-detail/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:17.041Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-on-tax-the-devil-is-in-the-detail--c8360070",
+        "title": "Merlin Weekly Macro: On tax, the devil is in the detail - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-natos-disunited-band-of-brothers/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-natos-disunited-band-of-brothers/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:27.230Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-natos-disunited-band-of-brothers--429d6e58",
+        "title": "Merlin Weekly Macro: NATO’s disunited ‘Band of Brothers’ - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-spotlight-on-labours-economic-plan/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-spotlight-on-labours-economic-plan/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:27.202Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-spotlight-on-labours-economic-plan--5ec4ad2a",
+        "title": "Merlin Weekly Macro: Spotlight on Labour’s economic plans - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-do-you-hear-the-drums-of-discontent/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-do-you-hear-the-drums-of-discontent/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:29.886Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-do-you-hear-the-drums-of-discontent--59140bd3",
+        "title": "Merlin Weekly Macro: Do you hear the drums of discontent? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-government-requires-effective-challenge/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-government-requires-effective-challenge/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:29.839Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-government-requires-effective-challenge--8e12c2b0",
+        "title": "Merlin Weekly Macro: Government requires effective challenge - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-nato-really-as-united-as-it-claims/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-nato-really-as-united-as-it-claims/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:33.418Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-nato-really-as-united-as-it-claims--7786bb26",
+        "title": "Merlin Weekly Macro: Is NATO really as united as it claims? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-the-us-constitution-endure-trump/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-the-us-constitution-endure-trump/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:45.161Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-can-the-us-constitution-endure-trump--eec5f563",
+        "title": "Merlin Weekly Macro: Can the US constitution endure Trump? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-and-deficits-plague-the-west/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-and-deficits-plague-the-west/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:44.141Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-debt-and-deficits-plague-the-west--56d3675b",
+        "title": "Merlin Weekly Macro: Debt and deficits plague the West - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-battle-of-wills-on-interest-rates/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-battle-of-wills-on-interest-rates/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:45.143Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-battle-of-wills-on-interest-rates--25c69dbf",
+        "title": "Merlin Weekly Macro: A battle of wills on interest rates - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-stock-markets-get-the-jitters/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-stock-markets-get-the-jitters/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:46.041Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-stock-markets-get-the-jitters--bb3584c2",
+        "title": "Merlin Weekly Macro: Stock markets get the jitters - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-how-clean-can-electricity-become/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-how-clean-can-electricity-become/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:47.964Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-how-clean-can-electricity-become--5a72ee37",
+        "title": "Merlin Weekly Macro: How clean can electricity become? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-price-controls-ever-work/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-price-controls-ever-work/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:05:59.485Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-can-price-controls-ever-work--71830c79",
+        "title": "Merlin Weekly Macro: Can price controls ever work? - Jupiter Asset Management",
+        "blockCount": 36
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-should-you-be-worried-about-german-politics/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-should-you-be-worried-about-german-politics/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:03.153Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-should-you-be-worried-about-german-politics--8e39b805",
+        "title": "Merlin Weekly Macro: Should you be worried about German politics? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ecb-faces-hardest-interest-rate-challenge/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ecb-faces-hardest-interest-rate-challenge/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:01.504Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-ecb-faces-hardest-interest-rate-challenge--c8828e45",
+        "title": "Merlin Weekly Macro: The ECB faces the hardest interest rate challenge - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-labour-heading-in-the-wrong-direction/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-labour-heading-in-the-wrong-direction/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:03.101Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-labour-heading-in-the-wrong-direction--43e76a82",
+        "title": "Merlin Weekly Macro: Is Labour heading in the wrong direction? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-why-are-markets-acting-so-calmly/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-why-are-markets-acting-so-calmly/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:03.309Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-why-are-markets-acting-so-calmly--113d83c7",
+        "title": "Merlin Weekly Macro: Why are markets acting so calmly? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-have-labour-painted-themselves-into-a-corner/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-have-labour-painted-themselves-into-a-corner/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:16.993Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-have-labour-painted-themselves-into-a-corner--c81e8f43",
+        "title": "Merlin Weekly Macro: Have Labour painted themselves into a corner? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-rachel-through-the-looking-glass/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-rachel-through-the-looking-glass/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:21.634Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-rachel-through-the-looking-glass--feb5d141",
+        "title": "Merlin Weekly Macro: Rachel through the Looking Glass - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-trump-agenda-has-economic-consequences/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-trump-agenda-has-economic-consequences/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:21.524Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_investment-outlook-2025-trump-agenda-has-economic-consequences--f68cf3d9",
+        "title": "Outlook 2025: Trump’s agenda has economic consequences - Jupiter Asset Management",
+        "blockCount": 9
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-european-powers-on-shaky-political-ground/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-european-powers-on-shaky-political-ground/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:20.944Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-european-powers-on-shaky-political-ground--c98c9016",
+        "title": "Merlin Weekly Macro: European powers on shaky political ground - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/jupiter-global-sustainable-equities-fund-name-change/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/jupiter-global-sustainable-equities-fund-name-change/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:20.316Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_jupiter-global-sustainable-equities-fund-name-change--dcd6a9d7",
+        "title": "Jupiter Global Sustainable Equities Fund – name change - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-france-germany-debt-rises-government-falls/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-france-germany-debt-rises-government-falls/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:32.672Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-france-germany-debt-rises-government-falls--95ddee74",
+        "title": "Merlin Weekly Macro: In France, Germany - debt rises, government falls - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-2024-in-retrospect/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-2024-in-retrospect/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:35.513Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-2024-in-retrospect--64fffb9c",
+        "title": "Merlin Weekly Macro: 2024 in retrospect - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-there-method-to-trumps-madness/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-there-method-to-trumps-madness/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:38.306Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-there-method-to-trumps-madness--00a4c3c7",
+        "title": "Merlin Weekly Macro: Is there method to Trump’s madness? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-writing-joe-bidens-report-card/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-writing-joe-bidens-report-card/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:38.849Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-writing-joe-bidens-report-card--cc2eb5a3",
+        "title": "Merlin Weekly Macro: Writing Joe Biden’s report card - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-heres-donny-trump-davos/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-heres-donny-trump-davos/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:38.895Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-heres-donny-trump-davos--683ea111",
+        "title": "Merlin Weekly Macro: ‘Here’s Donny!’ – Trump at Davos - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-helpful-catalysts-for-uk-equities/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-helpful-catalysts-for-uk-equities/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:47.929Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_investment-outlook-2025-helpful-catalysts-for-uk-equities--575e2a58",
+        "title": "Outlook 2025: Helpful catalysts for UK equities - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-uk-value-investing-through-business-transformation/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-uk-value-investing-through-business-transformation/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:49.640Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_investment-outlook-2025-uk-value-investing-through-business-transformation--75825ca5",
+        "title": "Outlook 2025: UK value investing through business transformation - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-staying-diversified-in-asia-pacific/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/investment-outlook-2025-staying-diversified-in-asia-pacific/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:51.903Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_investment-outlook-2025-staying-diversified-in-asia-pacific--29031b63",
+        "title": "Outlook 2025: Staying diversified in Asia Pacific - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/deepSeek-a-new-era-for-ai/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/deepSeek-a-new-era-for-ai/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:52.312Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_deepSeek-a-new-era-for-ai--d713daa8",
+        "title": "DeepSeek - a new era for AI? - Jupiter Asset Management",
+        "blockCount": 11
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-the-uk-government-all-at-sea-on-growth/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-the-uk-government-all-at-sea-on-growth/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:06:53.360Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-the-uk-government-all-at-sea-on-growth--749fada4",
+        "title": "Merlin Weekly Macro: Is the UK government all at sea on growth? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-is-using-tariffs-as-political-levers/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-is-using-tariffs-as-political-levers/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:04.118Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-is-using-tariffs-as-political-levers--adaad7e7",
+        "title": "Merlin Weekly Macro: Trump is using tariffs as political levers - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-reeves-macron-have-big-debt-problems/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-reeves-macron-have-big-debt-problems/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:05.357Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-reeves-macron-have-big-debt-problems--326d9965",
+        "title": "Merlin Weekly Macro: Trump, Reeves and Macron have big debt problems - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/an-investors-view-on-uk-defence-policy-and-geopolitics/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/an-investors-view-on-uk-defence-policy-and-geopolitics/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:50.361Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_an-investors-view-on-uk-defence-policy-and-geopolitics--c6c74faf",
+        "title": "Call to Arms: a Strategic Blueprint for National Security - Jupiter Asset Management",
+        "blockCount": 210
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-unpredictability-upends-global-norms/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-unpredictability-upends-global-norms/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:07.007Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-unpredictability-upends-global-norms--c7088af3",
+        "title": "Merlin Weekly Macro: Trump’s unpredictability upends global norms - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-america-first-leaves-europe-floundering/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-america-first-leaves-europe-floundering/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:07.956Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-america-first-leaves-europe-floundering--d6cd0d79",
+        "title": "Merlin Weekly Macro: ‘America First’ leaves Europe floundering - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-germany-is-back-or-is-it/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-germany-is-back-or-is-it/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:19.892Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-germany-is-back-or-is-it--30a79d34",
+        "title": "Merlin Weekly Macro: ‘Germany is back!’… or is it? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-problems-mount-at-11-downing-street/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-problems-mount-at-11-downing-street/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:20.851Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-problems-mount-at-11-downing-street--4643cd75",
+        "title": "Merlin Weekly Macro: Problems mount at 11 Downing Street - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-tinkering-at-the-edges-of-the-uk-economy/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-tinkering-at-the-edges-of-the-uk-economy/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:24.104Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-tinkering-at-the-edges-of-the-uk-economy--95ad717a",
+        "title": "Merlin Weekly Macro: Tinkering at the edges of the UK economy - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-follows-through-on-tariff-pledge/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-follows-through-on-tariff-pledge/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:24.132Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-follows-through-on-tariff-pledge--33161f73",
+        "title": "Merlin Weekly Macro: Trump follows through on tariff pledge - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/jupiter-merlin-team-react-to-tariffs-and-market-volatility/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/jupiter-merlin-team-react-to-tariffs-and-market-volatility/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:43.303Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_jupiter-merlin-team-react-to-tariffs-and-market-volatility--70b9c852",
+        "title": "Jupiter Merlin team react to tariffs and market volatility - Jupiter Asset Management",
+        "blockCount": 9
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-uk-debt-problem-makes-it-vulnerable/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-uk-debt-problem-makes-it-vulnerable/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:45.041Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-uk-debt-problem-makes-it-vulnerable--8474033d",
+        "title": "Merlin Weekly Macro: The UK’s debt problem makes it vulnerable - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-and-the-new-world-disorder/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-and-the-new-world-disorder/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:47.973Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-and-the-new-world-disorder--6e64f2f5",
+        "title": "Merlin Weekly Macro: Trump and the new world disorder - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-dollar-deliberations/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-dollar-deliberations/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:48.265Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-dollar-deliberations--8d047080",
+        "title": "Merlin Weekly Macro: Dollar deliberations - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-reform-ready-to-govern/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-reform-ready-to-govern/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:07:59.757Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-reform-ready-to-govern--23348491",
+        "title": "Merlin Weekly Macro: Is Reform ready to govern? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-china-russia-and-the-emerging-geopolitical-reality/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-china-russia-and-the-emerging-geopolitical-reality/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:01.134Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-china-russia-and-the-emerging-geopolitical-reality--badf230a",
+        "title": "Merlin Weekly Macro: China, Russia, and the emerging geopolitical reality - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-starmer-eu-reset-good-deal/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-starmer-eu-reset-good-deal/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:03.799Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-starmer-eu-reset-good-deal--068487e4",
+        "title": "Merlin Weekly Macro: Is Starmer’s EU reset a good deal? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-addiction-poses-far-reaching-risks/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-addiction-poses-far-reaching-risks/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:03.754Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-debt-addiction-poses-far-reaching-risks--0344e21a",
+        "title": "Merlin Weekly Macro: Debt addiction poses far-reaching risks - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-defence-spending-conundrum/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-defence-spending-conundrum/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:06.211Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-starmer-defence-spending-conundrum--b204fbd0",
+        "title": "Merlin Weekly Macro: Starmer’s defence spending conundrum - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-fiscal-fantasy-land/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-fiscal-fantasy-land/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:15.554Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-reeves-in-fiscal-fantasy-land--f4d4d852",
+        "title": "Merlin Weekly Macro: Reeves in fiscal fantasy land - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-raging-wars-calm-markets/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-raging-wars-calm-markets/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:19.153Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-raging-wars-calm-markets--4d94f78d",
+        "title": "Merlin Weekly Macro: Raging wars, calm markets - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-tears-uk-fiscal-plan-in-tatters/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-tears-uk-fiscal-plan-in-tatters/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:23.962Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-reeves-in-tears-uk-fiscal-plan-in-tatters--a20b7c30",
+        "title": "Merlin Weekly Macro: Reeves in tears, UK fiscal plan in tatters - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labours-backbenchers-in-the-fiscal-driving-seat/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labours-backbenchers-in-the-fiscal-driving-seat/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:24.402Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-labours-backbenchers-in-the-fiscal-driving-seat--231c90c8",
+        "title": "Merlin Weekly Macro: Labour’s backbenchers in the fiscal driving seat - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-will-trump-deadlines-sour-the-summer-party/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-will-trump-deadlines-sour-the-summer-party/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:24.516Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-will-trump-deadlines-sour-the-summer-party--bbc51216",
+        "title": "Merlin Weekly Macro: Will Trump deadlines sour the summer party? - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-think-like-a-ukrainian/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-think-like-a-ukrainian/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:33.250Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-think-like-a-ukrainian--5ed5de35",
+        "title": "Merlin Weekly Macro: Think like a Ukrainian! - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-winners-and-losers-trump-tariff-game/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-winners-and-losers-trump-tariff-game/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:35.057Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-winners-and-losers-trump-tariff-game--7cf426bd",
+        "title": "Merlin Weekly Macro: The winners and losers of Trump’s tariff game - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-taxonomy-of-the-uk-political-scene/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-taxonomy-of-the-uk-political-scene/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:40.430Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-taxonomy-of-the-uk-political-scene--35f0f15c",
+        "title": "Merlin Weekly Macro: A taxonomy of the UK political scene - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-vj-day-whats-at-stake-ukraine/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-vj-day-whats-at-stake-ukraine/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:41.416Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-vj-day-whats-at-stake-ukraine--5e042da8",
+        "title": "Merlin Weekly Macro: VJ Day and what’s at stake in Ukraine - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-fishing-for-answers-at-jackson-hole/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-fishing-for-answers-at-jackson-hole/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:41.290Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-fishing-for-answers-at-jackson-hole--e75a0423",
+        "title": "Merlin Weekly Macro: Fishing for answers at Jackson Hole - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-fiscal-folly-global-tensions-drive-debt-costs-up/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-fiscal-folly-global-tensions-drive-debt-costs-up/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:49.716Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-fiscal-folly-global-tensions-drive-debt-costs-up--71880283",
+        "title": "Merlin Weekly Macro: Fiscal folly, global tensions drive debt costs up - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-frances-fiscal-woes-expose-eurozone-faultlines/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-frances-fiscal-woes-expose-eurozone-faultlines/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:52.800Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-frances-fiscal-woes-expose-eurozone-faultlines--b7db2ac6",
+        "title": "Merlin Weekly Macro: France’s fiscal woes expose Eurozone faultlines - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-promises-in-tatters/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-promises-in-tatters/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:54.686Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-labour-promises-in-tatters--29bcbedc",
+        "title": "Merlin Weekly Macro: Labour’s promises in tatters - Jupiter Asset Management",
+        "blockCount": 22
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-europe-on-edge-as-putin-escalates-hybrid-warfare/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-europe-on-edge-as-putin-escalates-hybrid-warfare/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:59.557Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-europe-on-edge-as-putin-escalates-hybrid-warfare--39096025",
+        "title": "Merlin Weekly Macro: Europe on edge as Putin escalates hybrid warfare - Jupiter Asset Management",
+        "blockCount": 9
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-an-open-letter-to-sir-keir-starmer/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-an-open-letter-to-sir-keir-starmer/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:08:59.116Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-an-open-letter-to-sir-keir-starmer--6aafe2ea",
+        "title": "Merlin Weekly Macro: An open letter to Sir Keir Starmer - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-cooperate-or-confront-thats-the-question/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-cooperate-or-confront-thats-the-question/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:08.352Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-cooperate-or-confront-thats-the-question--b9eaaf8d",
+        "title": "Merlin Weekly Macro: Cooperate or Confront: that’s the question. - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-markets-sanguine-even-as-geopolitical-risks-rise/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-markets-sanguine-even-as-geopolitical-risks-rise/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:11.407Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-markets-sanguine-even-as-geopolitical-risks-rise--5a245199",
+        "title": "Merlin Weekly Macro: Markets sanguine even as geopolitical risks rise - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-myth-and-reality-of-brexit/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-myth-and-reality-of-brexit/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:12.593Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-myth-and-reality-of-brexit--6368e05c",
+        "title": "Merlin Weekly Macro: The myth and reality of Brexit - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-its-the-economy/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-its-the-economy/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:17.959Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-its-the-economy--9e4d3fd5",
+        "title": "Merlin Weekly Macro: It’s the economy, stupid - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-a-budget-bind/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-reeves-in-a-budget-bind/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:19.960Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-reeves-in-a-budget-bind--6fdb5542",
+        "title": "Merlin Weekly Macro: Reeves in a budget bind - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-urgency-and-energy-needed-on-defence-spending/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-urgency-and-energy-needed-on-defence-spending/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:27.237Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-urgency-and-energy-needed-on-defence-spending--d4f4c58e",
+        "title": "Merlin Weekly Macro: Urgency and energy needed on Defence spending - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-eu-integration-and-euroscepticism/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-eu-integration-and-euroscepticism/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:29.756Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-eu-integration-and-euroscepticism--380d3dd0",
+        "title": "Merlin Weekly Macro: EU integration and Euroscepticism - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-reeves-budget-change-labour-fortunes/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-can-reeves-budget-change-labour-fortunes/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:32.401Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-can-reeves-budget-change-labour-fortunes--18f97ab7",
+        "title": "Merlin Weekly Macro: Can Reeves’s budget change Labour’s fortunes? - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/outlook-2026-trump-backed-into-corner-debt-still-dominates/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/outlook-2026-trump-backed-into-corner-debt-still-dominates/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:32.698Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_outlook-2026-trump-backed-into-corner-debt-still-dominates--66e2ff57",
+        "title": "Outlook 2026: Trump backed into a corner, and debt still dominates - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-welfare-expansion-and-the-uks-politics-of-envy/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-welfare-expansion-and-the-uks-politics-of-envy/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:35.407Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-welfare-expansion-and-the-uks-politics-of-envy--cb7222e5",
+        "title": "Merlin Weekly Macro: Welfare expansion and the UK’s politics of envy - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ukraine-and-the-great-game-of-geopolitical-poker/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ukraine-and-the-great-game-of-geopolitical-poker/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:44.914Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-ukraine-and-the-great-game-of-geopolitical-poker--d1111264",
+        "title": "Merlin Weekly Macro: Ukraine and the great game of geopolitical poker - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-whos-not-afraid-of-donald-trump/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-whos-not-afraid-of-donald-trump/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:47.554Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-whos-not-afraid-of-donald-trump--9140120d",
+        "title": "Merlin Weekly Macro: Who’s not afraid of Donald Trump? - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-trumps-ire-with-europes-democracy-justified/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-is-trumps-ire-with-europes-democracy-justified/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:49.902Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-is-trumps-ire-with-europes-democracy-justified--9d6aa1e7",
+        "title": "Merlin Weekly Macro: Is Trump’s ire with Europe’s democracy justified? - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/introducing-the-jupiter-merlin-team/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/introducing-the-jupiter-merlin-team/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:49.199Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_introducing-the-jupiter-merlin-team--032cdbd6",
+        "title": "Introducing the Jupiter Merlin team - Jupiter Asset Management",
+        "blockCount": 11
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-question-of-energy-security/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-question-of-energy-security/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:09:52.706Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-a-question-of-energy-security--deb7d04d",
+        "title": "Merlin Weekly Macro: A question of energy security - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-political-avalanche-hits-davos/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-political-avalanche-hits-davos/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:02.606Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-political-avalanche-hits-davos--5565df77",
+        "title": "Merlin Weekly Macro: Political avalanche hits Davos - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-2026-has-begun-with-a-bang/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-2026-has-begun-with-a-bang/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:04.712Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-2026-has-begun-with-a-bang--c5143722",
+        "title": "Merlin Weekly Macro: 2026 has begun with a bang - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-prince-of-darkness-casts-pall-of-doom-and-gloom/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-prince-of-darkness-casts-pall-of-doom-and-gloom/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:07.281Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-prince-of-darkness-casts-pall-of-doom-and-gloom--f1bdb125",
+        "title": "Merlin Weekly Macro: “Prince of Darkness” casts pall of doom and gloom - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-high-stakes-energy-security-game/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-high-stakes-energy-security-game/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:06.910Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-high-stakes-energy-security-game--e8b24b3f",
+        "title": "Merlin Weekly Macro: The high-stakes energy security game - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-an-unmitigated-disaster-for-mainstream-parties/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-an-unmitigated-disaster-for-mainstream-parties/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:07.864Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-an-unmitigated-disaster-for-mainstream-parties--2eff084d",
+        "title": "Merlin Weekly Macro: An unmitigated disaster for mainstream parties - Jupiter Asset Management",
+        "blockCount": 12
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/reflections-on-peace-and-perversion/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/reflections-on-peace-and-perversion/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:24.377Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_reflections-on-peace-and-perversion--c8351472",
+        "title": "Reflections on \"Peace and Perversion\" - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-brace-for-a-prolonged-oil-price-shock/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-brace-for-a-prolonged-oil-price-shock/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:25.099Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-brace-for-a-prolonged-oil-price-shock--4ba7e76b",
+        "title": "Merlin Weekly Macro: Brace for a prolonged oil price shock - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-no-end-in-sight-for-the-gulf-war/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-no-end-in-sight-for-the-gulf-war/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:27.807Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-no-end-in-sight-for-the-gulf-war--60544c8c",
+        "title": "Merlin Weekly Macro: No end in sight for the Gulf war - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-of-office-without-power-and-power-without-office/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-of-office-without-power-and-power-without-office/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:29.240Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-of-office-without-power-and-power-without-office--0acda0e8",
+        "title": "Merlin Weekly Macro: Of Office Without Power, and Power Without Office - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trumps-mixed-signals-fuel-volatility/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trumps-mixed-signals-fuel-volatility/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:29.042Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trumps-mixed-signals-fuel-volatility--7dc0a0e5",
+        "title": "Merlin Weekly Macro: Trump’s mixed signals fuel volatility - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-when-smart-finance-leads-to-stupid-outcomes/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-when-smart-finance-leads-to-stupid-outcomes/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:43.696Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-when-smart-finance-leads-to-stupid-outcomes--650b7fdb",
+        "title": "Merlin Weekly Macro: When smart finance leads to stupid outcomes - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-britains-war-readiness-in-question/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-britains-war-readiness-in-question/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:43.858Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-britains-war-readiness-in-question--bd80f881",
+        "title": "Merlin Weekly Macro: Britain’s war readiness in question - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-faces-congressional-challenge-over-iran-war/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-faces-congressional-challenge-over-iran-war/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:46.192Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-faces-congressional-challenge-over-iran-war--05357c69",
+        "title": "Merlin Weekly Macro: Trump faces congressional challenge over Iran war - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-gulf-war-has-let-the-inflation-genie-out/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-gulf-war-has-let-the-inflation-genie-out/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:49.355Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-gulf-war-has-let-the-inflation-genie-out--b5735b15",
+        "title": "Merlin Weekly Macro: The Gulf war has let the inflation genie out - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-paralysed-as-economic-faultlines-widen/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-paralysed-as-economic-faultlines-widen/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:10:49.557Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-labour-paralysed-as-economic-faultlines-widen--8232b586",
+        "title": "Merlin Weekly Macro: Labour paralysed as economic faultlines widen - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-art-of-being-both-in-office-and-in-opposition/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-art-of-being-both-in-office-and-in-opposition/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:01.940Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-art-of-being-both-in-office-and-in-opposition--208845c9",
+        "title": "La! La! La! We're not listening!. - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ai-mega-ipos-and-the-indexation-trap/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ai-mega-ipos-and-the-indexation-trap/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:02.902Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-ai-mega-ipos-and-the-indexation-trap--65c69cff",
+        "title": "Merlin Weekly Macro: AI, mega-IPOs and the indexation trap - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-defence-plan-falls-apart/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-defence-plan-falls-apart/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:03.479Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-starmer-defence-plan-falls-apart--c67a2c11",
+        "title": "Merlin Weekly Macro: Starmer’s defence plan falls apart - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-on-the-brink-trump-iran-gamble/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-starmer-on-the-brink-trump-iran-gamble/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:06.962Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-starmer-on-the-brink-trump-iran-gamble--3cf6e258",
+        "title": "Merlin Weekly Macro: Starmer on the brink, Trump’s Iran gamble - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-delinquency-and-manchesterism/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-debt-delinquency-and-manchesterism/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:11.798Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-debt-delinquency-and-manchesterism--0b12908c",
+        "title": "Merlin Weekly Macro: Debt, delinquency and Manchesterism - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/defence-deceit-2026-defence-investment-plan/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/defence-deceit-2026-defence-investment-plan/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:21.408Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_defence-deceit-2026-defence-investment-plan--c6fceb2c",
+        "title": "“Defence & Deceit”. 2026 Defence Investment Plan - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-just-how-stupid-are-we/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-just-how-stupid-are-we/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:22.774Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-just-how-stupid-are-we--23a6e11a",
+        "title": "Merlin Weekly Macro: “Just how stupid are we?” - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ibm-tells-a-tale-of-our-times/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-ibm-tells-a-tale-of-our-times/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:24.605Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-ibm-tells-a-tale-of-our-times--2fb11e68",
+        "title": "Merlin Weekly Macro: IBM tells a tale of our times - Jupiter Asset Management",
+        "blockCount": 12
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-putin-setbacks-heighten-geopolitical-risk/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-putin-setbacks-heighten-geopolitical-risk/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:28.036Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-putin-setbacks-heighten-geopolitical-risk--907b0e6d",
+        "title": "Merlin Weekly Macro: Trump, Putin setbacks heighten geopolitical risk - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-yen-intervention-conundrum/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-yen-intervention-conundrum/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:32.786Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-yen-intervention-conundrum--f9a9fbd0",
+        "title": "Merlin Weekly Macro: The yen intervention conundrum - Jupiter Asset Management",
+        "blockCount": 11
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-wayward-ways-undermine-america-first/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-wayward-ways-undermine-america-first/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:38.900Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-wayward-ways-undermine-america-first--cacb4df1",
+        "title": "Merlin Weekly Macro: Trump’s wayward ways undermine America First - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/an-open-letter-to-a-new-prime-minister/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/an-open-letter-to-a-new-prime-minister/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:40.080Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_an-open-letter-to-a-new-prime-minister--8d36949f",
+        "title": "An open letter to a new Prime Minister - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-german-elections-have-seismic-ramifications/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-german-elections-have-seismic-ramifications/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:44.208Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-german-elections-have-seismic-ramifications--f1afba7a",
+        "title": "Merlin Weekly Macro: German elections have seismic ramifications - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-fed-lumbers-out-of-the-traps/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-the-fed-lumbers-out-of-the-traps/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:46.255Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-the-fed-lumbers-out-of-the-traps--b541dedf",
+        "title": "Merlin Weekly Macro: The Fed lumbers out of the traps - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-germany-political-polarisation/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-germany-political-polarisation/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:50.161Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-germany-political-polarisation--ccb87a92",
+        "title": "Merlin Weekly Macro: Germany’s political polarisation - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-conference-marks-a-socialist-turn/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-labour-conference-marks-a-socialist-turn/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:55.815Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-labour-conference-marks-a-socialist-turn--b0f21b12",
+        "title": "Merlin Weekly Macro: Labour conference marks a socialist turn - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-france-fiscal-woes-rattle-bond-investors/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-france-fiscal-woes-rattle-bond-investors/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:11:58.704Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-france-fiscal-woes-rattle-bond-investors--0ec8d7b5",
+        "title": "Merlin Weekly Macro: France’s fiscal woes rattle bond investors - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-faces-heat-before-mid-term-elections/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-faces-heat-before-mid-term-elections/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:00.598Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-faces-heat-before-mid-term-elections--34ead148",
+        "title": "Merlin Weekly Macro: Trump faces heat before mid-term elections - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-grappling-with-the-cost-of-living-crisis/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-grappling-with-the-cost-of-living-crisis/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:02.552Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-grappling-with-the-cost-of-living-crisis--9f88e81d",
+        "title": "Merlin Weekly Macro: Grappling with the cost-of-living crisis - Jupiter Asset Management",
+        "blockCount": 11
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-complacent-budget-courts-fiscal-crisis/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-a-complacent-budget-courts-fiscal-crisis/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:05.659Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-a-complacent-budget-courts-fiscal-crisis--330bc9af",
+        "title": "Merlin Weekly Macro: A complacent budget courts fiscal crisis - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-trumped-what-now/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/merlin-weekly-macro-trump-trumped-what-now/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:11.319Z",
+        "slug": "www_jupiteram_com_uk_en_individual_insights_merlin-weekly-macro-trump-trumped-what-now--8ef052fc",
+        "title": "Merlin Weekly Macro: Trump trumped. What now - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/abbie-llewellyn-waters/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/abbie-llewellyn-waters/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:10.559Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_abbie-llewellyn-waters--65fac07a",
+        "title": "Abbie Llewellyn-Waters - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/adam-darling/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/adam-darling/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:12.201Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_adam-darling--2994969d",
+        "title": "Adam Darling - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/adrian-gosden/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/adrian-gosden/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:13.224Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_adrian-gosden--65b769a9",
+        "title": "Adrian Gosden - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/alastair-irvine/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/alastair-irvine/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:18.400Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_alastair-irvine--238075d4",
+        "title": "Alastair Irvine - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/amanda-sillars/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/amanda-sillars/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:26.568Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_amanda-sillars--61afe136",
+        "title": "Amanda Sillars - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/david-lewis/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/david-lewis/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:27.695Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_david-lewis--8c6beb29",
+        "title": "David Lewis - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/george-fox/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/george-fox/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:28.784Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_george-fox--ea25e27f",
+        "title": "George Fox - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/john-chatfeild-roberts/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/john-chatfeild-roberts/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:28.847Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_john-chatfeild-roberts--10f051f4",
+        "title": "John Chatfeild-Roberts - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/venetia-campbell/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/venetia-campbell/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:31.945Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_venetia-campbell--4233b234",
+        "title": "Venetia Campbell - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/james-novotny/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-novotny/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:39.241Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_james-novotny--b677de12",
+        "title": "James Novotny - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/mark-nash/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/mark-nash/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:40.185Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_mark-nash--7e58696d",
+        "title": "Mark Nash - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/orestis-vamvakas/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/orestis-vamvakas/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:40.704Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_orestis-vamvakas--31a3cab1",
+        "title": "Orestis Vamvakas - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/alex-savvides/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/alex-savvides/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:41.691Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_alex-savvides--9e8208c4",
+        "title": "Alex Savvides - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/siddharth-sukumar/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/siddharth-sukumar/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:44.803Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_siddharth-sukumar--b464d928",
+        "title": "Siddharth Sukumar - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/stephanie-geary/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/stephanie-geary/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:51.358Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_stephanie-geary--78a5a6a5",
+        "title": "Stephanie Geary - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/avinash-vazirani/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/avinash-vazirani/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:52.156Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_avinash-vazirani--04640a6c",
+        "title": "Avinash Vazirani - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/colin-croft/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/colin-croft/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:52.251Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_colin-croft--b20cec90",
+        "title": "Colin Croft - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/grisha-milushev/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/grisha-milushev/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:53.188Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_grisha-milushev--e57bfc81",
+        "title": "Grisha Milushev - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/jon-wallace/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jon-wallace/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:12:55.924Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_jon-wallace--6a9bec0a",
+        "title": "Jon Wallace - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/noelle-guo/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/noelle-guo/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:02.728Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_noelle-guo--b13c939b",
+        "title": "Noelle Guo - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/caroline-cantor/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/caroline-cantor/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:03.718Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_caroline-cantor--8a6bf8a3",
+        "title": "Caroline Cantor - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/nikisha-mistry/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/nikisha-mistry/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:03.632Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_nikisha-mistry--2aaba57a",
+        "title": "Nikisha Mistry - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/andrew-rubins/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/andrew-rubins/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:04.142Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_andrew-rubins--54e57868",
+        "title": "Andrew Rubins - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/ariel-bezalel/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ariel-bezalel/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:06.606Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_ariel-bezalel--5f7d3c7f",
+        "title": "Ariel Bezalel - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-lau/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-lau/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:14.209Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_chris-lau--f8615eb3",
+        "title": "Chris Lau - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/harry-richards/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/harry-richards/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:15.210Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_harry-richards--895fef08",
+        "title": "Harry Richards - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/hilary-blandy/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/hilary-blandy/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:15.280Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_hilary-blandy--5f3c2879",
+        "title": "Hilary Blandy - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/huw-davies/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/huw-davies/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:15.710Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_huw-davies--39f2fda6",
+        "title": "Huw Davies - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/lakshay-thakur/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/lakshay-thakur/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:16.959Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_lakshay-thakur--f0bbd897",
+        "title": "Lakshay Thakur - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/leon-wei/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/leon-wei/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:30.025Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_leon-wei--6eac6ad3",
+        "title": "Leon Wei - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/luca-evangelisti/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/luca-evangelisti/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:31.024Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_luca-evangelisti--ac774fcf",
+        "title": "Luca Evangelisti - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/ning-yang/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ning-yang/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:30.882Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_ning-yang--01469018",
+        "title": "Ning Yang - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/paridhi-garg/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/paridhi-garg/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:31.134Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_paridhi-garg--89149f1a",
+        "title": "Paridhi Garg - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/valerio-angioni/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/valerio-angioni/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:31.299Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_valerio-angioni--d23ff4bf",
+        "title": "Valerio Angioni - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/xuchen-zhang/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/xuchen-zhang/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:43.024Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_xuchen-zhang--40d3744b",
+        "title": "Xuchen Zhang - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/dan-carter/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/dan-carter/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:45.861Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_dan-carter--398c5f35",
+        "title": "Dan Carter - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/freddie-woolfe/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/freddie-woolfe/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:46.026Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_freddie-woolfe--1865c57b",
+        "title": "Freddie Woolfe - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/guy-de-blonay/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/guy-de-blonay/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:45.800Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_guy-de-blonay--c0ff4f75",
+        "title": "Guy de Blonay - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/jason-pidcock/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jason-pidcock/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:46.055Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_jason-pidcock--0fba1868",
+        "title": "Jason Pidcock - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/kristian-herrington/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/kristian-herrington/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:56.310Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_kristian-herrington--4250ea9a",
+        "title": "Kristian Herrington - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/mitesh-patel/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/mitesh-patel/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:58.830Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_mitesh-patel--65e4dda7",
+        "title": "Mitesh Patel - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/sam-konrad/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/sam-konrad/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:57.991Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_sam-konrad--e1c95ce5",
+        "title": "Sam Konrad - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/carli-prewett/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/carli-prewett/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:58.854Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_carli-prewett--257cfbf1",
+        "title": "Carli Prewett - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-mahoney/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-mahoney/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:13:58.661Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_chris-mahoney--35032cd8",
+        "title": "Chris Mahoney - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/joe-lunn/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/joe-lunn/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:08.259Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_joe-lunn--3c24a3ab",
+        "title": "Joe Lunn - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/ned-naylor-leyland/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ned-naylor-leyland/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:09.357Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_ned-naylor-leyland--3d788d45",
+        "title": "Ned Naylor-Leyland - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/brad-slingerlend/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/brad-slingerlend/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:10.514Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_brad-slingerlend--754cd9e1",
+        "title": "Brad Slingerlend - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/brinton-johns/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/brinton-johns/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:10.553Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_brinton-johns--9c4e9fef",
+        "title": "Brinton Johns - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/joe-furmanski/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/joe-furmanski/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:10.374Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_joe-furmanski--7d347384",
+        "title": "Joe Furmanski - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/jon-bathgate/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jon-bathgate/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:19.358Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_jon-bathgate--b7c5fdd7",
+        "title": "Jon Bathgate - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/richard-curling/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/richard-curling/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:20.744Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_richard-curling--3a6343c8",
+        "title": "Richard Curling - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/amadeo-alentorn/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/amadeo-alentorn/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:21.353Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_amadeo-alentorn--cf6202df",
+        "title": "Amadeo Alentorn - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/james-murray/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-murray/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:22.032Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_james-murray--08f34042",
+        "title": "James Murray - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/matus-mrazik/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/matus-mrazik/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:22.016Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_matus-mrazik--c31d4665",
+        "title": "Matus Mrazik - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/sean-storey/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/sean-storey/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:33.565Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_sean-storey--3a035603",
+        "title": "Sean Storey - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/tarun-inani/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/tarun-inani/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:35.738Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_tarun-inani--4d6b4296",
+        "title": "Tarun Inani - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/yuangao-liu/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/yuangao-liu/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:35.442Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_yuangao-liu--8ca80d69",
+        "title": "Yuangao Liu - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/ed-meier/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ed-meier/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:36.216Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_ed-meier--9c14122c",
+        "title": "Ed Meier - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/errol-francis/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/errol-francis/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:35.938Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_errol-francis--7b0625ed",
+        "title": "Errol Francis - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-morrison/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-morrison/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:47.233Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_chris-morrison--6d38c69f",
+        "title": "Chris Morrison - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-smith/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-smith/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:48.455Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_chris-smith--2dc7b891",
+        "title": "Chris Smith - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/james-moir/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-moir/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:48.901Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_james-moir--f27ac4c6",
+        "title": "James Moir - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/claudia-ho/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/claudia-ho/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:49.029Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_claudia-ho--5c858a64",
+        "title": "Claudia Ho - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/james-gilbert/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/james-gilbert/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:14:49.205Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_james-gilbert--6beed1cf",
+        "title": "James Gilbert - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/matt-cable/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/matt-cable/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:00.100Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_matt-cable--783cd981",
+        "title": "Matt Cable - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/tim-service/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/tim-service/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:00.306Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_tim-service--947b6abc",
+        "title": "Tim Service - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/brian-mccormick/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/brian-mccormick/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:01.475Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_brian-mccormick--b48ff9e5",
+        "title": "Brian McCormick - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-dynamic-equity/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-dynamic-equity/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:01.628Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_uk-dynamic-equity--35e01882",
+        "title": "UK Dynamic Equity - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/emerging-market-equities/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/emerging-market-equities/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:01.455Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_emerging-market-equities--d7ba2363",
+        "title": "Emerging Market Equities - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/european-growth/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/european-growth/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:12.486Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_european-growth--073cc43d",
+        "title": "European Growth - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/global/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/global/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:13.512Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_global--7fde36ab",
+        "title": "Global - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/specialist/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/specialist/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:13.937Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_specialist--501713dc",
+        "title": "Specialist - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/systematic-equities/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/systematic-equities/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:13.873Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_systematic-equities--3872782f",
+        "title": "Systematic Equities - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-equity-income/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-equity-income/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:13.807Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_uk-equity-income--2e506384",
+        "title": "UK Equity Income - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-growth/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-growth/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:24.818Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_uk-growth--c3e18338",
+        "title": "UK Growth - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-small-and-mid-cap/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-small-and-mid-cap/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:26.279Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_uk-small-and-mid-cap--f40acc6d",
+        "title": "UK Small and Mid Cap - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/value/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/value/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:26.301Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_value--5a53a3bc",
+        "title": "Value - Jupiter Asset Management",
+        "blockCount": 5
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/fixed-income/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/fixed-income/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:28.615Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_fixed-income--6713fd01",
+        "title": "Fixed Income - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/funds-of-funds/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/funds-of-funds/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:49.847Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_funds-of-funds--ce8f18a9",
+        "title": "Funds of Funds - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/environmental-solutions/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/environmental-solutions/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:39.103Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_environmental-solutions--789106fb",
+        "title": "Environmental Solutions - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/global-leaders/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/global-leaders/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:41.855Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_global-leaders--0978f419",
+        "title": "Global Sustainable - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/zara-azad/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/zara-azad/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:41.783Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_zara-azad--0cd32b3c",
+        "title": "Zara Azad - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-carter/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/chris-carter/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:42.565Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_chris-carter--d6581b5c",
+        "title": "Chris Carter - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/tarlock-randhawa/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/tarlock-randhawa/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:51.885Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_tarlock-randhawa--7b643f97",
+        "title": "Tarlock Randhawa - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/nerys-weir/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/nerys-weir/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:55.163Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_nerys-weir--b0004249",
+        "title": "Nerys Weir - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/ben-marsh/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ben-marsh/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:54.954Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_ben-marsh--66698a1b",
+        "title": "Ben Marsh - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/ruairi-devery-kavanagh/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/ruairi-devery-kavanagh/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:15:55.355Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_ruairi-devery-kavanagh--b544008a",
+        "title": "Ruairi Devery-Kavanagh - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/jupiter-origin/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jupiter-origin/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:01.455Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_jupiter-origin--c20d6fe5",
+        "title": "Jupiter Origin - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/christopher-legg/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/christopher-legg/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:03.186Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_christopher-legg--bbc0f3c7",
+        "title": "Chris Legg - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/christopher-sellers/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/christopher-sellers/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:05.142Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_christopher-sellers--36583dcc",
+        "title": "Christopher Sellers - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/investment-teams/niall-gallagher/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/niall-gallagher/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:06.607Z",
+        "slug": "www_jupiteram_com_uk_en_individual_investment-teams_niall-gallagher--74d81a81",
+        "title": "Niall Gallagher - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-wins-four-accolades-at-fund-manager-of-the-year-awards-2024/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-wins-four-accolades-at-fund-manager-of-the-year-awards-2024/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:07.743Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-wins-four-accolades-at-fund-manager-of-the-year-awards-2024--cd5cb832",
+        "title": "Jupiter wins four accolades at Fund Manager of the Year Awards 2024 - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-uk-multi-cap-income-fund-launches/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-uk-multi-cap-income-fund-launches/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:13.301Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-uk-multi-cap-income-fund-launches--0230a257",
+        "title": "Jupiter UK Multi Cap Income Fund launches - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/emerging-market-debt-update/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/emerging-market-debt-update/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:15.104Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_emerging-market-debt-update--682ee27d",
+        "title": "Emerging Market Debt Update - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-ecology-fund-plans-to-adopt-fca-sustainability-focus-label/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-ecology-fund-plans-to-adopt-fca-sustainability-focus-label/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:16.202Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-ecology-fund-plans-to-adopt-fca-sustainability-focus-label--cca82baa",
+        "title": "Jupiter Ecology Fund plans to adopt FCA’s Sustainability Focus label - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-builds-scale-emerging-markets-acquisition-team-institutional-assets-origin-asset-management/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-builds-scale-emerging-markets-acquisition-team-institutional-assets-origin-asset-management/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:18.699Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-builds-scale-emerging-markets-acquisition-team-institutional-assets-origin-asset-management--84c76149",
+        "title": "Jupiter Asset Management builds scale in emerging markets with acquisition of team and institutional assets of Origin Asset Management - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-australias-institutional-distribution-partners/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-australias-institutional-distribution-partners/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:19.253Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-distribution-partnership-with-australias-institutional-distribution-partners--8d45a201",
+        "title": "Jupiter announces distribution partnership with Australia’s Institutional Distribution Partners - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-confirms-investment-managers-of-the-jupiter-global-value-equity-unit-trust/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-confirms-investment-managers-of-the-jupiter-global-value-equity-unit-trust/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:25.555Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-confirms-investment-managers-of-the-jupiter-global-value-equity-unit-trust--f99459bd",
+        "title": "Jupiter Asset Management confirms investment managers of the Jupiter Global Value Equity Unit Trust - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-hires-highly-successful-european-equity-team-from-gam-investments/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-hires-highly-successful-european-equity-team-from-gam-investments/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:27.254Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-hires-highly-successful-european-equity-team-from-gam-investments--77b73694",
+        "title": "Jupiter Asset Management hires highly successful European equity team from GAM Investments - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-announces-hire-selina-tyler-head-of-uk/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-announces-hire-selina-tyler-head-of-uk/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:27.835Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-announces-hire-selina-tyler-head-of-uk--876b2c91",
+        "title": "Jupiter Asset Management announces hire of Selina Tyler as Head of UK - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-dutch-specialist-oceanside/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-dutch-specialist-oceanside/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:31.202Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-distribution-partnership-with-dutch-specialist-oceanside--897363a9",
+        "title": "Jupiter announces distribution partnership with Dutch specialist Oceanside - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/origin-asset-management-investment-team-and-assets-join-jupiter-on-completion-of-acquisition/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/origin-asset-management-investment-team-and-assets-join-jupiter-on-completion-of-acquisition/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:32.087Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_origin-asset-management-investment-team-and-assets-join-jupiter-on-completion-of-acquisition--0eaf6502",
+        "title": "Origin Asset Management investment team and assets join Jupiter on completion of acquisition - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-launches-systematic-thematic-fund-range/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-launches-systematic-thematic-fund-range/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:39.946Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-launches-systematic-thematic-fund-range--31412fa4",
+        "title": "Jupiter Asset Management launches Systematic Thematic Fund Range - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/richard-buxton-announces-retirement/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/richard-buxton-announces-retirement/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:41.418Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_richard-buxton-announces-retirement--73395e50",
+        "title": "Richard Buxton announces retirement - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/chief-executive-officer-succession-planning/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/chief-executive-officer-succession-planning/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:42.834Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_chief-executive-officer-succession-planning--b3556abd",
+        "title": "Chief Executive Officer Succession Planning - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-launches-global-ecology-bond-fund/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-launches-global-ecology-bond-fund/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:45.431Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-launches-global-ecology-bond-fund--88c330a9",
+        "title": "Jupiter launches Global Ecology Bond fund - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-its-first-active-etf-for-global-government-bonds/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-its-first-active-etf-for-global-government-bonds/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:46.056Z",
+        "slug": "www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-its-first-active-etf-for-global-government-bonds--8a0bdf45",
+        "title": "Jupiter announces its first active ETF for global government bonds - Jupiter Asset Management",
+        "blockCount": 7
+      },
+      "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-invest/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-invest/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:54.798Z",
+        "slug": "www_jupiteram_com_uk_en_individual_resources-and-help_how-to-invest--49dfff13",
+        "title": "How to invest - Jupiter Asset Management",
+        "blockCount": 5
+      },
+      "https://www.jupiteram.com/uk/en/individual/resources-and-help/value-assessment/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/value-assessment/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:56.862Z",
+        "slug": "www_jupiteram_com_uk_en_individual_resources-and-help_value-assessment--2f0e7caf",
+        "title": "Value Assessment - Jupiter Asset Management",
+        "blockCount": 12
+      },
+      "https://www.jupiteram.com/uk/en/individual/resources-and-help/consumer-duty/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/consumer-duty/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:56.905Z",
+        "slug": "www_jupiteram_com_uk_en_individual_resources-and-help_consumer-duty--ec7a506c",
+        "title": "Consumer Duty - Jupiter Asset Management",
+        "blockCount": 16
+      },
+      "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-sell/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-sell/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:58.107Z",
+        "slug": "www_jupiteram_com_uk_en_individual_resources-and-help_how-to-sell--504bb344",
+        "title": "How to sell - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-switch--transfer--convert/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/how-to-switch--transfer--convert/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:16:59.335Z",
+        "slug": "www_jupiteram_com_uk_en_individual_resources-and-help_how-to-switch--transfer--convert--dc8f7d59",
+        "title": "How to switch, transfer, convert - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/resources-and-help/bereavement-and-power-of-attorney/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/bereavement-and-power-of-attorney/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:07.590Z",
+        "slug": "www_jupiteram_com_uk_en_individual_resources-and-help_bereavement-and-power-of-attorney--c9b07cf7",
+        "title": "Bereavement and Power of Attorney - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/resources-and-help/frequently-asked-questions/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/frequently-asked-questions/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:11.173Z",
+        "slug": "www_jupiteram_com_uk_en_individual_resources-and-help_frequently-asked-questions--d87f3b14",
+        "title": "Frequently Asked Questions - Jupiter Asset Management",
+        "blockCount": 18
+      },
+      "https://www.jupiteram.com/uk/en/individual/resources-and-help/historical-assessment-of-value-reports/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/historical-assessment-of-value-reports/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:10.159Z",
+        "slug": "www_jupiteram_com_uk_en_individual_resources-and-help_historical-assessment-of-value-reports--9d20d0a9",
+        "title": "Historical assessment of value reports - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/resources-and-help/anti-money-laundering-requirements/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/anti-money-laundering-requirements/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:10.307Z",
+        "slug": "www_jupiteram_com_uk_en_individual_resources-and-help_anti-money-laundering-requirements--0ad1d121",
+        "title": "Anti-money laundering requirements - Jupiter Asset Management",
+        "blockCount": 4
+      },
+      "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/corporate-sustainability/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/corporate-sustainability/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:13.559Z",
+        "slug": "www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_corporate-sustainability--7fb61c16",
+        "title": "Corporate Sustainability - Jupiter Asset Management",
+        "blockCount": 14
+      },
+      "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/investment-and-stewardship/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/investment-and-stewardship/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:22.114Z",
+        "slug": "www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_investment-and-stewardship--44297ea8",
+        "title": "Investment and Stewardship - Jupiter Asset Management",
+        "blockCount": 8
+      },
+      "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/task-force-on-climate-related-financial-disclosures/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/task-force-on-climate-related-financial-disclosures/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:24.058Z",
+        "slug": "www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_task-force-on-climate-related-financial-disclosures--b75b71b7",
+        "title": "Task Force on Climate-Related Financial Disclosures - Jupiter Asset Management",
+        "blockCount": 19
+      },
+      "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainable-finance-disclosure-regulation/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainable-finance-disclosure-regulation/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:25.103Z",
+        "slug": "www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_sustainable-finance-disclosure-regulation--92cc7ebb",
+        "title": "Sustainable Finance Disclosure Regulation - Jupiter Asset Management",
+        "blockCount": 6
+      },
+      "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainability-disclosure-requirements/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainability-disclosure-requirements/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:23.960Z",
+        "slug": "www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_sustainability-disclosure-requirements--30203a0e",
+        "title": "Sustainability Disclosure Requirements (SDR) - Jupiter Asset Management",
+        "blockCount": 11
+      },
+      "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/reports/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/reports/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:25.716Z",
+        "slug": "www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_reports--8176b5fa",
+        "title": "Resources & Reports - Jupiter Asset Management",
+        "blockCount": 10
+      },
+      "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/biodiversity/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/biodiversity/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:39.125Z",
+        "slug": "www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_biodiversity--e2bea9eb",
+        "title": "Biodiversity loss – understanding the impact for investors - Jupiter Asset Management",
+        "blockCount": 21
+      },
+      "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/jupiter-approach-and-finance-for-biodiversity-pledge/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/jupiter-approach-and-finance-for-biodiversity-pledge/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:40.705Z",
+        "slug": "www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_jupiter-approach-and-finance-for-biodiversity-pledge--6f155a07",
+        "title": "Jupiter’s Approach and the Finance for Biodiversity Pledge - Jupiter Asset Management",
+        "blockCount": 19
+      },
+      "https://www.jupiteram.com/uk/en/individual/about-jupiter/our-principles/": {
+        "url": "https://www.jupiteram.com/uk/en/individual/about-jupiter/our-principles/",
+        "status": "analyzed",
+        "analyzedAt": "2026-11-12T15:17:39.017Z",
+        "slug": "www_jupiteram_com_uk_en_individual_about-jupiter_our-principles--0b261a33",
+        "title": "Our principles - Jupiter Asset Management",
+        "blockCount": 8
+      }
+    }
+  }
+}

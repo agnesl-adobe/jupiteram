@@ -1,0 +1,738 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.jupiteram.com/uk/en/individual/search/",
+  "title": "Search - Jupiter Asset Management",
+  "timestamp": "2026-11-12T15:03:30.772Z",
+  "duration": "14.2s",
+  "cleanup": {
+    "elementsRemoved": 5,
+    "types": [
+      "overlay",
+      "cookie-banner",
+      "popup"
+    ],
+    "cookieConsentDismissed": true,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#onetrust-banner-sdk",
+        "type": "overlay"
+      },
+      {
+        "selector": "#onetrust-style",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "#onetrust-consent-sdk",
+        "type": "cookie-banner",
+        "rule": "[id*=\"onetrust\"]"
+      },
+      {
+        "selector": "div.cce-backdropoverlay",
+        "type": "popup",
+        "rule": "body [class*=\"overlay\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/Header_logo_125x45px.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/content/dam/jupiteram/logos/footer-logo-v2.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/close-popup.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/select-dropdown.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_UK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Austria.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Belguim.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Brunei.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_China.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Denmark.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Finland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_France.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Germany.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_HK.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Iceland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_ireland.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Italy.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Japan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Korea.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lichenstein.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Lux.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Malyasia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Netherlands.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Norway.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Pillapenes.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Portugal.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Singapore.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Spain.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Sweden.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Swiss.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Taiwan.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_US.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/US_Latam.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Thai.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/flags/flag_Australia.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-dropdown-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/header-glob-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/search-icon.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-left-disabled.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-left.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/drop-down.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/globe.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/circle-arrow-right.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/linkedin.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.jupiteram.com/etc.clientlibs/jupiteram/clientlibs/clientlib-site/resources/images/external-icon.svg",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s(sB,s(s,3x1,s(s,s(,,,,,,,,,)),3x1)))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+      "rc2c2c1": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.search.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-search > div.cmp-search-input",
+      "rc2c2c2": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.search.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-search > div.cmp-search-tab-container",
+      "rc2c2c3": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.search.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-search > div.cmp-search-result-container",
+      "rc2c2c3c1": "#searchWebpage-view > div.search-header",
+      "rc2c2c3c2": "#searchWebpage-view > div.webpage-search-result-container",
+      "rc2c2c3c2c1": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(1)",
+      "rc2c2c3c2c1c1": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(1) > h4",
+      "rc2c2c3c2c1c2": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(1) > div.search-description",
+      "rc2c2c3c2c2": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(2)",
+      "rc2c2c3c2c2c1": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(2) > h4",
+      "rc2c2c3c2c2c2": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(2) > div.search-description",
+      "rc2c2c3c2c3": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(3)",
+      "rc2c2c3c2c3c1": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(3) > h4",
+      "rc2c2c3c2c3c2": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(3) > div.search-description",
+      "rc2c2c3c2c4": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(4)",
+      "rc2c2c3c2c4c1": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(4) > h4",
+      "rc2c2c3c2c4c2": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(4) > div.search-description",
+      "rc2c2c3c2c5": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(5)",
+      "rc2c2c3c2c5c1": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(5) > h4",
+      "rc2c2c3c2c5c2": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(5) > div.search-description",
+      "rc2c2c3c2c6": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(6)",
+      "rc2c2c3c2c6c1": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(6) > h4",
+      "rc2c2c3c2c6c2": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(6) > div.search-description",
+      "rc2c2c3c2c7": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(7)",
+      "rc2c2c3c2c8": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(8)",
+      "rc2c2c3c2c8c1": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(8) > h4",
+      "rc2c2c3c2c8c2": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(8) > div.search-description",
+      "rc2c2c3c2c9": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(9)",
+      "rc2c2c3c2c9c1": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(9) > h4",
+      "rc2c2c3c2c9c2": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(9) > div.search-description",
+      "rc2c2c3c2c10": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(10)",
+      "rc2c2c3c2c10c1": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(10) > h4",
+      "rc2c2c3c2c10c2": "#searchWebpage-view > div.webpage-search-result-container > a.webpage-search-result:nth-of-type(10) > div.search-description",
+      "rc2c2c4": "#pagination-container"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > header.experiencefragment.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content",
+        "background": "#002755",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-hero"
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.container.responsivegrid > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.container.responsivegrid.cmp-container--narrow.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.container.responsivegrid.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 0,
+      "height": 2684
+    },
+    "splits": [],
+    "start": {
+      "kind": "heading",
+      "look": {
+        "font": "Poppins, Helvetica, Arial, sans-serif",
+        "color": "rgb(255, 255, 255)",
+        "align": "start"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "192b28f80778",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-e21af23548 > div > div.hero.teaser.cmp-hero--kaleBright.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 382
+      },
+      "visualChars": {
+        "colorScheme": "dark",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "hero",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tw",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/192b28f80778.html"
+    },
+    {
+      "id": "ae85ba8a84e8",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#container-f18c72786c > div > div > div > div.cmp-search-input",
+      "bounds": {
+        "x": 245,
+        "y": 482,
+        "width": 950,
+        "height": 62
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": "field"
+      },
+      "description": "cmp-search-input",
+      "features": {
+        "skeleton": "input",
+        "variant": "input~@",
+        "variantClean": "input~@"
+      },
+      "screenshot": "blocks/ae85ba8a84e8.jpg",
+      "html": "blocks/ae85ba8a84e8.html",
+      "variantId": "v_7a5844b8e3f7"
+    },
+    {
+      "id": "40fad5cdc0ed",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-f18c72786c > div > div > div > div.cmp-search-tab-container",
+      "bounds": {
+        "x": 245,
+        "y": 544,
+        "width": 950,
+        "height": 260
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading"
+      },
+      "description": "cmp-search-tab-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tb]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/40fad5cdc0ed.jpg",
+      "html": "blocks/40fad5cdc0ed.html",
+      "variantId": "v_21b93a5df19d"
+    },
+    {
+      "id": "e09e59170d44",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#searchWebpage-view > div.search-header",
+      "bounds": {
+        "x": 245,
+        "y": 804,
+        "width": 950,
+        "height": 68
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": ""
+      },
+      "description": "search-header",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/e09e59170d44.html"
+    },
+    {
+      "id": "5dabcb871b22",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#searchWebpage-view > div.webpage-search-result-container > a:nth-child(1)",
+      "bounds": {
+        "x": 245,
+        "y": 872,
+        "width": 950,
+        "height": 143
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link + heading"
+      },
+      "description": "webpage-search-result",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/5dabcb871b22.jpg",
+      "html": "blocks/5dabcb871b22.html",
+      "variantId": "v_844c547ab6a2"
+    },
+    {
+      "id": "8ec38dbb919f",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#searchWebpage-view > div.webpage-search-result-container > a:nth-child(2)",
+      "bounds": {
+        "x": 245,
+        "y": 1047,
+        "width": 950,
+        "height": 143
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link + heading"
+      },
+      "description": "webpage-search-result",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/8ec38dbb919f.jpg",
+      "html": "blocks/8ec38dbb919f.html",
+      "variantId": "v_844c547ab6a2"
+    },
+    {
+      "id": "ecdf48356d5e",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#searchWebpage-view > div.webpage-search-result-container > a:nth-child(3)",
+      "bounds": {
+        "x": 245,
+        "y": 1222,
+        "width": 950,
+        "height": 143
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link + heading"
+      },
+      "description": "webpage-search-result",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/ecdf48356d5e.jpg",
+      "html": "blocks/ecdf48356d5e.html",
+      "variantId": "v_844c547ab6a2"
+    },
+    {
+      "id": "eeaba44a52d4",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#searchWebpage-view > div.webpage-search-result-container > a:nth-child(4)",
+      "bounds": {
+        "x": 245,
+        "y": 1397,
+        "width": 950,
+        "height": 143
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link + heading"
+      },
+      "description": "webpage-search-result",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/eeaba44a52d4.jpg",
+      "html": "blocks/eeaba44a52d4.html",
+      "variantId": "v_844c547ab6a2"
+    },
+    {
+      "id": "6d7ecd844512",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#searchWebpage-view > div.webpage-search-result-container > a:nth-child(5)",
+      "bounds": {
+        "x": 245,
+        "y": 1572,
+        "width": 950,
+        "height": 143
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link + heading"
+      },
+      "description": "webpage-search-result",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/6d7ecd844512.jpg",
+      "html": "blocks/6d7ecd844512.html",
+      "variantId": "v_844c547ab6a2"
+    },
+    {
+      "id": "c797111c999c",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#searchWebpage-view > div.webpage-search-result-container > a:nth-child(6)",
+      "bounds": {
+        "x": 245,
+        "y": 1747,
+        "width": 950,
+        "height": 143
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link + heading"
+      },
+      "description": "webpage-search-result",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/c797111c999c.jpg",
+      "html": "blocks/c797111c999c.html",
+      "variantId": "v_844c547ab6a2"
+    },
+    {
+      "id": "fe7e00a375aa",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#searchWebpage-view > div.webpage-search-result-container > a:nth-child(7)",
+      "bounds": {
+        "x": 245,
+        "y": 1922,
+        "width": 950,
+        "height": 63
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link + heading"
+      },
+      "description": "webpage-search-result",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/fe7e00a375aa.html"
+    },
+    {
+      "id": "d52598e925d6",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#searchWebpage-view > div.webpage-search-result-container > a:nth-child(8)",
+      "bounds": {
+        "x": 245,
+        "y": 2017,
+        "width": 950,
+        "height": 143
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link + heading"
+      },
+      "description": "webpage-search-result",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/d52598e925d6.jpg",
+      "html": "blocks/d52598e925d6.html",
+      "variantId": "v_844c547ab6a2"
+    },
+    {
+      "id": "68cdc7bb0276",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#searchWebpage-view > div.webpage-search-result-container > a:nth-child(9)",
+      "bounds": {
+        "x": 245,
+        "y": 2192,
+        "width": 950,
+        "height": 143
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link + heading"
+      },
+      "description": "webpage-search-result",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/68cdc7bb0276.jpg",
+      "html": "blocks/68cdc7bb0276.html",
+      "variantId": "v_844c547ab6a2"
+    },
+    {
+      "id": "dc5c6ddc9c01",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#searchWebpage-view > div.webpage-search-result-container > a:nth-child(10)",
+      "bounds": {
+        "x": 245,
+        "y": 2367,
+        "width": 950,
+        "height": 143
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link + heading"
+      },
+      "description": "webpage-search-result",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/dc5c6ddc9c01.jpg",
+      "html": "blocks/dc5c6ddc9c01.html",
+      "variantId": "v_844c547ab6a2"
+    },
+    {
+      "id": "b22edfdc4a26",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#pagination-container",
+      "bounds": {
+        "x": 245,
+        "y": 2510,
+        "width": 950,
+        "height": 74
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "cmp-pagination-container",
+      "features": {
+        "skeleton": "[~@|[~(T)|T]|~@]",
+        "variant": "[~@|[~b(Tw)|Tb]|~@]",
+        "variantClean": "[~@|[~b(Tw)|Tk]|~@]"
+      },
+      "screenshot": "blocks/b22edfdc4a26.jpg",
+      "html": "blocks/b22edfdc4a26.html",
+      "variantId": "v_45d2f236091b"
+    }
+  ]
+}

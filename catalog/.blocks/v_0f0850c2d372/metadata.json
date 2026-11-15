@@ -1,0 +1,232 @@
+{
+  "id": "v_0f0850c2d372",
+  "type": "columns",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/in-the-spotlight/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "image + heading + text + link"
+  },
+  "layoutKey": "[T]",
+  "colour": "[Tk]",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/in-the-spotlight/",
+        "instanceId": "8f58d283999e",
+        "instanceIds": [
+          "8f58d283999e"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_in-the-spotlight--b90da623/blocks/8f58d283999e.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/emerging-market-equities/",
+        "instanceId": "45c4ccd2e982",
+        "instanceIds": [
+          "45c4ccd2e982"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_emerging-market-equities--d7ba2363/blocks/45c4ccd2e982.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/environmental-solutions/",
+        "instanceId": "d3b76c368959",
+        "instanceIds": [
+          "d3b76c368959"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_environmental-solutions--789106fb/blocks/d3b76c368959.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/european-growth/",
+        "instanceId": "98ffc7e173cd",
+        "instanceIds": [
+          "98ffc7e173cd"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_european-growth--073cc43d/blocks/98ffc7e173cd.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/fixed-income/",
+        "instanceId": "7bfdd9fc8119",
+        "instanceIds": [
+          "7bfdd9fc8119"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_fixed-income--6713fd01/blocks/7bfdd9fc8119.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/funds-of-funds/",
+        "instanceId": "0f363f01f4c2",
+        "instanceIds": [
+          "0f363f01f4c2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_funds-of-funds--ce8f18a9/blocks/0f363f01f4c2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/global-leaders/",
+        "instanceId": "34aea7663717",
+        "instanceIds": [
+          "34aea7663717"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_global-leaders--0978f419/blocks/34aea7663717.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/global/",
+        "instanceId": "e017a6bd8d01",
+        "instanceIds": [
+          "e017a6bd8d01"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_global--7fde36ab/blocks/e017a6bd8d01.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/jupiter-origin/",
+        "instanceId": "1aedd2e1df00",
+        "instanceIds": [
+          "1aedd2e1df00"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_jupiter-origin--c20d6fe5/blocks/1aedd2e1df00.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/specialist/",
+        "instanceId": "02a326a2d0d6",
+        "instanceIds": [
+          "02a326a2d0d6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_specialist--501713dc/blocks/02a326a2d0d6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/systematic-equities/",
+        "instanceId": "6b911c5a5207",
+        "instanceIds": [
+          "6b911c5a5207"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_systematic-equities--3872782f/blocks/6b911c5a5207.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-dynamic-equity/",
+        "instanceId": "f4f0cea6976d",
+        "instanceIds": [
+          "f4f0cea6976d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_uk-dynamic-equity--35e01882/blocks/f4f0cea6976d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-equity-income/",
+        "instanceId": "b8df0c9504f2",
+        "instanceIds": [
+          "b8df0c9504f2"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_uk-equity-income--2e506384/blocks/b8df0c9504f2.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-growth/",
+        "instanceId": "4025a26308f6",
+        "instanceIds": [
+          "4025a26308f6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_uk-growth--c3e18338/blocks/4025a26308f6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-teams/uk-small-and-mid-cap/",
+        "instanceId": "8e3b41dfa7b1",
+        "instanceIds": [
+          "8e3b41dfa7b1"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-teams_uk-small-and-mid-cap--f40acc6d/blocks/8e3b41dfa7b1.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-european-equities/",
+        "instanceId": "58ed399a8005",
+        "instanceIds": [
+          "58ed399a8005",
+          "956e06065c28"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-european-equities--24af9070/blocks/58ed399a8005.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-government-bond-active-ucits-etf/",
+        "instanceId": "956e06065c28",
+        "instanceIds": [
+          "956e06065c28"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-global-government-bond-active-ucits-etf--a67e656b/blocks/956e06065c28.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-leaders-fund/",
+        "instanceId": "92a4a4c45f60",
+        "instanceIds": [
+          "92a4a4c45f60"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-global-leaders-fund--5b8a5870/blocks/92a4a4c45f60.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-origin-global-smaller-companies-active-ucits-etf/",
+        "instanceId": "956e06065c28",
+        "instanceIds": [
+          "956e06065c28"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-origin-global-smaller-companies-active-ucits-etf--c22a9ae4/blocks/956e06065c28.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-strategic-absolute-return-bond-fund/",
+        "instanceId": "956e06065c28",
+        "instanceIds": [
+          "956e06065c28",
+          "3c97507849ab"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-strategic-absolute-return-bond-fund--20b184ed/blocks/956e06065c28.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-dynamic-equity-fund/",
+        "instanceId": "956e06065c28",
+        "instanceIds": [
+          "956e06065c28"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-uk-dynamic-equity-fund--8e51e66e/blocks/956e06065c28.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-multi-cap-income-fund/",
+        "instanceId": "8a6a213cda8a",
+        "instanceIds": [
+          "8a6a213cda8a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-uk-multi-cap-income-fund--9eaf27d2/blocks/8a6a213cda8a.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/corporate-sustainability/",
+        "instanceId": "e64141f367f4",
+        "instanceIds": [
+          "e64141f367f4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_corporate-sustainability--7fb61c16/blocks/e64141f367f4.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/investment-and-stewardship/",
+        "instanceId": "52170f85f5eb",
+        "instanceIds": [
+          "52170f85f5eb"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_investment-and-stewardship--44297ea8/blocks/52170f85f5eb.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/uk-equities/",
+        "instanceId": "3a466c0e2e80",
+        "instanceIds": [
+          "3a466c0e2e80"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_uk-equities--fa04f43e/blocks/3a466c0e2e80.jpg"
+      }
+    ],
+    "reuseCount": 25
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "helper says it is a three-column grid of team members, which reads like cards-people rather than a profile intro",
+    "mergedInto": null
+  }
+}

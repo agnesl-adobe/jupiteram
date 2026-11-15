@@ -1,0 +1,347 @@
+{
+  "id": "v_7517a669c4d4",
+  "type": "cards",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "heading + text + link"
+  },
+  "layoutKey": "[~(T)]",
+  "colour": "[~w(Tk)]",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/",
+        "instanceId": "e9c8ac37d740",
+        "instanceIds": [
+          "e9c8ac37d740"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual--17bd0a2e/blocks/e9c8ac37d740.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/contact/",
+        "instanceId": "9fabb29b0a00",
+        "instanceIds": [
+          "9fabb29b0a00"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_contact--6010a885/blocks/9fabb29b0a00.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/income-solutions/",
+        "instanceId": "9f4ce7f95b15",
+        "instanceIds": [
+          "9f4ce7f95b15"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_income-solutions--5794d808/blocks/9f4ce7f95b15.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/insights/an-investors-view-on-uk-defence-policy-and-geopolitics/",
+        "instanceId": "ade36cefbfec",
+        "instanceIds": [
+          "ade36cefbfec"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_insights_an-investors-view-on-uk-defence-policy-and-geopolitics--c6c74faf/blocks/ade36cefbfec.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/investment-trusts/",
+        "instanceId": "2ba1ebc14874",
+        "instanceIds": [
+          "2ba1ebc14874"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_investment-trusts--0b517fc1/blocks/2ba1ebc14874.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-government-bond-active-ucits-etf/",
+        "instanceId": "691f01c53132",
+        "instanceIds": [
+          "691f01c53132",
+          "15f231503e41",
+          "bbb303c9f64b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-global-government-bond-active-ucits-etf--a67e656b/blocks/691f01c53132.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-leaders-fund/",
+        "instanceId": "544e73d72c8b",
+        "instanceIds": [
+          "544e73d72c8b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-global-leaders-fund--5b8a5870/blocks/544e73d72c8b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-merlin-portfolios/",
+        "instanceId": "395ddbbb51a6",
+        "instanceIds": [
+          "395ddbbb51a6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-merlin-portfolios--0365eece/blocks/395ddbbb51a6.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-origin-global-smaller-companies-active-ucits-etf/",
+        "instanceId": "03366d82b93c",
+        "instanceIds": [
+          "03366d82b93c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-origin-global-smaller-companies-active-ucits-etf--c22a9ae4/blocks/03366d82b93c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-strategic-absolute-return-bond-fund/",
+        "instanceId": "9833111f02c7",
+        "instanceIds": [
+          "9833111f02c7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-strategic-absolute-return-bond-fund--20b184ed/blocks/9833111f02c7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-multi-cap-income-fund/",
+        "instanceId": "eb9ebfb5184d",
+        "instanceIds": [
+          "eb9ebfb5184d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-uk-multi-cap-income-fund--9eaf27d2/blocks/eb9ebfb5184d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/chief-executive-officer-succession-planning/",
+        "instanceId": "66ce153bb7ef",
+        "instanceIds": [
+          "66ce153bb7ef"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_chief-executive-officer-succession-planning--b3556abd/blocks/66ce153bb7ef.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/emerging-market-debt-update/",
+        "instanceId": "0961ff005a13",
+        "instanceIds": [
+          "0961ff005a13"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_emerging-market-debt-update--682ee27d/blocks/0961ff005a13.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-australias-institutional-distribution-partners/",
+        "instanceId": "dfaff97d5562",
+        "instanceIds": [
+          "dfaff97d5562"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-distribution-partnership-with-australias-institutional-distribution-partners--8d45a201/blocks/dfaff97d5562.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-distribution-partnership-with-dutch-specialist-oceanside/",
+        "instanceId": "4680153ec233",
+        "instanceIds": [
+          "4680153ec233"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-distribution-partnership-with-dutch-specialist-oceanside--897363a9/blocks/4680153ec233.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-announces-its-first-active-etf-for-global-government-bonds/",
+        "instanceId": "42f05d64b5ac",
+        "instanceIds": [
+          "42f05d64b5ac"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-announces-its-first-active-etf-for-global-government-bonds--8a0bdf45/blocks/42f05d64b5ac.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-announces-hire-selina-tyler-head-of-uk/",
+        "instanceId": "e195142e8799",
+        "instanceIds": [
+          "e195142e8799"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-announces-hire-selina-tyler-head-of-uk--876b2c91/blocks/e195142e8799.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-builds-scale-emerging-markets-acquisition-team-institutional-assets-origin-asset-management/",
+        "instanceId": "76e266e7f2a8",
+        "instanceIds": [
+          "76e266e7f2a8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-builds-scale-emerging-markets-acquisition-team-institutional-assets-origin-asset-management--84c76149/blocks/76e266e7f2a8.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-confirms-investment-managers-of-the-jupiter-global-value-equity-unit-trust/",
+        "instanceId": "57eea5d984a1",
+        "instanceIds": [
+          "57eea5d984a1"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-confirms-investment-managers-of-the-jupiter-global-value-equity-unit-trust--f99459bd/blocks/57eea5d984a1.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-hires-highly-successful-european-equity-team-from-gam-investments/",
+        "instanceId": "aec3a44cb124",
+        "instanceIds": [
+          "aec3a44cb124"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-hires-highly-successful-european-equity-team-from-gam-investments--77b73694/blocks/aec3a44cb124.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-asset-management-launches-systematic-thematic-fund-range/",
+        "instanceId": "3f7bc907e60b",
+        "instanceIds": [
+          "3f7bc907e60b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-asset-management-launches-systematic-thematic-fund-range--31412fa4/blocks/3f7bc907e60b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-ecology-fund-plans-to-adopt-fca-sustainability-focus-label/",
+        "instanceId": "4cb2380bd03d",
+        "instanceIds": [
+          "4cb2380bd03d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-ecology-fund-plans-to-adopt-fca-sustainability-focus-label--cca82baa/blocks/4cb2380bd03d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-launches-global-ecology-bond-fund/",
+        "instanceId": "281e7a7ad628",
+        "instanceIds": [
+          "281e7a7ad628"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-launches-global-ecology-bond-fund--88c330a9/blocks/281e7a7ad628.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-uk-multi-cap-income-fund-launches/",
+        "instanceId": "997df3710a0d",
+        "instanceIds": [
+          "997df3710a0d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-uk-multi-cap-income-fund-launches--0230a257/blocks/997df3710a0d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/jupiter-wins-four-accolades-at-fund-manager-of-the-year-awards-2024/",
+        "instanceId": "32b44b462c19",
+        "instanceIds": [
+          "32b44b462c19"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_jupiter-wins-four-accolades-at-fund-manager-of-the-year-awards-2024--cd5cb832/blocks/32b44b462c19.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/origin-asset-management-investment-team-and-assets-join-jupiter-on-completion-of-acquisition/",
+        "instanceId": "2a82e2d84e0d",
+        "instanceIds": [
+          "2a82e2d84e0d"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_origin-asset-management-investment-team-and-assets-join-jupiter-on-completion-of-acquisition--0eaf6502/blocks/2a82e2d84e0d.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/press-releases/richard-buxton-announces-retirement/",
+        "instanceId": "02502cebab11",
+        "instanceIds": [
+          "02502cebab11"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_press-releases_richard-buxton-announces-retirement--73395e50/blocks/02502cebab11.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/",
+        "instanceId": "1a9e57c48d04",
+        "instanceIds": [
+          "1a9e57c48d04"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help--b7dfb547/blocks/1a9e57c48d04.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/consumer-duty/",
+        "instanceId": "1030e645c817",
+        "instanceIds": [
+          "1030e645c817"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_consumer-duty--ec7a506c/blocks/1030e645c817.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/value-assessment/",
+        "instanceId": "fcf33c7289ce",
+        "instanceIds": [
+          "fcf33c7289ce"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_value-assessment--2f0e7caf/blocks/fcf33c7289ce.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/",
+        "instanceId": "3ebcdd7aaa03",
+        "instanceIds": [
+          "3ebcdd7aaa03"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter--550b472f/blocks/3ebcdd7aaa03.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/biodiversity/",
+        "instanceId": "509835384a5c",
+        "instanceIds": [
+          "509835384a5c",
+          "f8201126138f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_biodiversity--e2bea9eb/blocks/509835384a5c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/corporate-sustainability/",
+        "instanceId": "978d6fa085d1",
+        "instanceIds": [
+          "978d6fa085d1",
+          "ce6f1ca6aa4f"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_corporate-sustainability--7fb61c16/blocks/978d6fa085d1.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/investment-and-stewardship/",
+        "instanceId": "ca3cfa0d9872",
+        "instanceIds": [
+          "ca3cfa0d9872"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_investment-and-stewardship--44297ea8/blocks/ca3cfa0d9872.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/reports/",
+        "instanceId": "8e77bc89c869",
+        "instanceIds": [
+          "8e77bc89c869",
+          "50e27a07e6fb"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_reports--8176b5fa/blocks/8e77bc89c869.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainability-disclosure-requirements/",
+        "instanceId": "b8e4476aafe7",
+        "instanceIds": [
+          "b8e4476aafe7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_sustainability-disclosure-requirements--30203a0e/blocks/b8e4476aafe7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainable-finance-disclosure-regulation/",
+        "instanceId": "939bdd30e3a7",
+        "instanceIds": [
+          "939bdd30e3a7"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_sustainable-finance-disclosure-regulation--92cc7ebb/blocks/939bdd30e3a7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/task-force-on-climate-related-financial-disclosures/",
+        "instanceId": "9ad5a71cd1bd",
+        "instanceIds": [
+          "9ad5a71cd1bd"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_task-force-on-climate-related-financial-disclosures--b75b71b7/blocks/9ad5a71cd1bd.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/uk-equities/",
+        "instanceId": "7c772309b7e6",
+        "instanceIds": [
+          "7c772309b7e6"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_uk-equities--fa04f43e/blocks/7c772309b7e6.jpg"
+      }
+    ],
+    "reuseCount": 39
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "text-only bordered cards with date and headline linking to press releases",
+    "mergedInto": null
+  }
+}

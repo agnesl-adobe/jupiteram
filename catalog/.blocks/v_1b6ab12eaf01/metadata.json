@@ -1,0 +1,152 @@
+{
+  "id": "v_1b6ab12eaf01",
+  "type": "default-content",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/about-jupiter/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "noimg",
+    "structure": "heading + text"
+  },
+  "layoutKey": "~(T)",
+  "colour": "~b(Tk)",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/about-jupiter/",
+        "instanceId": "8a70680d2a97",
+        "instanceIds": [
+          "8a70680d2a97"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_about-jupiter--8b864c51/blocks/8a70680d2a97.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/about-jupiter/our-principles/",
+        "instanceId": "768bb660ade4",
+        "instanceIds": [
+          "768bb660ade4"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_about-jupiter_our-principles--0b261a33/blocks/768bb660ade4.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/contact/",
+        "instanceId": "67f6baa04167",
+        "instanceIds": [
+          "67f6baa04167"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_contact--6010a885/blocks/67f6baa04167.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-european-equities/",
+        "instanceId": "10cdb507dbd1",
+        "instanceIds": [
+          "10cdb507dbd1"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-european-equities--24af9070/blocks/10cdb507dbd1.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-government-bond-active-ucits-etf/",
+        "instanceId": "a1e17d5f7c02",
+        "instanceIds": [
+          "a1e17d5f7c02"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-global-government-bond-active-ucits-etf--a67e656b/blocks/a1e17d5f7c02.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-global-leaders-fund/",
+        "instanceId": "d22511d43196",
+        "instanceIds": [
+          "d22511d43196",
+          "97cefc1a515a"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-global-leaders-fund--5b8a5870/blocks/d22511d43196.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-green-investment-trust-plc/",
+        "instanceId": "20f90b509715",
+        "instanceIds": [
+          "20f90b509715"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-green-investment-trust-plc--7fbef415/blocks/20f90b509715.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-merlin-portfolios/",
+        "instanceId": "babe5f5b29e1",
+        "instanceIds": [
+          "babe5f5b29e1"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-merlin-portfolios--0365eece/blocks/babe5f5b29e1.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-origin-global-smaller-companies-active-ucits-etf/",
+        "instanceId": "bfdc5d020098",
+        "instanceIds": [
+          "bfdc5d020098"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-origin-global-smaller-companies-active-ucits-etf--c22a9ae4/blocks/bfdc5d020098.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-strategic-absolute-return-bond-fund/",
+        "instanceId": "0c22509f3617",
+        "instanceIds": [
+          "0c22509f3617"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-strategic-absolute-return-bond-fund--20b184ed/blocks/0c22509f3617.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-dynamic-equity-fund/",
+        "instanceId": "48a2aaa9e94c",
+        "instanceIds": [
+          "48a2aaa9e94c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-uk-dynamic-equity-fund--8e51e66e/blocks/48a2aaa9e94c.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-multi-cap-income-fund/",
+        "instanceId": "b87f6662147b",
+        "instanceIds": [
+          "b87f6662147b"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-uk-multi-cap-income-fund--9eaf27d2/blocks/b87f6662147b.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/rights-and-issues-investment-trust-plc/",
+        "instanceId": "6983fb31f0ab",
+        "instanceIds": [
+          "6983fb31f0ab",
+          "0270fb52a572"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_rights-and-issues-investment-trust-plc--dafb46d1/blocks/6983fb31f0ab.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/sustainability-at-jupiter/sustainability-disclosure-requirements/",
+        "instanceId": "3d1c79ab6ef3",
+        "instanceIds": [
+          "3d1c79ab6ef3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_sustainability-at-jupiter_sustainability-disclosure-requirements--30203a0e/blocks/3d1c79ab6ef3.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/uk-equities/",
+        "instanceId": "ca188db4db83",
+        "instanceIds": [
+          "ca188db4db83"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_uk-equities--fa04f43e/blocks/ca188db4db83.jpg"
+      }
+    ],
+    "reuseCount": 15
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "regulatory disclaimer panel; could be a reusable important-information fragment",
+    "mergedInto": null
+  }
+}

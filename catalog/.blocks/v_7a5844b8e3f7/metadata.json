@@ -1,0 +1,38 @@
+{
+  "id": "v_7a5844b8e3f7",
+  "type": "search",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.873Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/search/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": false,
+    "imagePattern": "large",
+    "structure": "field"
+  },
+  "layoutKey": "input",
+  "colour": "input~@",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/search/",
+        "instanceId": "ae85ba8a84e8",
+        "instanceIds": [
+          "ae85ba8a84e8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_search--8e66d9e9/blocks/ae85ba8a84e8.jpg"
+      }
+    ],
+    "reuseCount": 1
+  },
+  "naming": {
+    "confidence": "high",
+    "reason": "same search input on the search results page",
+    "mergedInto": "v_41aae870dd4d"
+  }
+}

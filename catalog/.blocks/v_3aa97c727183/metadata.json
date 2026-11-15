@@ -1,0 +1,67 @@
+{
+  "id": "v_3aa97c727183",
+  "type": "custom",
+  "canonicalModel": "standalone",
+  "version": "1.0.0",
+  "created": "2026-11-12T15:18:05.872Z",
+  "sourceContext": {
+    "originUrl": "https://www.jupiteram.com/uk/en/individual/resources-and-help/value-assessment/",
+    "discoveredDuring": "site-scope-analysis"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "hasGrid": true,
+    "imagePattern": "noimg",
+    "structure": "heading + button"
+  },
+  "layoutKey": "~([(T button)*3|~@(T)])",
+  "colour": "~w([(Tk button)|~@(Tk)])",
+  "usage": {
+    "pagesUsing": [
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-european-equities/",
+        "instanceId": "0fbb8c16a1a7",
+        "instanceIds": [
+          "0fbb8c16a1a7",
+          "4bb997f8b0c6",
+          "6e3ba3a61fff",
+          "1fdea6e15905",
+          "afa94346aee3"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-european-equities--24af9070/blocks/0fbb8c16a1a7.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/jupiter-uk-dynamic-equity-fund/",
+        "instanceId": "ea2c1d69c435",
+        "instanceIds": [
+          "ea2c1d69c435",
+          "652ac228ebb7",
+          "a7b261b3d3d3",
+          "fa658d04ca5c"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_jupiter-uk-dynamic-equity-fund--8e51e66e/blocks/ea2c1d69c435.jpg"
+      },
+      {
+        "url": "https://www.jupiteram.com/uk/en/individual/resources-and-help/value-assessment/",
+        "instanceId": "a3b7399cfd48",
+        "instanceIds": [
+          "a3b7399cfd48",
+          "38cfdbcf5a2a",
+          "7009e4f74d7e",
+          "1ed25939a05b",
+          "494cfc1ad0ce",
+          "ae43644cb8c0",
+          "7bd7f53686b8"
+        ],
+        "screenshot": ".pages/www_jupiteram_com_uk_en_individual_resources-and-help_value-assessment--2f0e7caf/blocks/a3b7399cfd48.jpg"
+      }
+    ],
+    "reuseCount": 3
+  },
+  "naming": {
+    "confidence": "low",
+    "reason": "numbered expandable highlights beside a photo; no library block fits cleanly",
+    "mergedInto": null
+  }
+}

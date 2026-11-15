@@ -1,0 +1,35 @@
+{
+  "analysis-summary": {
+    "status": "complete",
+    "metadata": {
+      "siteUrl": "https://www.jupiteram.com/uk/en/individual/",
+      "siteName": "www.jupiteram.com",
+      "analysisDate": "2026-11-12",
+      "rootPageTitle": "Home - Jupiter Asset Management"
+    },
+    "metrics": {
+      "urlDiscoveryMethod": "https://www.jupiteram.com/global/en/corporate.sitemap.xml,/global/en/institutional.sitemap.xml,/latam/en/professional.sitemap.xml,/latam/es/professional.sitemap.xml,/be/en/professional.sitemap.xml,/dk/en/professional.sitemap.xml,/de/de/professional.sitemap.xml,/de/de/individual.sitemap.xml,/es/es/professional.sitemap.xml,/es/es/individual.sitemap.xml,/fi/en/professional.sitemap.xml,/fi/en/individual.sitemap.xml,/fr/fr/professional.sitemap.xml,/fr/fr/individual.sitemap.xml,/hk/en/professional.sitemap.xml,/hk/en/individual.sitemap.xml,/hk/zh/individual.sitemap.xml,/is/en/professional.sitemap.xml,/ie/en/professional.sitemap.xml,/ie/en/individual.sitemap.xml,/it/en/professional.sitemap.xml,/it/it/professional.sitemap.xml,/it/it/individual.sitemap.xml,/li/en/professional.sitemap.xml,/lu/en/individual.sitemap.xml,/lu/en/professional.sitemap.xml,/nl/en/individual.sitemap.xml,/nl/en/professional.sitemap.xml,/no/en/professional.sitemap.xml,/at/de/individual.sitemap.xml,/at/de/professional.sitemap.xml,/pt/en/individual.sitemap.xml,/pt/en/professional.sitemap.xml,/se/en/individual.sitemap.xml,/se/en/professional.sitemap.xml,/ch/en/individual.sitemap.xml,/ch/en/professional.sitemap.xml,/ch/de/individual.sitemap.xml,/ch/de/professional.sitemap.xml,/sg/en/professional.sitemap.xml,/uk/en/professional.sitemap.xml,/uk/en/individual.sitemap.xml,/usnrc/en/professional.sitemap.xml,/usnrc/es/professional.sitemap.xml",
+      "totalPages": 300,
+      "localeCount": 1,
+      "locales": [
+        {
+          "locale": "en",
+          "pages": 300
+        }
+      ],
+      "totalTemplates": 3,
+      "totalBlockTypes": 40,
+      "unknownBlockVariants": 0,
+      "edsBlockVariants": 40,
+      "pagesAnalyzed": 300,
+      "percentAnalyzed": 100,
+      "pagesPending": 0,
+      "pagesFailed": 0,
+      "blockDetectionCrashes": 0,
+      "blockNaming": "applied"
+    },
+    "errors": {
+      "totalCount": 6
+    }
+  }
+}

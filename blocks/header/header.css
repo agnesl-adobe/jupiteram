@@ -7,7 +7,9 @@ header .nav-wrapper {
   position: fixed;
   inset: 0 0 auto;
   z-index: 100;
-  background-color: transparent;
+
+  /* navy tint at the top (75%, as on the source) keeps the white menu text readable over the hero */
+  background-color: rgb(0 39 85 / 75%);
   transition: background-color 0.2s ease, box-shadow 0.2s ease;
 }
 

@@ -61,6 +61,16 @@ export default function transform(hookName, element, payload) {
       'link',
     ]);
 
+    // Bold wrapping a whole heading (e.g. <h2><strong>Title</strong></h2>) adds nothing visually
+    // and breaks AEM authoring: heading text is stored as plain text, so the tags show literally.
+    element.querySelectorAll('h1, h2, h3, h4, h5, h6').forEach((h) => {
+      const only = h.children.length === 1 ? h.firstElementChild : null;
+      if (only && ['STRONG', 'B'].includes(only.tagName)
+        && only.textContent.trim() === h.textContent.trim()) {
+        only.replaceWith(...only.childNodes);
+      }
+    });
+
     // Strip tracking / AEM component data attributes.
     element.querySelectorAll('*').forEach((el) => {
       [...el.attributes].forEach((attr) => {

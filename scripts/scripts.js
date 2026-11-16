@@ -37,6 +37,11 @@ function detectDynamicMediaUrl(urlStr) {
       && u.pathname.startsWith('/adobe/assets/urn:')) {
     return 'dm-openapi';
   }
+  // Dynamic Media with OpenAPI delivered through the site's own domain
+  // (e.g. www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--.../name.jpg.webp).
+  if (u.pathname.startsWith('/adobe/dynamicmedia/deliver/')) {
+    return 'dm-openapi';
+  }
   return false;
 }
 

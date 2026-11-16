@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.jupiteram.com/uk/en/individual/",
   "path": "uk/en/individual",
-  "timestamp": "2026-11-16T11:38:52.138Z",
+  "timestamp": "2026-11-16T12:11:16.864Z",
   "title": "Home - Jupiter Asset Management",
   "template": "individual",
   "blocks": [
@@ -15,5 +15,5 @@
     "columns-teaser",
     "cards-insights"
   ],
-  "importScript": "176836790a30"
+  "importScript": "8e396671b0fe"
 }

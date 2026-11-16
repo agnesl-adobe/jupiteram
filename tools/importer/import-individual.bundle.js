@@ -403,6 +403,12 @@ var CustomImportScript = (() => {
         "iframe",
         "link"
       ]);
+      element.querySelectorAll("h1, h2, h3, h4, h5, h6").forEach((h) => {
+        const only = h.children.length === 1 ? h.firstElementChild : null;
+        if (only && ["STRONG", "B"].includes(only.tagName) && only.textContent.trim() === h.textContent.trim()) {
+          only.replaceWith(...only.childNodes);
+        }
+      });
       element.querySelectorAll("*").forEach((el) => {
         [...el.attributes].forEach((attr) => {
           const name = attr.name;
@@ -432,6 +438,7 @@ var CustomImportScript = (() => {
     if (/^delivery-p\d+-e\d+\.adobeaemcloud\.com$/.test(u.hostname) && u.pathname.startsWith("/adobe/assets/urn:")) {
       return "dm-openapi";
     }
+    if (u.pathname.startsWith("/adobe/dynamicmedia/deliver/")) return "dm-openapi";
     return false;
   }
   var LINKED_DM_INLINE_WRAPPER_TAGS = /* @__PURE__ */ new Set(["PICTURE"]);
@@ -458,22 +465,32 @@ var CustomImportScript = (() => {
     if (parent.textContent.trim() !== "") return null;
     return parent;
   }
-  function resolveDmSrc(img) {
+  function toAbsolute(src, baseUrl) {
+    if (!src || /^(https?:\/\/|\/\/|data:)/i.test(src) || !baseUrl) return src;
+    try {
+      return new URL(src, baseUrl).href;
+    } catch (e) {
+      return src;
+    }
+  }
+  function resolveDmSrc(img, baseUrl) {
     const candidates = [
       img.getAttribute("src"),
       img.getAttribute("data-src"),
       img.getAttribute("data-cmp-src")
     ];
     for (const c of candidates) {
-      if (c && detectDynamicMediaUrl(c)) return c;
+      const abs = toAbsolute(c, baseUrl);
+      if (abs && detectDynamicMediaUrl(abs)) return abs;
     }
     return null;
   }
   function transform2(hookName, element, payload) {
     if (hookName !== "afterTransform") return;
     const document = element.ownerDocument;
+    const baseUrl = payload && payload.params && payload.params.originalURL;
     element.querySelectorAll("img").forEach((img) => {
-      const dmUrl = resolveDmSrc(img);
+      const dmUrl = resolveDmSrc(img, baseUrl);
       if (!dmUrl) return;
       const linkText = altToLinkText((img.getAttribute("alt") || "").trim());
       const carrier = findLinkedDmCarrier(img);

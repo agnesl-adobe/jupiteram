@@ -3,7 +3,8 @@
 
 /**
  * Dynamic Media / Scene7 image transformer for jupiteram.com
- * (s7g10.scene7.com/is/image/JupiterAsset/...).
+ * (s7g10.scene7.com/is/image/JupiterAsset/... and
+ * www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--...).
  *
  * afterTransform only: parsers need real <img> nodes before this runs.
  * Rewrites DM <img> elements into anchors that survive the markdown round-trip:
@@ -35,6 +36,10 @@ function detectDynamicMediaUrl(urlStr) {
       && u.pathname.startsWith('/adobe/assets/urn:')) {
     return 'dm-openapi';
   }
+  // Dynamic Media with OpenAPI delivered through the site's own domain
+  // (e.g. www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--.../name.jpg.webp).
+  // Kept in sync with scripts/scripts.js detectDynamicMediaUrl.
+  if (u.pathname.startsWith('/adobe/dynamicmedia/deliver/')) return 'dm-openapi';
   return false;
 }
 
@@ -66,14 +71,26 @@ function findLinkedDmCarrier(img) {
   return parent;
 }
 
-function resolveDmSrc(img) {
+// Site-relative image paths (e.g. /adobe/dynamicmedia/deliver/...) are only made absolute by
+// adjustImageUrls after the transformers run, so resolve them against the page URL here.
+function toAbsolute(src, baseUrl) {
+  if (!src || /^(https?:\/\/|\/\/|data:)/i.test(src) || !baseUrl) return src;
+  try {
+    return new URL(src, baseUrl).href;
+  } catch (e) {
+    return src;
+  }
+}
+
+function resolveDmSrc(img, baseUrl) {
   const candidates = [
     img.getAttribute('src'),
     img.getAttribute('data-src'),
     img.getAttribute('data-cmp-src'),
   ];
   for (const c of candidates) {
-    if (c && detectDynamicMediaUrl(c)) return c;
+    const abs = toAbsolute(c, baseUrl);
+    if (abs && detectDynamicMediaUrl(abs)) return abs;
   }
   return null;
 }
@@ -83,8 +100,10 @@ export default function transform(hookName, element, payload) {
 
   const document = element.ownerDocument;
 
+  const baseUrl = payload && payload.params && payload.params.originalURL;
+
   element.querySelectorAll('img').forEach((img) => {
-    const dmUrl = resolveDmSrc(img);
+    const dmUrl = resolveDmSrc(img, baseUrl);
     if (!dmUrl) return;
 
     const linkText = altToLinkText((img.getAttribute('alt') || '').trim());

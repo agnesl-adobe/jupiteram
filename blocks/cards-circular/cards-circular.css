@@ -203,6 +203,7 @@ main .cards-circular a.button:any-link {
 main .cards-circular.compact a.button:any-link {
   padding: 10px 23px;
   font-size: 15px;
+  font-weight: 400;
   letter-spacing: 0;
   line-height: 22px;
 }

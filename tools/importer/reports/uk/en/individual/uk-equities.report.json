@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.jupiteram.com/uk/en/individual/uk-equities/",
+  "path": "uk/en/individual/uk-equities",
+  "timestamp": "2026-11-16T11:39:04.043Z",
+  "title": "Unlocking UK potential - Jupiter Asset Management",
+  "template": "individual-2",
+  "blocks": [
+    "hero-offset-photo",
+    "cards-circular",
+    "cards-info",
+    "accordion-bordered",
+    "cards-insights"
+  ],
+  "importScript": "5b6900d6c6eb"
+}

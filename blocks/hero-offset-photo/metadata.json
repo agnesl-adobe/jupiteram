@@ -1,0 +1,38 @@
+{
+  "variantName": "hero-offset-photo",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "No hero variant exists; carousel-hero is a carousel (different base, multi-slide with CTA and dots). Static navy hero with an offset cover photo on the right, breadcrumb and H1. | Navy (#002755) band 569px tall; clock photo (1920x1080) absolutely positioned to the right/top as a cover image; breadcrumb (Home > Wake up to UK equities) top-left; large white H1 with an accent-coloured trailing dot. Visual tree records colored:true from the navy paint, but the section has a photo background, which belongs to the hero block, so the section is not colored.",
+  "contentPattern": {
+    "description": "Hero: clock photo, breadcrumb, H1 \"Wake up to UK equities.\"",
+    "structure": {
+      "source": "/block-collection/hero",
+      "rows": [
+        {
+          "row": 1,
+          "cells": [
+            "Image: clock photo (jupiter_clock_hero_1920x1080), alt text"
+          ]
+        },
+        {
+          "row": 2,
+          "cells": [
+            "Text: H1 \"Wake up to UK equities.\" (trailing dot is styling, not authored)"
+          ]
+        }
+      ],
+      "notes": "Breadcrumb (Home > Wake up to UK equities) is navigation, not authored content; generate it from the page hierarchy rather than authoring it in the hero."
+    }
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "description": "Static page hero: navy band with a cover photo offset to the right/top, generated breadcrumb (Home > page title) and a large white H1 whose trailing full stop is rendered in the brand accent. Row 1: image | Row 2: H1 (dot optional, added automatically). Breadcrumb home defaults to the /<country>/<lang>/<audience>/ root; override with page metadata breadcrumb-home.",
+    "pagesUsing": [
+      "/uk/en/individual/uk-equities/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-16"
+  },
+  "reuseGuidance": "Use for single, non-rotating landing-page heroes. For multi-slide heroes with CTAs use carousel-hero."
+}

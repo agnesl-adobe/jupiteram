@@ -1,0 +1,124 @@
+/* full-bleed hero: its section has no padding and no max-width */
+main > .section.hero-offset-photo-container {
+  padding: 0;
+}
+
+main > .section.hero-offset-photo-container > .hero-offset-photo-wrapper {
+  max-width: none;
+  padding: 0;
+}
+
+/* navy band; the height comes from the text, the photo is laid over it */
+.hero-offset-photo {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+  background-color: var(--dark-color);
+  color: #fff;
+}
+
+.hero-offset-photo .hero-offset-photo-media {
+  position: absolute;
+  inset: 0;
+}
+
+.hero-offset-photo .hero-offset-photo-media picture {
+  display: contents;
+}
+
+/* 2:1 photo pushed off the right edge, its lower half cut as an ellipse: the curved edge */
+.hero-offset-photo .hero-offset-photo-media img {
+  position: absolute;
+  top: -100px;
+  right: -325px;
+  z-index: 10;
+  display: block;
+  width: 880px;
+  max-width: none;
+  height: auto;
+  aspect-ratio: 2 / 1;
+  object-fit: cover;
+  clip-path: ellipse(50% 100% at 50% 0);
+}
+
+.hero-offset-photo .hero-offset-photo-content {
+  position: relative;
+  z-index: 11;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 40px;
+  width: 75%;
+  padding: 350px 0 100px 40px;
+  box-sizing: content-box;
+  line-height: 1.3;
+}
+
+.hero-offset-photo .hero-offset-photo-breadcrumb ol {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: var(--body-font-size-m);
+  line-height: 1.3;
+}
+
+.hero-offset-photo .hero-offset-photo-breadcrumb li {
+  margin: 0 5px;
+}
+
+/* separator dot after every crumb but the current page */
+.hero-offset-photo .hero-offset-photo-breadcrumb li:not(:last-child)::after {
+  content: '';
+  display: inline-block;
+  width: 3px;
+  height: 3px;
+  margin: 0 5px 5px 10px;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+.hero-offset-photo .hero-offset-photo-breadcrumb a:any-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.hero-offset-photo .hero-offset-photo-breadcrumb [aria-current] {
+  font-weight: 700;
+}
+
+.hero-offset-photo h1 {
+  width: 100%;
+  margin: 0;
+  color: #fff;
+  font-size: var(--heading-font-size-xxl);
+  font-weight: 600;
+}
+
+.hero-offset-photo .hero-offset-photo-dot {
+  color: #de3700;
+}
+
+@media (width >= 900px) {
+  .hero-offset-photo .hero-offset-photo-media img {
+    top: auto;
+    right: -615px;
+    bottom: 50px;
+    width: 1700px;
+    min-height: 100%;
+  }
+
+  .hero-offset-photo .hero-offset-photo-content {
+    width: 32%;
+    min-width: 600px;
+    padding: 220px 0 160px 10%;
+  }
+
+  .hero-offset-photo .hero-offset-photo-breadcrumb ol {
+    margin: 0 -5px;
+  }
+}

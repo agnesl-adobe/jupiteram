@@ -1,0 +1,169 @@
+.cards-circular {
+  position: relative;
+  color: var(--text-color);
+}
+
+.cards-circular > ul {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.cards-circular > ul::-webkit-scrollbar {
+  display: none;
+}
+
+.cards-circular .cards-circular-card {
+  display: flex;
+  flex: 0 0 100%;
+  flex-direction: column;
+  align-items: center;
+  scroll-snap-align: start;
+  text-align: center;
+}
+
+.cards-circular .cards-circular-card-image-empty {
+  display: none;
+}
+
+/* source: headshot image fixed at 289x287, centred in the card */
+.cards-circular .cards-circular-card-image {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.cards-circular .cards-circular-card-image picture {
+  display: block;
+  max-width: 100%;
+}
+
+.cards-circular .cards-circular-card-image img {
+  display: block;
+  width: 289px;
+  max-width: 100%;
+  height: 287px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.cards-circular .cards-circular-card-body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 16px 32px 32px;
+  box-sizing: border-box;
+}
+
+.cards-circular .cards-circular-card-body h4 {
+  margin: 0 0 19px;
+  color: var(--heading-color);
+  font-size: var(--heading-font-size-m);
+}
+
+.cards-circular .cards-circular-card-body p {
+  margin: 0 0 19px;
+  font-size: var(--body-font-size-m);
+  line-height: 28px;
+}
+
+.cards-circular .cards-circular-card-body strong {
+  font-weight: 700;
+}
+
+/* tagline under the fund name: source renders it as a bold upright h5 */
+.cards-circular .cards-circular-card-body h4 + p:has(> em:only-child) {
+  margin-bottom: 28px;
+  color: var(--heading-color);
+  font-size: var(--heading-font-size-s);
+  font-weight: 600;
+}
+
+.cards-circular .cards-circular-card-body h4 + p > em:only-child {
+  font-style: normal;
+}
+
+.cards-circular .cards-circular-card-body .cards-circular-card-cta {
+  margin: auto 0 0;
+  padding-top: 16px;
+}
+
+main .cards-circular a.button:any-link {
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.cards-circular .cards-circular-nav {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.cards-circular .cards-circular-nav button {
+  position: relative;
+  width: 44px;
+  height: 44px;
+  margin: 0;
+  padding: 0;
+  border: 2px solid var(--button-color);
+  border-radius: 50%;
+  background: transparent;
+  cursor: pointer;
+}
+
+.cards-circular .cards-circular-nav button::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 8px;
+  height: 8px;
+  border: solid var(--button-color);
+  border-width: 2px 2px 0 0;
+  transform: translate(-65%, -50%) rotate(45deg);
+}
+
+.cards-circular .cards-circular-nav .cards-circular-prev::after {
+  transform: translate(-35%, -50%) rotate(-135deg);
+}
+
+.cards-circular .cards-circular-nav button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+@media (width >= 600px) {
+  .cards-circular .cards-circular-card {
+    flex-basis: calc((100% - 32px) / 2);
+  }
+}
+
+@media (width >= 900px) {
+  .cards-circular .cards-circular-card-image {
+    min-height: 290px;
+  }
+
+  .cards-circular .cards-circular-card-body {
+    padding: 32px;
+  }
+
+  .cards-circular > ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: stretch;
+    overflow: visible;
+  }
+
+  .cards-circular .cards-circular-nav {
+    display: none;
+  }
+}

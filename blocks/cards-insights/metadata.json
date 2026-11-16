@@ -16,6 +16,13 @@
   },
   "options": [],
   "memberVariantIds": [],
-  "usage": "Article/insight cards. One row per card: image | meta paragraph(s) (date, read time) before the heading, heading linked to the article, author paragraph, and a link-only tag paragraph rendered as a pill. The whole card is clickable through the heading link.",
+  "usage": {
+    "description": "Article/insight cards. One row per card: image | meta paragraph(s) (date, read time) before the heading, heading linked to the article, author paragraph, and a link-only tag paragraph rendered as a pill. The whole card is clickable through the heading link.",
+    "pagesUsing": [
+      "/uk/en/individual/uk-equities/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-16"
+  },
   "reuseGuidance": "Use for \"Related insights\" and other article listings. For text-only help cards use cards-info."
 }

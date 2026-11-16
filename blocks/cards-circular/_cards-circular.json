@@ -1,0 +1,70 @@
+{
+  "definitions": [
+    {
+      "title": "Cards Circular",
+      "id": "cards-circular",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Cards Circular",
+              "filter": "cards-circular"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Cards Circular Card",
+      "id": "cards-circular-card",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Cards Circular Card",
+              "model": "cards-circular-card"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "cards-circular-card",
+      "fields": [
+        {
+          "component": "richtext",
+          "valueType": "string",
+          "name": "image",
+          "label": "Image",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Image Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "cards-circular",
+      "components": [
+        "cards-circular-card"
+      ]
+    }
+  ]
+}

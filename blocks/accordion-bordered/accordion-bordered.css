@@ -1,0 +1,85 @@
+/* Accordion Bordered: full-width rows split by 2px rules, circular chevron toggle */
+.accordion-bordered {
+  color: var(--text-color);
+}
+
+/* source: border-top on every item, border-bottom on the last one, no gaps */
+.accordion-bordered .accordion-bordered-item {
+  padding: 20px 0;
+  border-top: 2px solid var(--text-color);
+  overflow: hidden;
+}
+
+.accordion-bordered .accordion-bordered-item:last-child {
+  border-bottom: 2px solid var(--text-color);
+}
+
+.accordion-bordered .accordion-bordered-item-label {
+  display: flex;
+  justify-content: space-between;
+  padding: 1px 6px 1px 0;
+  color: var(--text-color);
+  font-size: 23px;
+  font-weight: 600;
+  line-height: 30px;
+  cursor: pointer;
+  list-style: none;
+}
+
+.accordion-bordered .accordion-bordered-item-label::-webkit-details-marker {
+  display: none;
+}
+
+.accordion-bordered .accordion-bordered-item-label:focus-visible {
+  outline: 2px solid var(--link-color);
+  outline-offset: 2px;
+}
+
+.accordion-bordered .accordion-bordered-item-icon {
+  flex: 0 0 auto;
+  width: 38px;
+  min-width: 38px;
+  height: 38px;
+  background: url("/icons/accordion-chevron.svg") no-repeat 0 0 / contain;
+}
+
+/* source swaps a down icon for its mirror-image up icon, without animation */
+.accordion-bordered .accordion-bordered-item[open] .accordion-bordered-item-icon {
+  transform: rotate(180deg);
+}
+
+.accordion-bordered .accordion-bordered-item-body {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 10px;
+  font-size: 19px;
+  line-height: 28px;
+}
+
+.accordion-bordered .accordion-bordered-item-body p {
+  margin: 0;
+}
+
+.accordion-bordered .accordion-bordered-item-body ul {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin: 0 0 0 -20px;
+  padding-left: 40px;
+  list-style-image: url("/icons/bullet.svg");
+}
+
+.accordion-bordered .accordion-bordered-item-body li {
+  padding-left: 16px;
+}
+
+@media (width >= 900px) {
+  .accordion-bordered .accordion-bordered-item {
+    padding: 16px 20px;
+  }
+
+  .accordion-bordered .accordion-bordered-item-body {
+    padding-right: 60px;
+  }
+}

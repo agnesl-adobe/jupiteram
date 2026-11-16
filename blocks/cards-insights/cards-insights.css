@@ -170,6 +170,11 @@
     gap: 32px;
   }
 
+  /* two cards share the row in equal halves on the source (.twoNoOfColumns) */
+  .cards-insights > ul:has(> li:nth-child(2):last-child) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .cards-insights .cards-insights-card-image img {
     height: 300px;
     aspect-ratio: auto;

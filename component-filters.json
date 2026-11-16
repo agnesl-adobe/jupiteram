@@ -21,7 +21,22 @@
       "carousel-promo",
       "cards-info",
       "columns-teaser",
-      "cards-insights"
+      "cards-insights",
+      "hero-offset-photo",
+      "cards-circular",
+      "accordion-bordered"
+    ]
+  },
+  {
+    "id": "accordion-bordered",
+    "components": [
+      "accordion-bordered-item"
+    ]
+  },
+  {
+    "id": "cards-circular",
+    "components": [
+      "cards-circular-card"
     ]
   },
   {

@@ -4,6 +4,149 @@
   },
   "templates": [
     {
+      "name": "individual-2",
+      "urls": [
+        "https://www.jupiteram.com/uk/en/individual/uk-equities/"
+      ],
+      "representativeUrl": "https://www.jupiteram.com/uk/en/individual/uk-equities/",
+      "description": "Fund range landing page: offset-photo hero, overview text, circular fund cards, info cards, fund risk accordion, insights cards, important information band",
+      "blocks": [
+        {
+          "name": "hero-offset-photo",
+          "instances": [
+            ".hero.teaser.cmp-hero--kaleBright .cmp-hero",
+            ".hero.teaser .cmp-hero"
+          ]
+        },
+        {
+          "name": "cards-circular",
+          "instances": [
+            ".cards.list.cmp-cards--borderedWhite.cmp-cards--primaryButton .cmp-cards"
+          ]
+        },
+        {
+          "name": "cards-info",
+          "instances": [
+            ".cards.list.cmp-cards--borderlessBlue .cmp-cards",
+            ".cmp-cards.defaultList"
+          ]
+        },
+        {
+          "name": "accordion-bordered",
+          "instances": [
+            ".accordion.panelcontainer .cmp-accordion",
+            ".cmp-accordion"
+          ]
+        },
+        {
+          "name": "cards-insights",
+          "instances": [
+            ".cmp-cards.insightsList"
+          ]
+        }
+      ],
+      "urlPattern": "/uk/en/individual/*",
+      "sections": [
+        {
+          "id": "s1",
+          "name": "Hero",
+          "selector": [
+            ".hero.teaser.cmp-hero--kaleBright",
+            ".hero.teaser"
+          ],
+          "style": null,
+          "blocks": [
+            "hero-offset-photo"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "s2",
+          "name": "Overview",
+          "selector": [
+            ".text:has(> #overview)",
+            "#overview"
+          ],
+          "style": null,
+          "blocks": [],
+          "defaultContent": [
+            "#overview"
+          ]
+        },
+        {
+          "id": "s3",
+          "name": "A selection of our UK funds",
+          "selector": [
+            ".cards.list.cmp-cards--borderedWhite.cmp-cards--primaryButton"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-circular"
+          ],
+          "defaultContent": [
+            ".cards.list.cmp-cards--borderedWhite.cmp-cards--primaryButton .cmp-cards-container > .cmp-text"
+          ]
+        },
+        {
+          "id": "s4",
+          "name": "Additional funds in our range",
+          "selector": [
+            ".cards.list.cmp-cards--borderlessBlue"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-info"
+          ],
+          "defaultContent": [
+            ".cards.list.cmp-cards--borderlessBlue .cmp-cards-container > .cmp-text"
+          ]
+        },
+        {
+          "id": "s5",
+          "name": "Advice note and fund specific risks",
+          "selector": [
+            ".text:has(> #text-c19185da67)",
+            "#text-c19185da67"
+          ],
+          "style": null,
+          "blocks": [
+            "accordion-bordered"
+          ],
+          "defaultContent": [
+            "#text-c19185da67",
+            ".accordion.panelcontainer .cmp-accordion > .cmp-text"
+          ]
+        },
+        {
+          "id": "s6",
+          "name": "Latest insights from the team",
+          "selector": [
+            ".cards.list:has(#latestinsights)",
+            "#latestinsights"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-insights"
+          ],
+          "defaultContent": [
+            "#latestinsights > .cmp-text"
+          ]
+        },
+        {
+          "id": "s7",
+          "name": "Important information",
+          "selector": [
+            ".text.kale-bright-5"
+          ],
+          "style": "pale-blue, small-print",
+          "blocks": [],
+          "defaultContent": [
+            ".text.kale-bright-5 .cmp-text"
+          ]
+        }
+      ]
+    },
+    {
       "name": "individual",
       "urls": [
         "https://www.jupiteram.com/uk/en/individual/"
@@ -74,7 +217,7 @@
             ".text.kale-bright-5",
             ".text.carpo-bright-50"
           ],
-          "style": "pale-blue",
+          "style": "pale-blue, reduced-padding",
           "blocks": [],
           "defaultContent": [
             ".text.kale-bright-5 .cmp-text",

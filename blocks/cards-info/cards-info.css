@@ -59,9 +59,44 @@
   line-height: var(--body-line-height);
 }
 
+/* source card copy bolds with <b> at 700 (global strong is 600) */
+.cards-info .cards-info-card-body p strong {
+  font-weight: 700;
+}
+
 .cards-info .cards-info-card-body .cards-info-card-cta {
   margin: auto 0 0;
   padding: 0;
+}
+
+/* detailed cards (title + subtitle, e.g. fund cards): 32px padding all round */
+.cards-info .cards-info-card-detailed .cards-info-card-body {
+  padding-top: 32px;
+}
+
+.cards-info .cards-info-card-detailed .cards-info-card-body > :first-child {
+  margin-top: 0;
+}
+
+.cards-info .cards-info-card-detailed .cards-info-card-body h4 {
+  margin-bottom: 19px;
+}
+
+/* source renders the subtitle as an h5 followed by an empty spacer line */
+.cards-info .cards-info-card-body .cards-info-card-subtitle {
+  margin-bottom: 47px;
+  color: var(--heading-color);
+  font-weight: 600;
+}
+
+.cards-info .cards-info-card-body .cards-info-card-subtitle em,
+.cards-info .cards-info-card-body .cards-info-card-subtitle i {
+  font-style: normal;
+}
+
+/* source keeps a 24px gap between the text and the bottom-pinned button */
+.cards-info .cards-info-card-detailed .cards-info-card-body .cards-info-card-cta {
+  padding-top: 24px;
 }
 
 main .cards-info .cards-info-card-cta a.button:any-link {

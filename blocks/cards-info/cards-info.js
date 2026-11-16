@@ -18,6 +18,14 @@ export default function decorate(block) {
         cell.className = 'cards-info-card-image cards-info-card-image-empty';
       } else {
         cell.className = 'cards-info-card-body';
+        // A fully emphasised paragraph right after the title is the card subtitle
+        // (e.g. the fund name on fund cards); those cards use the detailed layout.
+        const sub = cell.querySelector(':scope > :is(h2, h3, h4, h5, h6) + p');
+        const em = sub && sub.querySelector(':scope > em, :scope > i');
+        if (em && sub.children.length === 1 && sub.textContent.trim() === em.textContent.trim()) {
+          sub.classList.add('cards-info-card-subtitle');
+          li.classList.add('cards-info-card-detailed');
+        }
         // The trailing link paragraph is the card CTA, pinned to the bottom and
         // rendered as a primary button (authored links are not bold).
         const last = cell.lastElementChild;

@@ -1,0 +1,32 @@
+{
+  "variantName": "cards-circular",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "Below 80% to cards-info (text-only tinted cards) and cards-insights (article cards with top photo, date, tag). These have large circular images above centered text and a filled pill CTA. | H2 left-aligned; 3 cards per row, each with a large circular image, centered text (H4 fund name, italic/bold tagline, bold summary, Objective, Investment Managers) and a filled blue pill \"Learn more\" button pinned to the bottom. On mobile the cards become a slider with prev/next arrows (.biography-item__arrow-container).",
+  "contentPattern": {
+    "description": "3 fund cards: circular image, fund name, tagline, summary, objective, managers, Learn more CTA",
+    "structure": {
+      "source": "/block-collection/cards",
+      "rows": "One row per card",
+      "cells": [
+        "Image (image, imageAlt); empty cell kept for text-only cards",
+        "Text: H4 title; tagline/fund name as an emphasised paragraph (not a heading, empty <h5>&nbsp;</h5> spacers dropped); bold summary paragraph; \"Objective:\" paragraph; \"Investment Manager(s):\" paragraph; trailing \"Learn more\" link paragraph as CTA"
+      ],
+      "insightsCells": [
+        "Image: article photo",
+        "Text: date paragraph, read-time paragraph, H4 title linked to the article, author paragraph, tag paragraph (\"Equities\")"
+      ]
+    }
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "description": "Fund/people cards, 3 per row on desktop, one-per-view slider with prev/next arrows on mobile. One row per card: image (cropped to a circle) | H4 title, tagline, summary, Objective, Investment Manager(s) and a trailing link-only paragraph rendered as a pinned primary pill CTA. Empty spacer headings are removed.",
+    "pagesUsing": [
+      "/uk/en/individual/uk-equities/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-16"
+  },
+  "reuseGuidance": "Use for fund selections with round imagery. For text-only tinted cards use cards-info; for article listings use cards-insights."
+}

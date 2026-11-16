@@ -16,6 +16,13 @@
   },
   "options": [],
   "memberVariantIds": [],
-  "usage": "Grid of text-only help/resource cards (3 per row on desktop). One row per card: image cell (usually empty) | heading, description and a trailing link paragraph that is pinned to the card bottom as the CTA.",
+  "usage": {
+    "description": "Grid of text-only help/resource cards (3 per row on desktop). One row per card: image cell (usually empty) | heading, description and a trailing link paragraph that is pinned to the card bottom as the CTA.",
+    "pagesUsing": [
+      "/uk/en/individual/uk-equities/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-16"
+  },
   "reuseGuidance": "Use for tinted info/help cards with a CTA. For article listings with image, date, author and tag use cards-insights."
 }

@@ -182,17 +182,25 @@ var CustomImportScript = (() => {
   function parse4(element, { document }) {
     let items = Array.from(element.querySelectorAll(":scope > .cmp-cards--cardItems"));
     if (!items.length) items = Array.from(element.querySelectorAll(".default-item"));
+    if (!items.length) items = Array.from(element.querySelectorAll(".cmp-card"));
     const cells = [];
     items.forEach((item) => {
-      const img = item.querySelector(".default-item__image-container img, img");
-      const content = item.querySelector(".default-item__content-text") || item;
-      const ctas = Array.from(item.querySelectorAll(".default-item__content-and-button > a[href]"));
+      const img = item.querySelector(".default-item__image-container img, .cmp-card-image-container img, img");
+      const content = item.querySelector(".default-item__content-text, .cmp-card__content-text") || item;
+      const ctas = Array.from(item.querySelectorAll(".default-item__content-and-button > a[href], a.cmp-card__content-button[href]"));
       const imageFrag = document.createDocumentFragment();
       if (img) {
         imageFrag.appendChild(document.createComment(" field:image "));
         imageFrag.appendChild(img);
       }
-      const textNodes = Array.from(content.querySelectorAll(":scope > h1, :scope > h2, :scope > h3, :scope > h4, :scope > h5, :scope > h6, :scope > p, :scope > ul, :scope > ol")).filter((n) => n.textContent.trim());
+      const textNodes = Array.from(content.querySelectorAll(":scope > h1, :scope > h2, :scope > h3, :scope > h4, :scope > h5, :scope > h6, :scope > p, :scope > ul, :scope > ol")).filter((n) => n.textContent.trim()).map((n) => {
+        if (!/^H[56]$/.test(n.tagName)) return n;
+        const p = document.createElement("p");
+        const em = document.createElement("em");
+        em.textContent = n.textContent.replace(/\s+/g, " ").trim();
+        p.appendChild(em);
+        return p;
+      });
       ctas.forEach((a) => {
         const link = document.createElement("a");
         link.setAttribute("href", a.getAttribute("href"));
@@ -384,6 +392,7 @@ var CustomImportScript = (() => {
         ".cmp-carousel__indicators",
         ".biography-item__arrow-container"
       ]);
+      WebImporter.DOMUtils.remove(element, ["nav.cmp-breadcrumb", ".cmp-breadcrumb"]);
       WebImporter.DOMUtils.remove(element, [".cmp-link__screen-reader-only"]);
     }
     if (hookName === "afterTransform") {
@@ -640,7 +649,7 @@ var CustomImportScript = (() => {
           ".text.kale-bright-5",
           ".text.carpo-bright-50"
         ],
-        "style": "pale-blue",
+        "style": "pale-blue, reduced-padding",
         "blocks": [],
         "defaultContent": [
           ".text.kale-bright-5 .cmp-text",

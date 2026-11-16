@@ -3,20 +3,26 @@
 
 /**
  * Parser for cards-info variant. Base: cards.
- * Source: https://www.jupiteram.com/uk/en/individual/
+ * Sources:
+ *   https://www.jupiteram.com/uk/en/individual/
+ *     .cmp-cards.defaultList > .cmp-cards--cardItems > .default-item
+ *   https://www.jupiteram.com/uk/en/individual/uk-equities/
+ *     .cmp-cards > .card-list-* > .cmp-container > .card.image > .cmp-card
  * Selectors: .cmp-cards.defaultList, .cards.list.cmp-cards--borderlessBlue .cmp-cards
  * Model: container with cards-info-card children (image, imageAlt, text).
- * One row per card (.cmp-cards--cardItems): image (kept even when empty) | heading, description, CTA.
+ * One row per card: image (kept even when empty) | heading, tagline, description, CTA.
+ * <h5>/<h6> taglines (fund names) become emphasised paragraphs; empty spacers are dropped.
  */
 export default function parse(element, { document }) {
   let items = Array.from(element.querySelectorAll(':scope > .cmp-cards--cardItems'));
   if (!items.length) items = Array.from(element.querySelectorAll('.default-item'));
+  if (!items.length) items = Array.from(element.querySelectorAll('.cmp-card'));
   const cells = [];
 
   items.forEach((item) => {
-    const img = item.querySelector('.default-item__image-container img, img');
-    const content = item.querySelector('.default-item__content-text') || item;
-    const ctas = Array.from(item.querySelectorAll('.default-item__content-and-button > a[href]'));
+    const img = item.querySelector('.default-item__image-container img, .cmp-card-image-container img, img');
+    const content = item.querySelector('.default-item__content-text, .cmp-card__content-text') || item;
+    const ctas = Array.from(item.querySelectorAll('.default-item__content-and-button > a[href], a.cmp-card__content-button[href]'));
 
     // Image cell (image; alt collapses into imageAlt). Kept even when empty.
     const imageFrag = document.createDocumentFragment();
@@ -25,9 +31,17 @@ export default function parse(element, { document }) {
       imageFrag.appendChild(img);
     }
 
-    // Text cell (text): heading, description, CTA.
+    // Text cell (text): heading, tagline, description, CTA.
     const textNodes = Array.from(content.querySelectorAll(':scope > h1, :scope > h2, :scope > h3, :scope > h4, :scope > h5, :scope > h6, :scope > p, :scope > ul, :scope > ol'))
-      .filter((n) => n.textContent.trim());
+      .filter((n) => n.textContent.trim())
+      .map((n) => {
+        if (!/^H[56]$/.test(n.tagName)) return n;
+        const p = document.createElement('p');
+        const em = document.createElement('em');
+        em.textContent = n.textContent.replace(/\s+/g, ' ').trim();
+        p.appendChild(em);
+        return p;
+      });
     ctas.forEach((a) => {
       const link = document.createElement('a');
       link.setAttribute('href', a.getAttribute('href'));

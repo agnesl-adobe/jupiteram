@@ -1,0 +1,28 @@
+{
+  "variantName": "accordion-bordered",
+  "baseBlock": "accordion",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": "No accordion variant exists. Full-width rounded bordered rows with a circular chevron button. | Bold \"Please note:\" paragraph, then H3 \"Fund specific risks\" and 6 full-width rounded bordered accordion rows with a circular chevron button on the right; panels hold a bulleted risk list and a closing paragraph.",
+  "contentPattern": {
+    "description": "Accordion with 6 fund items (UK Dynamic Equity, UK Income, UK Multi Cap Income, UK Mid Cap, UK Growth, UK Smaller Companies), each panel a risk list plus a note",
+    "structure": {
+      "source": "/block-collection/accordion",
+      "rows": "One row per item (6)",
+      "cells": [
+        "Title: fund name (plain text)",
+        "Content: bulleted risk list with bold risk names, then \"For a more detailed explanation of risk factors...\" paragraph"
+      ]
+    }
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "description": "Expandable list of full-width rounded bordered rows with a circular chevron toggle (native details element). One row per item: title (plain text) | rich-text panel (lists, paragraphs).",
+    "pagesUsing": [
+      "/uk/en/individual/uk-equities/index"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-11-16"
+  },
+  "reuseGuidance": "Use for fund-specific risk lists, FAQs and other collapsible detail."
+}

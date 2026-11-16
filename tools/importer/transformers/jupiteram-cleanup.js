@@ -42,6 +42,10 @@ export default function transform(hookName, element, payload) {
       '.biography-item__arrow-container',
     ]);
 
+    // Breadcrumb trail (e.g. inside the uk-equities hero .cmp-hero--content).
+    // Not authored content: the hero-offset-photo block builds its own.
+    WebImporter.DOMUtils.remove(element, ['nav.cmp-breadcrumb', '.cmp-breadcrumb']);
+
     // Screen-reader-only helper text inside links ("opens in a new tab"),
     // otherwise imported as visible label text (e.g. "MyJupiteropens in a new tab").
     WebImporter.DOMUtils.remove(element, ['.cmp-link__screen-reader-only']);

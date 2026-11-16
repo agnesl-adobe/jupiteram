@@ -82,7 +82,7 @@ const PAGE_TEMPLATE = {
         ".text.kale-bright-5",
         ".text.carpo-bright-50"
       ],
-      "style": "pale-blue",
+      "style": "pale-blue, reduced-padding",
       "blocks": [],
       "defaultContent": [
         ".text.kale-bright-5 .cmp-text",

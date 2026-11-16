@@ -16,6 +16,12 @@
  * Note: sections 2-4 are siblings inside the same .cmp-container grid, and
  * section-4 has no own wrapper (it starts at .cards.list.cmp-cards--borderlessBlue),
  * so the <hr> breaks are inserted as siblings directly before each section start.
+ *
+ * Template "individual-2" (uk-equities): s1 (hero) sits in the main grid,
+ * s2..s7 are siblings inside the nested .container.responsivegrid >
+ * .cmp-container > .aem-Grid, so each <hr> lands as a sibling of its section
+ * start in that grid; s7 (pale-blue) is the last child, so its Section
+ * Metadata is appended at the end of that grid.
  */
 const MARKER_ATTR = 'data-excat-section-id';
 const FIRST_ATTR = 'data-excat-first-section';

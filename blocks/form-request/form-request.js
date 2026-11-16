@@ -26,7 +26,8 @@ function readRow(row) {
     row,
     label,
     type: cellText(type).toLowerCase() || 'text',
-    placeholder: cellText(placeholder),
+    // an email-like placeholder can arrive auto-linked as "mailto:…"
+    placeholder: cellText(placeholder).replace(/^mailto:/i, ''),
     required: tokens.includes('required'),
     half: tokens.includes('half'),
   };

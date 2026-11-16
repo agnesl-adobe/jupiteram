@@ -66,6 +66,10 @@ const FALLBACK_CARD_IMAGES = {
     'https://www.jupiteram.com/content/dam/jupiteram/insights/Hero_Images_Half%20Overlay-Merlin-06.11.2026.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg',
   '/uk/en/individual/insights/merlin-weekly-macro-a-complacent-budget-courts-fiscal-crisis/':
     'https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--54c55d5e-fba9-4896-a4bb-569878835c4b/30.10.26-C-328-Merlin-Weekly-Macro-IMAGE-TILE.jpg.webp?preferwebp=true',
+  '/uk/en/individual/insights/investment-outlook-2025-uk-value-investing-through-business-transformation/':
+    'https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--8f6a4e7f-e089-46d7-b2a6-d6b4f53edeb7/Outlook_UK_01.jpg.webp?preferwebp=true',
+  '/uk/en/individual/insights/investment-outlook-2025-helpful-catalysts-for-uk-equities/':
+    'https://www.jupiteram.com/adobe/dynamicmedia/deliver/dm-aid--14fbc664-a8d0-43a7-94c2-dda7488a3a69/Outlook_UK_02.jpg.webp?preferwebp=true',
 };
 
 const isBrokenSrc = (src) => !src || src.startsWith('about:');

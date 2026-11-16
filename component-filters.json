@@ -25,7 +25,7 @@
       "hero-offset-photo",
       "cards-circular",
       "accordion-bordered",
-      "columns-panels",
+      "info-panels",
       "table",
       "form-request",
       "accordion-faq"
@@ -80,12 +80,6 @@
     ]
   },
   {
-    "id": "columns-panels",
-    "components": [
-      "column"
-    ]
-  },
-  {
     "id": "columns-teaser",
     "components": [
       "column"
@@ -110,6 +104,12 @@
     "id": "form-request",
     "components": [
       "form-request-field"
+    ]
+  },
+  {
+    "id": "info-panels",
+    "components": [
+      "info-panels-panel"
     ]
   },
   {

@@ -128,7 +128,6 @@ export default function decorate(block) {
 
     const body = li.querySelector('.cards-insights-card-body');
     if (body) decorateBody(li, body);
-    applyFallbackImage(li);
     ul.append(li);
   });
 
@@ -139,6 +138,8 @@ export default function decorate(block) {
     moveInstrumentation(img, optimized.querySelector('img'));
     img.closest('picture').replaceWith(optimized);
   });
+  // after optimization, so the error listener sits on the image that is actually loaded
+  ul.querySelectorAll('.cards-insights-card').forEach(applyFallbackImage);
   block.replaceChildren(ul);
 
   // A tag pill without its own link sits above the stretched link (so it can show its hover

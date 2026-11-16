@@ -41,6 +41,10 @@ export default function transform(hookName, element, payload) {
       '.cmp-carousel__indicators',
       '.biography-item__arrow-container',
     ]);
+
+    // Screen-reader-only helper text inside links ("opens in a new tab"),
+    // otherwise imported as visible label text (e.g. "MyJupiteropens in a new tab").
+    WebImporter.DOMUtils.remove(element, ['.cmp-link__screen-reader-only']);
   }
 
   if (hookName === 'afterTransform') {

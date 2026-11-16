@@ -79,11 +79,13 @@ const PAGE_TEMPLATE = {
       "id": "section-2",
       "name": "Important information notice",
       "selector": [
+        ".text.kale-bright-5",
         ".text.carpo-bright-50"
       ],
       "style": "pale-blue",
       "blocks": [],
       "defaultContent": [
+        ".text.kale-bright-5 .cmp-text",
         ".text.carpo-bright-50 .cmp-text"
       ]
     },

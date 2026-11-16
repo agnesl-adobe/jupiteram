@@ -384,6 +384,7 @@ var CustomImportScript = (() => {
         ".cmp-carousel__indicators",
         ".biography-item__arrow-container"
       ]);
+      WebImporter.DOMUtils.remove(element, [".cmp-link__screen-reader-only"]);
     }
     if (hookName === "afterTransform") {
       WebImporter.DOMUtils.remove(element, [
@@ -636,11 +637,13 @@ var CustomImportScript = (() => {
         "id": "section-2",
         "name": "Important information notice",
         "selector": [
+          ".text.kale-bright-5",
           ".text.carpo-bright-50"
         ],
         "style": "pale-blue",
         "blocks": [],
         "defaultContent": [
+          ".text.kale-bright-5 .cmp-text",
           ".text.carpo-bright-50 .cmp-text"
         ]
       },

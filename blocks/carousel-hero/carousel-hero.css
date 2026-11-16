@@ -24,8 +24,10 @@ main > .section.carousel-hero-container > .carousel-hero-wrapper {
   padding: 0;
 }
 
+/* slides keep their own height; JS sizes the track to the active slide */
 .carousel-hero .carousel-hero-slides {
   display: flex;
+  align-items: flex-start;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
   overflow: scroll clip;
@@ -163,11 +165,13 @@ main .carousel-hero a.button:any-link:focus-visible {
 }
 
 @media (width >= 900px) {
+  /* pinned 50px above the slide bottom: the tallest slide bleeds 50px off the top */
   .carousel-hero .carousel-hero-slide-image img {
-    top: -50px;
+    top: auto;
     right: -615px;
+    bottom: 50px;
     width: 1700px;
-    height: 100%;
+    height: 850px;
     min-height: 100%;
   }
 

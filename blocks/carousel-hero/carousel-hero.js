@@ -3,8 +3,16 @@ import { moveInstrumentation } from '../../scripts/scripts.js';
 
 const AUTOPLAY_DELAY = 6000;
 
+// Like the source, the hero is as tall as the active slide (instant, no transition).
+function syncHeight(block) {
+  const track = block.querySelector('.carousel-hero-slides');
+  const slide = track?.children[parseInt(block.dataset.activeSlide || '0', 10)];
+  if (slide) track.style.height = `${slide.getBoundingClientRect().height}px`;
+}
+
 function updateActiveSlide(block, slideIndex) {
   block.dataset.activeSlide = slideIndex;
+  syncHeight(block);
   block.querySelectorAll('.carousel-hero-slide').forEach((slide, idx) => {
     const active = idx === slideIndex;
     slide.setAttribute('aria-hidden', !active);
@@ -30,7 +38,14 @@ export function showSlide(block, slideIndex = 0, behavior = 'smooth') {
   let index = slideIndex;
   if (index < 0) index = slides.length - 1;
   if (index >= slides.length) index = 0;
-  block.querySelector('.carousel-hero-slides').scrollTo({
+  // slides passed over on the way to the target must not become active
+  const track = block.querySelector('.carousel-hero-slides');
+  if (behavior === 'smooth' && track.scrollLeft !== slides[index].offsetLeft) {
+    block.dataset.targetSlide = index;
+  } else {
+    delete block.dataset.targetSlide;
+  }
+  track.scrollTo({
     top: 0,
     left: slides[index].offsetLeft,
     behavior,
@@ -45,14 +60,29 @@ function bindEvents(block) {
     });
   });
 
+  const track = block.querySelector('.carousel-hero-slides');
+  // a user swipe/scroll overrides a programmatic target
+  ['pointerdown', 'touchstart', 'wheel'].forEach((evt) => track.addEventListener(evt, () => {
+    delete block.dataset.targetSlide;
+  }, { passive: true }));
+
   const observer = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        updateActiveSlide(block, parseInt(entry.target.dataset.slideIndex, 10));
+      if (!entry.isIntersecting) return;
+      const idx = parseInt(entry.target.dataset.slideIndex, 10);
+      const { targetSlide } = block.dataset;
+      if (targetSlide !== undefined) {
+        if (idx !== parseInt(targetSlide, 10)) return;
+        delete block.dataset.targetSlide;
       }
+      updateActiveSlide(block, idx);
     });
   }, { threshold: 0.5 });
-  block.querySelectorAll('.carousel-hero-slide').forEach((slide) => observer.observe(slide));
+  const resizeObserver = new ResizeObserver(() => syncHeight(block));
+  block.querySelectorAll('.carousel-hero-slide').forEach((slide) => {
+    observer.observe(slide);
+    resizeObserver.observe(slide);
+  });
 
   // Autoplay, paused on hover/focus and disabled for reduced motion or in the editor.
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;

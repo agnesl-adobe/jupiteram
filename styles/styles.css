@@ -290,10 +290,10 @@ main .section.light-blue {
   background-color: var(--light-color);
 }
 
-/* thin pale-blue notice strip */
+/* thin pale notice strip (source: 5% navy tint) */
 main .section.pale-blue {
   padding-block: 16px;
-  background-color: var(--pale-color);
+  background-color: rgb(0 39 85 / 5%);
 }
 
 main .section.dark {

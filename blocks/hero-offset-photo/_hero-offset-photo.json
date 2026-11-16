@@ -21,6 +21,18 @@
       "id": "hero-offset-photo",
       "fields": [
         {
+          "component": "multiselect",
+          "name": "classes",
+          "label": "Style",
+          "valueType": "string",
+          "options": [
+            {
+              "name": "Side photo",
+              "value": "side-photo"
+            }
+          ]
+        },
+        {
           "component": "richtext",
           "valueType": "string",
           "name": "image",

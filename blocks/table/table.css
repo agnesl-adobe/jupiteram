@@ -1,0 +1,81 @@
+/* Table: light header band, thin row rules, scrolls sideways on small screens */
+.table .table-scroll {
+  overflow-x: auto;
+}
+
+.table table {
+  width: 100%;
+  min-width: 720px;
+  border-collapse: collapse;
+  color: var(--text-color);
+  font-size: 14px;
+  line-height: 20px;
+  text-align: left;
+}
+
+.table th,
+.table td {
+  padding: 16px;
+  vertical-align: top;
+}
+
+.table thead th {
+  border-bottom: 1px solid #e3e7ec;
+  background-color: #f3f5f8;
+  color: var(--heading-color);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.table tbody td {
+  border-bottom: 1px solid #e3e7ec;
+}
+
+/* the first column names the row */
+.table tbody td:first-child {
+  color: var(--heading-color);
+  font-weight: 600;
+}
+
+.table td p {
+  margin: 0;
+}
+
+.table td p + p {
+  margin-top: 8px;
+}
+
+.table tbody td:last-child {
+  white-space: nowrap;
+}
+
+.table td a:any-link {
+  color: var(--link-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.table td a:hover {
+  text-decoration: underline;
+}
+
+@media (width >= 900px) {
+  .table table {
+    min-width: 0;
+  }
+
+  .table th:nth-child(1),
+  .table td:nth-child(1) {
+    width: 27%;
+  }
+
+  .table th:nth-child(2),
+  .table td:nth-child(2) {
+    width: 29%;
+  }
+
+  .table th:nth-child(3),
+  .table td:nth-child(3) {
+    width: 26%;
+  }
+}

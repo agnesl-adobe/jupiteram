@@ -52,6 +52,16 @@ function decorateHeadingDot(heading) {
   }
 }
 
+// Consecutive button paragraphs sit side by side in one actions row.
+function groupButtons(content) {
+  const buttons = [...content.querySelectorAll(':scope > p.button-wrapper')];
+  if (!buttons.length) return;
+  const actions = document.createElement('div');
+  actions.className = 'hero-offset-photo-actions';
+  buttons[0].before(actions);
+  actions.append(...buttons);
+}
+
 export default function decorate(block) {
   const rows = [...block.children];
   const picture = block.querySelector('picture');
@@ -89,6 +99,7 @@ export default function decorate(block) {
   }
   const heading = content.querySelector('h1, h2');
   if (heading) decorateHeadingDot(heading);
+  groupButtons(content);
   content.prepend(buildBreadcrumb(heading));
 
   block.replaceChildren(media, content);

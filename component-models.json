@@ -136,6 +136,30 @@
           {
             "name": "Highlight",
             "value": "highlight"
+          },
+          {
+            "name": "Light blue",
+            "value": "light-blue"
+          },
+          {
+            "name": "Pale blue",
+            "value": "pale-blue"
+          },
+          {
+            "name": "Reduced padding",
+            "value": "reduced-padding"
+          },
+          {
+            "name": "Small print",
+            "value": "small-print"
+          },
+          {
+            "name": "Compact",
+            "value": "compact"
+          },
+          {
+            "name": "Split (text beside block)",
+            "value": "split"
           }
         ]
       }
@@ -157,6 +181,42 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "accordion-faq-item",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "summary",
+        "value": "",
+        "label": "Question"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Answer",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-circular",
+    "fields": [
+      {
+        "component": "multiselect",
+        "name": "classes",
+        "label": "Style",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Compact",
+            "value": "compact"
+          }
+        ]
       }
     ]
   },
@@ -310,6 +370,25 @@
     ]
   },
   {
+    "id": "columns-panels",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "columns",
+        "value": "",
+        "label": "Columns"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "rows",
+        "value": "",
+        "label": "Rows"
+      }
+    ]
+  },
+  {
     "id": "columns-teaser",
     "fields": [
       {
@@ -348,6 +427,84 @@
     ]
   },
   {
+    "id": "form-request-field",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "label",
+        "label": "Label (or heading / message / button text)",
+        "valueType": "string"
+      },
+      {
+        "component": "select",
+        "name": "type",
+        "label": "Type",
+        "valueType": "string",
+        "value": "text",
+        "options": [
+          {
+            "name": "Heading",
+            "value": "heading"
+          },
+          {
+            "name": "Text",
+            "value": "text"
+          },
+          {
+            "name": "Email",
+            "value": "email"
+          },
+          {
+            "name": "Phone",
+            "value": "tel"
+          },
+          {
+            "name": "Long text",
+            "value": "textarea"
+          },
+          {
+            "name": "Dropdown",
+            "value": "select"
+          },
+          {
+            "name": "Checkbox",
+            "value": "checkbox"
+          },
+          {
+            "name": "Submit button",
+            "value": "submit"
+          },
+          {
+            "name": "Thank-you message",
+            "value": "message"
+          }
+        ]
+      },
+      {
+        "component": "text",
+        "name": "placeholder",
+        "label": "Placeholder (dropdown: comma-separated options)",
+        "valueType": "string"
+      },
+      {
+        "component": "multiselect",
+        "name": "settings",
+        "label": "Settings",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Required",
+            "value": "required"
+          },
+          {
+            "name": "Half width",
+            "value": "half"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "fragment",
     "fields": [
       {
@@ -360,6 +517,18 @@
   {
     "id": "hero-offset-photo",
     "fields": [
+      {
+        "component": "multiselect",
+        "name": "classes",
+        "label": "Style",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Side photo",
+            "value": "side-photo"
+          }
+        ]
+      },
       {
         "component": "richtext",
         "valueType": "string",
@@ -439,6 +608,52 @@
         "name": "linkText",
         "value": "",
         "label": "View All Funds Link Text"
+      }
+    ]
+  },
+  {
+    "id": "table",
+    "fields": [
+      {
+        "component": "multiselect",
+        "name": "classes",
+        "label": "Options",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "No header row",
+            "value": "no-header"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "table-row",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "column1",
+        "label": "Column 1",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "column2",
+        "label": "Column 2",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "column3",
+        "label": "Column 3",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "column4",
+        "label": "Column 4",
+        "valueType": "string"
       }
     ]
   }

@@ -33,6 +33,30 @@
             {
               "name": "Highlight",
               "value": "highlight"
+            },
+            {
+              "name": "Light blue",
+              "value": "light-blue"
+            },
+            {
+              "name": "Pale blue",
+              "value": "pale-blue"
+            },
+            {
+              "name": "Reduced padding",
+              "value": "reduced-padding"
+            },
+            {
+              "name": "Small print",
+              "value": "small-print"
+            },
+            {
+              "name": "Compact",
+              "value": "compact"
+            },
+            {
+              "name": "Split (text beside block)",
+              "value": "split"
             }
           ]
         }
@@ -59,7 +83,11 @@
         "cards-insights",
         "hero-offset-photo",
         "cards-circular",
-        "accordion-bordered"
+        "accordion-bordered",
+        "columns-panels",
+        "table",
+        "form-request",
+        "accordion-faq"
       ]
     }
   ]

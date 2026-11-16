@@ -7,6 +7,10 @@ const isLinkOnly = (p) => {
 };
 
 function decorateBody(li, body) {
+  // empty paragraphs (richtext spacers) would otherwise count as meta or tag items
+  body.querySelectorAll(':scope > p').forEach((p) => {
+    if (!p.textContent.trim() && !p.querySelector('img, picture')) p.remove();
+  });
   const heading = body.querySelector(':scope > h1, :scope > h2, :scope > h3, :scope > h4, :scope > h5, :scope > h6');
 
   // Paragraphs before the title hold the date and read time: group them on one line.
@@ -84,19 +88,27 @@ function applyFallbackImage(li) {
   if (!fallback) return;
   let cell = li.querySelector('.cards-insights-card-image');
   const img = cell?.querySelector('img');
-  if (img && !isBrokenSrc(img.getAttribute('src'))) return;
-  if (!cell) {
-    cell = document.createElement('div');
-    li.prepend(cell);
+  const swap = () => {
+    if (!cell) {
+      cell = document.createElement('div');
+      li.prepend(cell);
+    }
+    const picture = document.createElement('picture');
+    const fresh = document.createElement('img');
+    fresh.src = fallback;
+    fresh.alt = img?.alt || '';
+    fresh.loading = 'lazy';
+    picture.append(fresh);
+    cell.replaceChildren(picture);
+    cell.className = 'cards-insights-card-image';
+  };
+  if (!img || isBrokenSrc(img.getAttribute('src'))) {
+    swap();
+    return;
   }
-  const picture = document.createElement('picture');
-  const fresh = document.createElement('img');
-  fresh.src = fallback;
-  fresh.alt = img?.alt || '';
-  fresh.loading = 'lazy';
-  picture.append(fresh);
-  cell.replaceChildren(picture);
-  cell.className = 'cards-insights-card-image';
+  // an authored image that fails to load (e.g. a DAM path that is not published) also falls back
+  if (img.complete && img.naturalWidth === 0) swap();
+  else img.addEventListener('error', swap, { once: true });
 }
 
 export default function decorate(block) {

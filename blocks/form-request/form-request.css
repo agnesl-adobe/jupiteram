@@ -1,0 +1,148 @@
+/* Form Request: white card with a two-column field grid */
+.form-request {
+  border-radius: 12px;
+  padding: 24px;
+  background: var(--background-color);
+  box-shadow: 0 4px 24px rgb(0 39 85 / 8%);
+  color: var(--text-color);
+}
+
+.form-request .form-request-intro > :first-child {
+  margin-top: 0;
+}
+
+.form-request .form-request-intro h2,
+.form-request .form-request-intro h3 {
+  margin: 0 0 18px;
+  color: var(--heading-color);
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 26px;
+}
+
+.form-request .form-request-form {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 18px 14px;
+}
+
+.form-request .form-request-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 0;
+}
+
+.form-request label {
+  color: var(--heading-color);
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 18px;
+}
+
+.form-request input:not([type="checkbox"]),
+.form-request select,
+.form-request textarea {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 42px;
+  border: 1px solid #c9d1db;
+  border-radius: 6px;
+  padding: 10px 13px;
+  background: var(--background-color);
+  color: var(--text-color);
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.form-request select {
+  appearance: none;
+  padding-right: 36px;
+  background: var(--background-color) url("/icons/chevron-down-dark.svg") no-repeat right 14px center / 10px;
+}
+
+.form-request input::placeholder,
+.form-request textarea::placeholder {
+  color: #8a96a5;
+}
+
+.form-request input:focus-visible,
+.form-request select:focus-visible,
+.form-request textarea:focus-visible {
+  border-color: var(--link-color);
+  outline: 2px solid rgb(0 107 232 / 25%);
+  outline-offset: 0;
+}
+
+.form-request [aria-invalid] {
+  border-color: #c4262e;
+}
+
+.form-request .form-request-error {
+  margin: 0;
+  color: #c4262e;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+/* consent checkbox: blue square, label text beside it */
+.form-request .form-request-checkbox {
+  flex-flow: row wrap;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.form-request .form-request-checkbox input {
+  flex: 0 0 auto;
+  width: 18px;
+  height: 18px;
+  margin: 1px 0 0;
+  accent-color: var(--button-color);
+}
+
+.form-request .form-request-checkbox label {
+  flex: 1;
+  color: var(--text-color);
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 16px;
+}
+
+.form-request .form-request-checkbox .form-request-error {
+  flex-basis: 100%;
+}
+
+.form-request .form-request-actions {
+  margin-top: 2px;
+}
+
+.form-request button.button {
+  padding: 10px 23px;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.form-request .form-request-thanks {
+  color: var(--heading-color);
+  font-size: var(--body-font-size-s);
+  line-height: 24px;
+}
+
+.form-request .form-request-thanks:focus {
+  outline: none;
+}
+
+@media (width >= 600px) {
+  .form-request {
+    padding: 28px;
+  }
+
+  .form-request .form-request-form {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .form-request .form-request-field:not(.form-request-half),
+  .form-request .form-request-actions {
+    grid-column: 1 / -1;
+  }
+}

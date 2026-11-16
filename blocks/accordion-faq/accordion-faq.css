@@ -1,0 +1,82 @@
+/* Accordion FAQ: thin rules, small blue plus/minus, first answer open */
+.accordion-faq {
+  border-top: 1px solid #e3e7ec;
+  color: var(--text-color);
+}
+
+.accordion-faq .accordion-faq-item {
+  border-bottom: 1px solid #e3e7ec;
+}
+
+.accordion-faq .accordion-faq-item-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 20px 0;
+  color: var(--heading-color);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  cursor: pointer;
+  list-style: none;
+}
+
+.accordion-faq .accordion-faq-item-label::-webkit-details-marker {
+  display: none;
+}
+
+.accordion-faq .accordion-faq-item-label:hover {
+  color: var(--link-color);
+}
+
+.accordion-faq .accordion-faq-item-label:focus-visible {
+  outline: 2px solid var(--link-color);
+  outline-offset: 2px;
+}
+
+/* plus: two 10px bars; the vertical one hides when open, leaving a minus */
+.accordion-faq .accordion-faq-item-icon {
+  position: relative;
+  flex: 0 0 auto;
+  width: 10px;
+  height: 10px;
+}
+
+.accordion-faq .accordion-faq-item-icon::before,
+.accordion-faq .accordion-faq-item-icon::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 10px;
+  height: 1.5px;
+  background: var(--link-color);
+  transform: translateY(-50%);
+  transition: transform 0.2s ease-in-out;
+}
+
+.accordion-faq .accordion-faq-item-icon::after {
+  transform: translateY(-50%) rotate(90deg);
+}
+
+.accordion-faq .accordion-faq-item[open] .accordion-faq-item-icon::after {
+  transform: translateY(-50%) rotate(0);
+}
+
+.accordion-faq .accordion-faq-item-body {
+  max-width: 870px;
+  margin-top: -12px;
+  padding: 0 0 22px;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.accordion-faq .accordion-faq-item-body p {
+  margin: 0;
+}
+
+.accordion-faq .accordion-faq-item-body p + p,
+.accordion-faq .accordion-faq-item-body ul {
+  margin-top: 12px;
+}

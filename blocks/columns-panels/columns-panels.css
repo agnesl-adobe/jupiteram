@@ -1,0 +1,126 @@
+/* Columns Panels: bordered white panels side by side */
+.columns-panels > div {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.columns-panels .columns-panels-panel {
+  border: 1px solid #dde2e8;
+  border-radius: 12px;
+  padding: 28px 24px;
+  background: var(--background-color);
+  color: var(--text-color);
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.columns-panels .columns-panels-panel > :first-child {
+  margin-top: 0;
+}
+
+.columns-panels .columns-panels-panel > :last-child {
+  margin-bottom: 0;
+}
+
+.columns-panels .columns-panels-eyebrow {
+  margin: 0 0 14px;
+  color: var(--link-color);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+
+.columns-panels .columns-panels-panel h2,
+.columns-panels .columns-panels-panel h3 {
+  margin: 0 0 20px;
+  color: var(--heading-color);
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.columns-panels .columns-panels-panel p {
+  margin: 0 0 16px;
+}
+
+/* bullet list: light-blue dots */
+.columns-panels .columns-panels-panel ul:not(.columns-panels-links) {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 0;
+  padding-left: 20px;
+  list-style-image: url("/icons/bullet.svg");
+}
+
+.columns-panels .columns-panels-panel ul:not(.columns-panels-links) li {
+  padding-left: 4px;
+}
+
+.columns-panels .columns-panels-panel strong {
+  color: var(--heading-color);
+  font-weight: 600;
+}
+
+/* link list: full-width rows split by thin rules, arrow on the right */
+.columns-panels .columns-panels-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.columns-panels .columns-panels-panel .columns-panels-links li + li {
+  border-top: 1px solid #e3e7ec;
+}
+
+.columns-panels .columns-panels-links a:any-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 16px 0;
+  color: var(--heading-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.columns-panels .columns-panels-links a:hover {
+  color: var(--link-color);
+}
+
+.columns-panels .columns-panels-links li:first-child a:any-link {
+  padding-top: 4px;
+}
+
+.columns-panels .columns-panels-arrow {
+  flex: 0 0 auto;
+  width: 14px;
+  height: 14px;
+  background: url("/icons/arrow-right.svg") no-repeat center / contain;
+  transition: transform 0.2s ease-in-out;
+}
+
+.columns-panels .columns-panels-links a:hover .columns-panels-arrow {
+  transform: translateX(3px);
+}
+
+@media (width >= 900px) {
+  .columns-panels > div {
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+    gap: 30px;
+  }
+
+  /* two panels: the first (summary) is wider than the second (links) */
+  .columns-panels.columns-panels-2-cols > div {
+    grid-template-columns: 1.55fr 1fr;
+  }
+
+  .columns-panels .columns-panels-panel {
+    padding: 30px;
+  }
+}

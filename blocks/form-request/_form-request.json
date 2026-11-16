@@ -1,0 +1,89 @@
+{
+  "definitions": [
+    {
+      "title": "Form Request",
+      "id": "form-request",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Form Request",
+              "filter": "form-request"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Form Field",
+      "id": "form-request-field",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Form Field",
+              "model": "form-request-field"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "form-request-field",
+      "fields": [
+        {
+          "component": "richtext",
+          "name": "label",
+          "label": "Label (or heading / message / button text)",
+          "valueType": "string"
+        },
+        {
+          "component": "select",
+          "name": "type",
+          "label": "Type",
+          "valueType": "string",
+          "value": "text",
+          "options": [
+            { "name": "Heading", "value": "heading" },
+            { "name": "Text", "value": "text" },
+            { "name": "Email", "value": "email" },
+            { "name": "Phone", "value": "tel" },
+            { "name": "Long text", "value": "textarea" },
+            { "name": "Dropdown", "value": "select" },
+            { "name": "Checkbox", "value": "checkbox" },
+            { "name": "Submit button", "value": "submit" },
+            { "name": "Thank-you message", "value": "message" }
+          ]
+        },
+        {
+          "component": "text",
+          "name": "placeholder",
+          "label": "Placeholder (dropdown: comma-separated options)",
+          "valueType": "string"
+        },
+        {
+          "component": "multiselect",
+          "name": "settings",
+          "label": "Settings",
+          "valueType": "string",
+          "options": [
+            { "name": "Required", "value": "required" },
+            { "name": "Half width", "value": "half" }
+          ]
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "form-request",
+      "components": [
+        "form-request-field"
+      ]
+    }
+  ]
+}

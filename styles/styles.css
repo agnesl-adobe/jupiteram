@@ -334,3 +334,86 @@ main .section.dark h5,
 main .section.dark h6 {
   color: #fff;
 }
+
+/* compact: tighter vertical rhythm between sections, smaller section headings */
+main .section.compact {
+  padding-block: 32px;
+}
+
+main .section.compact > .default-content-wrapper h2,
+main .section.split > .default-content-wrapper h2 {
+  margin: 0 0 24px;
+  font-size: 34px;
+  line-height: 1.2;
+}
+
+main .section.split > .default-content-wrapper > p:not(.eyebrow, .icon-link) {
+  font-size: 16px;
+  line-height: 26px;
+}
+
+/* eyebrow: short uppercase kicker above a heading (marked by decorateEyebrows) */
+main .eyebrow {
+  margin: 0 0 12px;
+  color: var(--link-color);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+
+/* icon link rows, e.g. "[icon] Due diligence pack (PDF)" */
+main .default-content-wrapper p.icon-link {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 12px 0 0;
+}
+
+main .default-content-wrapper p.icon-link .icon {
+  flex: 0 0 auto;
+  width: 18px;
+  height: 18px;
+}
+
+main .default-content-wrapper p.icon-link a:any-link {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 22px;
+  text-decoration: none;
+}
+
+main .default-content-wrapper p.icon-link a:hover {
+  text-decoration: underline;
+}
+
+@media (width >= 900px) {
+  /* split: default content on the left, the block beside it on the right */
+  main .section.split {
+    display: grid;
+    grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+    gap: 0 80px;
+    align-items: start;
+    padding-block: 60px 64px;
+    padding-inline: max(var(--section-padding-inline), calc((100% - var(--content-max-width)) / 2));
+  }
+
+  main .section.split > div {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  main .section.split > div + div {
+    margin-top: 0;
+  }
+
+  main .section.split > .default-content-wrapper {
+    padding-top: 6px;
+  }
+
+  main .section.split > .default-content-wrapper > p:not(.eyebrow, .icon-link) {
+    max-width: 520px;
+  }
+}

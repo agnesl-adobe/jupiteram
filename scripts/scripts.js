@@ -337,6 +337,30 @@ export function decorateButtons(main) {
 }
 
 /**
+ * Marks short uppercase kickers and icon-link rows in default content:
+ * - a short first paragraph (plain text) directly before a heading becomes an eyebrow
+ * - a paragraph that is just an icon followed by a link becomes an icon link row
+ * @param {Element} main The container element
+ */
+function decorateDefaultContentExtras(main) {
+  main.querySelectorAll('.default-content-wrapper > p').forEach((p) => {
+    const text = p.textContent.trim();
+    const next = p.nextElementSibling;
+    if (!p.children.length && text && text.length <= 60
+      && next && /^H[1-3]$/.test(next.tagName)
+      && (!p.previousElementSibling || p.previousElementSibling.tagName !== 'P')) {
+      p.classList.add('eyebrow');
+      return;
+    }
+    const [icon, link] = p.children;
+    if (p.children.length === 2 && icon.classList.contains('icon') && link.tagName === 'A'
+      && p.textContent.trim() === link.textContent.trim()) {
+      p.classList.add('icon-link');
+    }
+  });
+}
+
+/**
  * Decorates the main element.
  * @param {Element} main The main element
  */
@@ -345,6 +369,7 @@ export function decorateMain(main) {
   decorateIcons(main);
   buildAutoBlocks(main);
   decorateSections(main);
+  decorateDefaultContentExtras(main);
   decorateBlocks(main);
   decorateButtons(main);
 }

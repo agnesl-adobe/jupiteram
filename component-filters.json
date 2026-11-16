@@ -24,13 +24,23 @@
       "cards-insights",
       "hero-offset-photo",
       "cards-circular",
-      "accordion-bordered"
+      "accordion-bordered",
+      "columns-panels",
+      "table",
+      "form-request",
+      "accordion-faq"
     ]
   },
   {
     "id": "accordion-bordered",
     "components": [
       "accordion-bordered-item"
+    ]
+  },
+  {
+    "id": "accordion-faq",
+    "components": [
+      "accordion-faq-item"
     ]
   },
   {
@@ -70,6 +80,12 @@
     ]
   },
   {
+    "id": "columns-panels",
+    "components": [
+      "column"
+    ]
+  },
+  {
     "id": "columns-teaser",
     "components": [
       "column"
@@ -88,6 +104,18 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "form-request",
+    "components": [
+      "form-request-field"
+    ]
+  },
+  {
+    "id": "table",
+    "components": [
+      "table-row"
     ]
   }
 ]

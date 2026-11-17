@@ -1,16 +1,15 @@
+import { fetchPageFragment } from '../../scripts/scripts.js';
+
 // media query match that indicates desktop width
 const isDesktop = window.matchMedia('(width >= 900px)');
 
 /**
- * Fetches the nav fragment. Metadata-independent dual fetch:
- * /content/nav.plain.html (local preview) first, then /nav.plain.html (DA/EDS).
+ * Fetches the nav fragment: the page's `nav` metadata (per page or by URL in the
+ * bulk metadata sheet) or the default /nav, from the local preview or Edge Delivery.
  * @returns {Promise<{html: string, base: string}|null>}
  */
-async function fetchNav() {
-  let resp = await fetch('/content/nav.plain.html');
-  if (!resp.ok) resp = await fetch('/nav.plain.html');
-  if (!resp.ok) return null;
-  return { html: await resp.text(), base: resp.url };
+function fetchNav() {
+  return fetchPageFragment('nav', '/nav');
 }
 
 /**

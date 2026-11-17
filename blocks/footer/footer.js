@@ -1,13 +1,12 @@
+import { fetchPageFragment } from '../../scripts/scripts.js';
+
 /**
- * Fetches the footer fragment. Metadata-independent dual fetch:
- * /content/footer.plain.html (local preview) first, then /footer.plain.html (DA/EDS).
+ * Fetches the footer fragment: the page's `footer` metadata (per page or by URL in the
+ * bulk metadata sheet) or the default /footer, from the local preview or Edge Delivery.
  * @returns {Promise<{html: string, base: string}|null>}
  */
-async function fetchFooter() {
-  let resp = await fetch('/content/footer.plain.html');
-  if (!resp.ok) resp = await fetch('/footer.plain.html');
-  if (!resp.ok) return null;
-  return { html: await resp.text(), base: resp.url };
+function fetchFooter() {
+  return fetchPageFragment('footer', '/footer');
 }
 
 /**

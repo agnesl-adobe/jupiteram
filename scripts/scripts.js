@@ -9,7 +9,70 @@ import {
   loadSection,
   loadSections,
   loadCSS,
+  getMetadata,
 } from './aem.js';
+
+// --- Fragment (nav/footer) lookup ---
+
+// Local preview serves pages under /content and doesn't apply bulk metadata.
+const LOCAL_PREFIX = '/content';
+const isLocalPreview = () => window.location.pathname.startsWith(`${LOCAL_PREFIX}/`);
+let localMetadataRows;
+
+// Bulk metadata URL patterns: ** matches anything, * matches within one path segment.
+function matchesUrlPattern(pattern, path) {
+  const source = pattern.split('**')
+    .map((part) => part.replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '[^/]*'))
+    .join('.*');
+  return new RegExp(`^${source}$`).test(path);
+}
+
+// Local preview only: reads the bulk metadata sheet the way Edge Delivery applies it.
+async function getLocalBulkMetadata(name) {
+  if (!localMetadataRows) {
+    localMetadataRows = fetch(`${LOCAL_PREFIX}/metadata.json`)
+      .then((resp) => (resp.ok ? resp.json() : { data: [] }))
+      .then((json) => json.data || [])
+      .catch(() => []);
+  }
+  const path = window.location.pathname.slice(LOCAL_PREFIX.length);
+  const rows = (await localMetadataRows)
+    .filter((row) => row.URL && matchesUrlPattern(row.URL, path));
+  // later rows win, as in Edge Delivery
+  const row = rows.reverse().find((r) => r[name]);
+  return row ? row[name] : '';
+}
+
+/**
+ * Loads a page fragment such as the nav or footer. The path comes from the page's
+ * `nav` / `footer` metadata (set per page or by URL in the bulk metadata sheet),
+ * falling back to the default fragment when it's missing or can't be loaded.
+ * @param {string} name metadata name, e.g. 'nav'
+ * @param {string} fallback default fragment path, e.g. '/nav'
+ * @returns {Promise<{html: string, base: string}|null>}
+ */
+export async function fetchPageFragment(name, fallback) {
+  let configured = getMetadata(name);
+  if (!configured && isLocalPreview()) configured = await getLocalBulkMetadata(name);
+  const paths = [];
+  if (configured) {
+    const { pathname } = new URL(configured, window.location.href);
+    paths.push(pathname.replace(/(\.plain)?\.html$/, ''));
+  }
+  if (!paths.includes(fallback)) paths.push(fallback);
+  // eslint-disable-next-line no-restricted-syntax
+  for (const path of paths) {
+    const urls = [`${LOCAL_PREFIX}${path}.plain.html`, `${path}.plain.html`];
+    // eslint-disable-next-line no-restricted-syntax
+    for (const url of urls) {
+      // eslint-disable-next-line no-await-in-loop
+      const resp = await fetch(url);
+      // eslint-disable-next-line no-await-in-loop
+      if (resp.ok) return { html: await resp.text(), base: resp.url };
+    }
+  }
+  return null;
+}
 
 // --- BEGIN DM/Scene7 auto-block (excat-generated) ---
 

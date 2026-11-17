@@ -37,7 +37,11 @@ async function getLocalBulkMetadata(name) {
   }
   const path = window.location.pathname.slice(LOCAL_PREFIX.length);
   const rows = (await localMetadataRows)
-    .filter((row) => row.URL && matchesUrlPattern(row.URL, path));
+    // the AEM Metadata template names the column "url"; spreadsheets often use "URL"
+    .filter((row) => {
+      const pattern = row.URL || row.url;
+      return pattern && matchesUrlPattern(pattern, path);
+    });
   // later rows win, as in Edge Delivery
   const row = rows.reverse().find((r) => r[name]);
   return row ? row[name] : '';

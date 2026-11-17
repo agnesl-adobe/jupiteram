@@ -35,10 +35,18 @@ function normalizeFragment(root) {
  * Uses a fallback for broken or failing images (about:error placeholders, failed loads).
  */
 function useFallbackImage(img, fallback) {
-  if (isBrokenSrc(img.getAttribute('src'))) img.src = fallback;
-  img.addEventListener('error', () => {
-    if (!img.src.endsWith(fallback)) img.src = fallback;
-  }, { once: true });
+  // a <picture>'s <source> entries win over img.src, so drop them when falling back
+  const swap = () => {
+    img.closest('picture')?.querySelectorAll('source').forEach((source) => source.remove());
+    img.removeAttribute('srcset');
+    img.src = fallback;
+  };
+  if (isBrokenSrc(img.getAttribute('src'))) {
+    swap();
+    return;
+  }
+  if (img.complete && img.naturalWidth === 0) swap();
+  else img.addEventListener('error', swap, { once: true });
 }
 
 /**

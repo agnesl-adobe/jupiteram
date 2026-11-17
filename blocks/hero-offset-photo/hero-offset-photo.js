@@ -52,6 +52,22 @@ function decorateHeadingDot(heading) {
   }
 }
 
+// Aside hero: links on their own line are always calls to action, even without
+// authored bold/italic. The first one is the solid button, the others are outlined.
+function promoteLinkParagraphs(content) {
+  let index = 0;
+  [...content.querySelectorAll(':scope > p')].forEach((p) => {
+    const a = p.querySelector('a[href]');
+    if (!a || p.textContent.trim() !== a.textContent.trim() || p.querySelector('img')) return;
+    if (!p.classList.contains('button-wrapper')) {
+      p.className = 'button-wrapper';
+      a.className = `button ${index === 0 ? 'primary' : 'secondary'}`;
+      if (a.parentElement !== p) p.replaceChildren(a);
+    }
+    index += 1;
+  });
+}
+
 // Consecutive button paragraphs sit side by side in one actions row.
 function groupButtons(content) {
   const buttons = [...content.querySelectorAll(':scope > p.button-wrapper')];
@@ -99,6 +115,7 @@ export default function decorate(block) {
   }
   const heading = content.querySelector('h1, h2');
   if (heading) decorateHeadingDot(heading);
+  if (block.classList.contains('aside')) promoteLinkParagraphs(content);
   groupButtons(content);
   content.prepend(buildBreadcrumb(heading));
 
